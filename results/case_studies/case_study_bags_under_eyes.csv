@@ -1,0 +1,1201 @@
+image_name,label,prompt,qwen_raw,internvl3_raw,y_true,qwen_parsed,internvl3_parsed,qwen_correct,internvl3_correct,qwen_uncertain,internvl3_uncertain,category
+14739.jpg,Yes,"Carefully examine the facial image.
+
+Question: Does this person have bags under the eyes?
+
+Answer with only one word: Yes, No, or Uncertain.
+If the image does not provide enough visual evidence to determine this attribute, answer Uncertain.",Yes,Yes.,yes,yes,yes,True,True,False,False,both_correct
+10116.jpg,Yes,"Carefully examine the facial image.
+
+Question: Does this person have bags under the eyes?
+
+Answer with only one word: Yes, No, or Uncertain.
+If the image does not provide enough visual evidence to determine this attribute, answer Uncertain.",Yes,Yes.,yes,yes,yes,True,True,False,False,both_correct
+13624.jpg,Yes,"Carefully examine the facial image.
+
+Question: Does this person have bags under the eyes?
+
+Answer with only one word: Yes, No, or Uncertain.
+If the image does not provide enough visual evidence to determine this attribute, answer Uncertain.",No,Yes.,yes,no,yes,False,True,False,False,disagreement
+12488.jpg,Yes,"Carefully examine the facial image.
+
+Question: Does this person have bags under the eyes?
+
+Answer with only one word: Yes, No, or Uncertain.
+If the image does not provide enough visual evidence to determine this attribute, answer Uncertain.",Yes,Yes.,yes,yes,yes,True,True,False,False,both_correct
+13020.jpg,Yes,"Carefully examine the facial image.
+
+Question: Does this person have bags under the eyes?
+
+Answer with only one word: Yes, No, or Uncertain.
+If the image does not provide enough visual evidence to determine this attribute, answer Uncertain.",Yes,Yes.,yes,yes,yes,True,True,False,False,both_correct
+5877.jpg,Yes,"Carefully examine the facial image.
+
+Question: Does this person have bags under the eyes?
+
+Answer with only one word: Yes, No, or Uncertain.
+If the image does not provide enough visual evidence to determine this attribute, answer Uncertain.",No,Yes,yes,no,yes,False,True,False,False,disagreement
+20306.jpg,Yes,"Carefully examine the facial image.
+
+Question: Does this person have bags under the eyes?
+
+Answer with only one word: Yes, No, or Uncertain.
+If the image does not provide enough visual evidence to determine this attribute, answer Uncertain.",No,No.,yes,no,no,False,False,False,False,both_wrong
+20302.jpg,Yes,"Carefully examine the facial image.
+
+Question: Does this person have bags under the eyes?
+
+Answer with only one word: Yes, No, or Uncertain.
+If the image does not provide enough visual evidence to determine this attribute, answer Uncertain.",No,Yes.,yes,no,yes,False,True,False,False,disagreement
+3169.jpg,Yes,"Carefully examine the facial image.
+
+Question: Does this person have bags under the eyes?
+
+Answer with only one word: Yes, No, or Uncertain.
+If the image does not provide enough visual evidence to determine this attribute, answer Uncertain.",No,Uncertain.,yes,no,uncertain,False,False,False,True,either_uncertain
+16053.jpg,Yes,"Carefully examine the facial image.
+
+Question: Does this person have bags under the eyes?
+
+Answer with only one word: Yes, No, or Uncertain.
+If the image does not provide enough visual evidence to determine this attribute, answer Uncertain.",No,Yes.,yes,no,yes,False,True,False,False,disagreement
+6621.jpg,Yes,"Carefully examine the facial image.
+
+Question: Does this person have bags under the eyes?
+
+Answer with only one word: Yes, No, or Uncertain.
+If the image does not provide enough visual evidence to determine this attribute, answer Uncertain.",No,No.,yes,no,no,False,False,False,False,both_wrong
+20154.jpg,Yes,"Carefully examine the facial image.
+
+Question: Does this person have bags under the eyes?
+
+Answer with only one word: Yes, No, or Uncertain.
+If the image does not provide enough visual evidence to determine this attribute, answer Uncertain.",No,No.,yes,no,no,False,False,False,False,both_wrong
+28612.jpg,Yes,"Carefully examine the facial image.
+
+Question: Does this person have bags under the eyes?
+
+Answer with only one word: Yes, No, or Uncertain.
+If the image does not provide enough visual evidence to determine this attribute, answer Uncertain.",No,Yes.,yes,no,yes,False,True,False,False,disagreement
+23753.jpg,Yes,"Carefully examine the facial image.
+
+Question: Does this person have bags under the eyes?
+
+Answer with only one word: Yes, No, or Uncertain.
+If the image does not provide enough visual evidence to determine this attribute, answer Uncertain.",No,No.,yes,no,no,False,False,False,False,both_wrong
+13206.jpg,Yes,"Carefully examine the facial image.
+
+Question: Does this person have bags under the eyes?
+
+Answer with only one word: Yes, No, or Uncertain.
+If the image does not provide enough visual evidence to determine this attribute, answer Uncertain.",Yes,Yes.,yes,yes,yes,True,True,False,False,both_correct
+9224.jpg,Yes,"Carefully examine the facial image.
+
+Question: Does this person have bags under the eyes?
+
+Answer with only one word: Yes, No, or Uncertain.
+If the image does not provide enough visual evidence to determine this attribute, answer Uncertain.",No,Yes.,yes,no,yes,False,True,False,False,disagreement
+1850.jpg,Yes,"Carefully examine the facial image.
+
+Question: Does this person have bags under the eyes?
+
+Answer with only one word: Yes, No, or Uncertain.
+If the image does not provide enough visual evidence to determine this attribute, answer Uncertain.",No,No.,yes,no,no,False,False,False,False,both_wrong
+6327.jpg,Yes,"Carefully examine the facial image.
+
+Question: Does this person have bags under the eyes?
+
+Answer with only one word: Yes, No, or Uncertain.
+If the image does not provide enough visual evidence to determine this attribute, answer Uncertain.",No,No.,yes,no,no,False,False,False,False,both_wrong
+3454.jpg,Yes,"Carefully examine the facial image.
+
+Question: Does this person have bags under the eyes?
+
+Answer with only one word: Yes, No, or Uncertain.
+If the image does not provide enough visual evidence to determine this attribute, answer Uncertain.",No,Yes.,yes,no,yes,False,True,False,False,disagreement
+10779.jpg,Yes,"Carefully examine the facial image.
+
+Question: Does this person have bags under the eyes?
+
+Answer with only one word: Yes, No, or Uncertain.
+If the image does not provide enough visual evidence to determine this attribute, answer Uncertain.",No,Yes.,yes,no,yes,False,True,False,False,disagreement
+25519.jpg,Yes,"Carefully examine the facial image.
+
+Question: Does this person have bags under the eyes?
+
+Answer with only one word: Yes, No, or Uncertain.
+If the image does not provide enough visual evidence to determine this attribute, answer Uncertain.",No,Uncertain.,yes,no,uncertain,False,False,False,True,either_uncertain
+29711.jpg,Yes,"Carefully examine the facial image.
+
+Question: Does this person have bags under the eyes?
+
+Answer with only one word: Yes, No, or Uncertain.
+If the image does not provide enough visual evidence to determine this attribute, answer Uncertain.",No,Yes.,yes,no,yes,False,True,False,False,disagreement
+22417.jpg,Yes,"Carefully examine the facial image.
+
+Question: Does this person have bags under the eyes?
+
+Answer with only one word: Yes, No, or Uncertain.
+If the image does not provide enough visual evidence to determine this attribute, answer Uncertain.",No,No.,yes,no,no,False,False,False,False,both_wrong
+9435.jpg,Yes,"Carefully examine the facial image.
+
+Question: Does this person have bags under the eyes?
+
+Answer with only one word: Yes, No, or Uncertain.
+If the image does not provide enough visual evidence to determine this attribute, answer Uncertain.",No,No.,yes,no,no,False,False,False,False,both_wrong
+21477.jpg,Yes,"Carefully examine the facial image.
+
+Question: Does this person have bags under the eyes?
+
+Answer with only one word: Yes, No, or Uncertain.
+If the image does not provide enough visual evidence to determine this attribute, answer Uncertain.",No,Yes.,yes,no,yes,False,True,False,False,disagreement
+16897.jpg,Yes,"Carefully examine the facial image.
+
+Question: Does this person have bags under the eyes?
+
+Answer with only one word: Yes, No, or Uncertain.
+If the image does not provide enough visual evidence to determine this attribute, answer Uncertain.",No,No.,yes,no,no,False,False,False,False,both_wrong
+5756.jpg,Yes,"Carefully examine the facial image.
+
+Question: Does this person have bags under the eyes?
+
+Answer with only one word: Yes, No, or Uncertain.
+If the image does not provide enough visual evidence to determine this attribute, answer Uncertain.",No,No.,yes,no,no,False,False,False,False,both_wrong
+19963.jpg,Yes,"Carefully examine the facial image.
+
+Question: Does this person have bags under the eyes?
+
+Answer with only one word: Yes, No, or Uncertain.
+If the image does not provide enough visual evidence to determine this attribute, answer Uncertain.",No,Uncertain.,yes,no,uncertain,False,False,False,True,either_uncertain
+8700.jpg,Yes,"Carefully examine the facial image.
+
+Question: Does this person have bags under the eyes?
+
+Answer with only one word: Yes, No, or Uncertain.
+If the image does not provide enough visual evidence to determine this attribute, answer Uncertain.",No,Yes.,yes,no,yes,False,True,False,False,disagreement
+5361.jpg,Yes,"Carefully examine the facial image.
+
+Question: Does this person have bags under the eyes?
+
+Answer with only one word: Yes, No, or Uncertain.
+If the image does not provide enough visual evidence to determine this attribute, answer Uncertain.",No,No.,yes,no,no,False,False,False,False,both_wrong
+14896.jpg,Yes,"Carefully examine the facial image.
+
+Question: Does this person have bags under the eyes?
+
+Answer with only one word: Yes, No, or Uncertain.
+If the image does not provide enough visual evidence to determine this attribute, answer Uncertain.",No,Yes.,yes,no,yes,False,True,False,False,disagreement
+15129.jpg,Yes,"Carefully examine the facial image.
+
+Question: Does this person have bags under the eyes?
+
+Answer with only one word: Yes, No, or Uncertain.
+If the image does not provide enough visual evidence to determine this attribute, answer Uncertain.",No,Uncertain.,yes,no,uncertain,False,False,False,True,either_uncertain
+14807.jpg,Yes,"Carefully examine the facial image.
+
+Question: Does this person have bags under the eyes?
+
+Answer with only one word: Yes, No, or Uncertain.
+If the image does not provide enough visual evidence to determine this attribute, answer Uncertain.",No,Uncertain.,yes,no,uncertain,False,False,False,True,either_uncertain
+14846.jpg,Yes,"Carefully examine the facial image.
+
+Question: Does this person have bags under the eyes?
+
+Answer with only one word: Yes, No, or Uncertain.
+If the image does not provide enough visual evidence to determine this attribute, answer Uncertain.",No,Uncertain.,yes,no,uncertain,False,False,False,True,either_uncertain
+29675.jpg,Yes,"Carefully examine the facial image.
+
+Question: Does this person have bags under the eyes?
+
+Answer with only one word: Yes, No, or Uncertain.
+If the image does not provide enough visual evidence to determine this attribute, answer Uncertain.",No,Yes.,yes,no,yes,False,True,False,False,disagreement
+14137.jpg,Yes,"Carefully examine the facial image.
+
+Question: Does this person have bags under the eyes?
+
+Answer with only one word: Yes, No, or Uncertain.
+If the image does not provide enough visual evidence to determine this attribute, answer Uncertain.",No,Yes.,yes,no,yes,False,True,False,False,disagreement
+14083.jpg,Yes,"Carefully examine the facial image.
+
+Question: Does this person have bags under the eyes?
+
+Answer with only one word: Yes, No, or Uncertain.
+If the image does not provide enough visual evidence to determine this attribute, answer Uncertain.",No,Uncertain.,yes,no,uncertain,False,False,False,True,either_uncertain
+16466.jpg,Yes,"Carefully examine the facial image.
+
+Question: Does this person have bags under the eyes?
+
+Answer with only one word: Yes, No, or Uncertain.
+If the image does not provide enough visual evidence to determine this attribute, answer Uncertain.",No,Uncertain.,yes,no,uncertain,False,False,False,True,either_uncertain
+10592.jpg,Yes,"Carefully examine the facial image.
+
+Question: Does this person have bags under the eyes?
+
+Answer with only one word: Yes, No, or Uncertain.
+If the image does not provide enough visual evidence to determine this attribute, answer Uncertain.",No,No.,yes,no,no,False,False,False,False,both_wrong
+5052.jpg,Yes,"Carefully examine the facial image.
+
+Question: Does this person have bags under the eyes?
+
+Answer with only one word: Yes, No, or Uncertain.
+If the image does not provide enough visual evidence to determine this attribute, answer Uncertain.",No,Yes.,yes,no,yes,False,True,False,False,disagreement
+14004.jpg,Yes,"Carefully examine the facial image.
+
+Question: Does this person have bags under the eyes?
+
+Answer with only one word: Yes, No, or Uncertain.
+If the image does not provide enough visual evidence to determine this attribute, answer Uncertain.",Yes,Uncertain.,yes,yes,uncertain,True,False,False,True,either_uncertain
+3651.jpg,Yes,"Carefully examine the facial image.
+
+Question: Does this person have bags under the eyes?
+
+Answer with only one word: Yes, No, or Uncertain.
+If the image does not provide enough visual evidence to determine this attribute, answer Uncertain.",No,No.,yes,no,no,False,False,False,False,both_wrong
+20917.jpg,Yes,"Carefully examine the facial image.
+
+Question: Does this person have bags under the eyes?
+
+Answer with only one word: Yes, No, or Uncertain.
+If the image does not provide enough visual evidence to determine this attribute, answer Uncertain.",No,Uncertain.,yes,no,uncertain,False,False,False,True,either_uncertain
+15403.jpg,Yes,"Carefully examine the facial image.
+
+Question: Does this person have bags under the eyes?
+
+Answer with only one word: Yes, No, or Uncertain.
+If the image does not provide enough visual evidence to determine this attribute, answer Uncertain.",No,Uncertain.,yes,no,uncertain,False,False,False,True,either_uncertain
+24359.jpg,Yes,"Carefully examine the facial image.
+
+Question: Does this person have bags under the eyes?
+
+Answer with only one word: Yes, No, or Uncertain.
+If the image does not provide enough visual evidence to determine this attribute, answer Uncertain.",Yes,Yes.,yes,yes,yes,True,True,False,False,both_correct
+19179.jpg,Yes,"Carefully examine the facial image.
+
+Question: Does this person have bags under the eyes?
+
+Answer with only one word: Yes, No, or Uncertain.
+If the image does not provide enough visual evidence to determine this attribute, answer Uncertain.",No,Uncertain.,yes,no,uncertain,False,False,False,True,either_uncertain
+14570.jpg,Yes,"Carefully examine the facial image.
+
+Question: Does this person have bags under the eyes?
+
+Answer with only one word: Yes, No, or Uncertain.
+If the image does not provide enough visual evidence to determine this attribute, answer Uncertain.",No,No.,yes,no,no,False,False,False,False,both_wrong
+4637.jpg,Yes,"Carefully examine the facial image.
+
+Question: Does this person have bags under the eyes?
+
+Answer with only one word: Yes, No, or Uncertain.
+If the image does not provide enough visual evidence to determine this attribute, answer Uncertain.",No,Yes.,yes,no,yes,False,True,False,False,disagreement
+15628.jpg,Yes,"Carefully examine the facial image.
+
+Question: Does this person have bags under the eyes?
+
+Answer with only one word: Yes, No, or Uncertain.
+If the image does not provide enough visual evidence to determine this attribute, answer Uncertain.",No,Yes.,yes,no,yes,False,True,False,False,disagreement
+11054.jpg,Yes,"Carefully examine the facial image.
+
+Question: Does this person have bags under the eyes?
+
+Answer with only one word: Yes, No, or Uncertain.
+If the image does not provide enough visual evidence to determine this attribute, answer Uncertain.",No,Yes.,yes,no,yes,False,True,False,False,disagreement
+17649.jpg,No,"Carefully examine the facial image.
+
+Question: Does this person have bags under the eyes?
+
+Answer with only one word: Yes, No, or Uncertain.
+If the image does not provide enough visual evidence to determine this attribute, answer Uncertain.",No,No.,no,no,no,True,True,False,False,both_correct
+21489.jpg,No,"Carefully examine the facial image.
+
+Question: Does this person have bags under the eyes?
+
+Answer with only one word: Yes, No, or Uncertain.
+If the image does not provide enough visual evidence to determine this attribute, answer Uncertain.",No,Yes.,no,no,yes,True,False,False,False,disagreement
+18776.jpg,No,"Carefully examine the facial image.
+
+Question: Does this person have bags under the eyes?
+
+Answer with only one word: Yes, No, or Uncertain.
+If the image does not provide enough visual evidence to determine this attribute, answer Uncertain.",No,Uncertain.,no,no,uncertain,True,False,False,True,either_uncertain
+10752.jpg,No,"Carefully examine the facial image.
+
+Question: Does this person have bags under the eyes?
+
+Answer with only one word: Yes, No, or Uncertain.
+If the image does not provide enough visual evidence to determine this attribute, answer Uncertain.",No,No.,no,no,no,True,True,False,False,both_correct
+12321.jpg,No,"Carefully examine the facial image.
+
+Question: Does this person have bags under the eyes?
+
+Answer with only one word: Yes, No, or Uncertain.
+If the image does not provide enough visual evidence to determine this attribute, answer Uncertain.",No,Uncertain.,no,no,uncertain,True,False,False,True,either_uncertain
+29068.jpg,No,"Carefully examine the facial image.
+
+Question: Does this person have bags under the eyes?
+
+Answer with only one word: Yes, No, or Uncertain.
+If the image does not provide enough visual evidence to determine this attribute, answer Uncertain.",No,No.,no,no,no,True,True,False,False,both_correct
+22354.jpg,No,"Carefully examine the facial image.
+
+Question: Does this person have bags under the eyes?
+
+Answer with only one word: Yes, No, or Uncertain.
+If the image does not provide enough visual evidence to determine this attribute, answer Uncertain.",No,No.,no,no,no,True,True,False,False,both_correct
+7501.jpg,No,"Carefully examine the facial image.
+
+Question: Does this person have bags under the eyes?
+
+Answer with only one word: Yes, No, or Uncertain.
+If the image does not provide enough visual evidence to determine this attribute, answer Uncertain.",No,Uncertain.,no,no,uncertain,True,False,False,True,either_uncertain
+27831.jpg,No,"Carefully examine the facial image.
+
+Question: Does this person have bags under the eyes?
+
+Answer with only one word: Yes, No, or Uncertain.
+If the image does not provide enough visual evidence to determine this attribute, answer Uncertain.",No,No.,no,no,no,True,True,False,False,both_correct
+2960.jpg,No,"Carefully examine the facial image.
+
+Question: Does this person have bags under the eyes?
+
+Answer with only one word: Yes, No, or Uncertain.
+If the image does not provide enough visual evidence to determine this attribute, answer Uncertain.",No,No.,no,no,no,True,True,False,False,both_correct
+2508.jpg,No,"Carefully examine the facial image.
+
+Question: Does this person have bags under the eyes?
+
+Answer with only one word: Yes, No, or Uncertain.
+If the image does not provide enough visual evidence to determine this attribute, answer Uncertain.",No,No.,no,no,no,True,True,False,False,both_correct
+28924.jpg,No,"Carefully examine the facial image.
+
+Question: Does this person have bags under the eyes?
+
+Answer with only one word: Yes, No, or Uncertain.
+If the image does not provide enough visual evidence to determine this attribute, answer Uncertain.",No,No.,no,no,no,True,True,False,False,both_correct
+8230.jpg,No,"Carefully examine the facial image.
+
+Question: Does this person have bags under the eyes?
+
+Answer with only one word: Yes, No, or Uncertain.
+If the image does not provide enough visual evidence to determine this attribute, answer Uncertain.",Uncertain,Uncertain.,no,uncertain,uncertain,False,False,True,True,both_uncertain
+5241.jpg,No,"Carefully examine the facial image.
+
+Question: Does this person have bags under the eyes?
+
+Answer with only one word: Yes, No, or Uncertain.
+If the image does not provide enough visual evidence to determine this attribute, answer Uncertain.",No,No.,no,no,no,True,True,False,False,both_correct
+5845.jpg,No,"Carefully examine the facial image.
+
+Question: Does this person have bags under the eyes?
+
+Answer with only one word: Yes, No, or Uncertain.
+If the image does not provide enough visual evidence to determine this attribute, answer Uncertain.",No,No.,no,no,no,True,True,False,False,both_correct
+11803.jpg,No,"Carefully examine the facial image.
+
+Question: Does this person have bags under the eyes?
+
+Answer with only one word: Yes, No, or Uncertain.
+If the image does not provide enough visual evidence to determine this attribute, answer Uncertain.",No,No.,no,no,no,True,True,False,False,both_correct
+27469.jpg,No,"Carefully examine the facial image.
+
+Question: Does this person have bags under the eyes?
+
+Answer with only one word: Yes, No, or Uncertain.
+If the image does not provide enough visual evidence to determine this attribute, answer Uncertain.",No,No.,no,no,no,True,True,False,False,both_correct
+25428.jpg,No,"Carefully examine the facial image.
+
+Question: Does this person have bags under the eyes?
+
+Answer with only one word: Yes, No, or Uncertain.
+If the image does not provide enough visual evidence to determine this attribute, answer Uncertain.",No,No.,no,no,no,True,True,False,False,both_correct
+22214.jpg,No,"Carefully examine the facial image.
+
+Question: Does this person have bags under the eyes?
+
+Answer with only one word: Yes, No, or Uncertain.
+If the image does not provide enough visual evidence to determine this attribute, answer Uncertain.",No,No.,no,no,no,True,True,False,False,both_correct
+25145.jpg,No,"Carefully examine the facial image.
+
+Question: Does this person have bags under the eyes?
+
+Answer with only one word: Yes, No, or Uncertain.
+If the image does not provide enough visual evidence to determine this attribute, answer Uncertain.",No,Uncertain.,no,no,uncertain,True,False,False,True,either_uncertain
+698.jpg,No,"Carefully examine the facial image.
+
+Question: Does this person have bags under the eyes?
+
+Answer with only one word: Yes, No, or Uncertain.
+If the image does not provide enough visual evidence to determine this attribute, answer Uncertain.",No,No.,no,no,no,True,True,False,False,both_correct
+24062.jpg,No,"Carefully examine the facial image.
+
+Question: Does this person have bags under the eyes?
+
+Answer with only one word: Yes, No, or Uncertain.
+If the image does not provide enough visual evidence to determine this attribute, answer Uncertain.",No,Uncertain.,no,no,uncertain,True,False,False,True,either_uncertain
+13391.jpg,No,"Carefully examine the facial image.
+
+Question: Does this person have bags under the eyes?
+
+Answer with only one word: Yes, No, or Uncertain.
+If the image does not provide enough visual evidence to determine this attribute, answer Uncertain.",No,Uncertain.,no,no,uncertain,True,False,False,True,either_uncertain
+11806.jpg,No,"Carefully examine the facial image.
+
+Question: Does this person have bags under the eyes?
+
+Answer with only one word: Yes, No, or Uncertain.
+If the image does not provide enough visual evidence to determine this attribute, answer Uncertain.",No,Uncertain.,no,no,uncertain,True,False,False,True,either_uncertain
+3239.jpg,No,"Carefully examine the facial image.
+
+Question: Does this person have bags under the eyes?
+
+Answer with only one word: Yes, No, or Uncertain.
+If the image does not provide enough visual evidence to determine this attribute, answer Uncertain.",Yes,Uncertain.,no,yes,uncertain,False,False,False,True,either_uncertain
+952.jpg,No,"Carefully examine the facial image.
+
+Question: Does this person have bags under the eyes?
+
+Answer with only one word: Yes, No, or Uncertain.
+If the image does not provide enough visual evidence to determine this attribute, answer Uncertain.",No,No.,no,no,no,True,True,False,False,both_correct
+17903.jpg,No,"Carefully examine the facial image.
+
+Question: Does this person have bags under the eyes?
+
+Answer with only one word: Yes, No, or Uncertain.
+If the image does not provide enough visual evidence to determine this attribute, answer Uncertain.",Uncertain.,Uncertain.,no,uncertain,uncertain,False,False,True,True,both_uncertain
+15641.jpg,No,"Carefully examine the facial image.
+
+Question: Does this person have bags under the eyes?
+
+Answer with only one word: Yes, No, or Uncertain.
+If the image does not provide enough visual evidence to determine this attribute, answer Uncertain.",No,Uncertain.,no,no,uncertain,True,False,False,True,either_uncertain
+15375.jpg,No,"Carefully examine the facial image.
+
+Question: Does this person have bags under the eyes?
+
+Answer with only one word: Yes, No, or Uncertain.
+If the image does not provide enough visual evidence to determine this attribute, answer Uncertain.",No,No.,no,no,no,True,True,False,False,both_correct
+26343.jpg,No,"Carefully examine the facial image.
+
+Question: Does this person have bags under the eyes?
+
+Answer with only one word: Yes, No, or Uncertain.
+If the image does not provide enough visual evidence to determine this attribute, answer Uncertain.",No,Uncertain.,no,no,uncertain,True,False,False,True,either_uncertain
+18049.jpg,No,"Carefully examine the facial image.
+
+Question: Does this person have bags under the eyes?
+
+Answer with only one word: Yes, No, or Uncertain.
+If the image does not provide enough visual evidence to determine this attribute, answer Uncertain.",No,No.,no,no,no,True,True,False,False,both_correct
+19055.jpg,No,"Carefully examine the facial image.
+
+Question: Does this person have bags under the eyes?
+
+Answer with only one word: Yes, No, or Uncertain.
+If the image does not provide enough visual evidence to determine this attribute, answer Uncertain.",No,No.,no,no,no,True,True,False,False,both_correct
+13822.jpg,No,"Carefully examine the facial image.
+
+Question: Does this person have bags under the eyes?
+
+Answer with only one word: Yes, No, or Uncertain.
+If the image does not provide enough visual evidence to determine this attribute, answer Uncertain.",No,Uncertain.,no,no,uncertain,True,False,False,True,either_uncertain
+8686.jpg,No,"Carefully examine the facial image.
+
+Question: Does this person have bags under the eyes?
+
+Answer with only one word: Yes, No, or Uncertain.
+If the image does not provide enough visual evidence to determine this attribute, answer Uncertain.",No,No.,no,no,no,True,True,False,False,both_correct
+10971.jpg,No,"Carefully examine the facial image.
+
+Question: Does this person have bags under the eyes?
+
+Answer with only one word: Yes, No, or Uncertain.
+If the image does not provide enough visual evidence to determine this attribute, answer Uncertain.",No,No.,no,no,no,True,True,False,False,both_correct
+28152.jpg,No,"Carefully examine the facial image.
+
+Question: Does this person have bags under the eyes?
+
+Answer with only one word: Yes, No, or Uncertain.
+If the image does not provide enough visual evidence to determine this attribute, answer Uncertain.",No,No.,no,no,no,True,True,False,False,both_correct
+6927.jpg,No,"Carefully examine the facial image.
+
+Question: Does this person have bags under the eyes?
+
+Answer with only one word: Yes, No, or Uncertain.
+If the image does not provide enough visual evidence to determine this attribute, answer Uncertain.",Yes,Uncertain.,no,yes,uncertain,False,False,False,True,either_uncertain
+26979.jpg,No,"Carefully examine the facial image.
+
+Question: Does this person have bags under the eyes?
+
+Answer with only one word: Yes, No, or Uncertain.
+If the image does not provide enough visual evidence to determine this attribute, answer Uncertain.",No,No.,no,no,no,True,True,False,False,both_correct
+18014.jpg,No,"Carefully examine the facial image.
+
+Question: Does this person have bags under the eyes?
+
+Answer with only one word: Yes, No, or Uncertain.
+If the image does not provide enough visual evidence to determine this attribute, answer Uncertain.",No,No.,no,no,no,True,True,False,False,both_correct
+29124.jpg,No,"Carefully examine the facial image.
+
+Question: Does this person have bags under the eyes?
+
+Answer with only one word: Yes, No, or Uncertain.
+If the image does not provide enough visual evidence to determine this attribute, answer Uncertain.",No,No.,no,no,no,True,True,False,False,both_correct
+6279.jpg,No,"Carefully examine the facial image.
+
+Question: Does this person have bags under the eyes?
+
+Answer with only one word: Yes, No, or Uncertain.
+If the image does not provide enough visual evidence to determine this attribute, answer Uncertain.",No,No.,no,no,no,True,True,False,False,both_correct
+9884.jpg,No,"Carefully examine the facial image.
+
+Question: Does this person have bags under the eyes?
+
+Answer with only one word: Yes, No, or Uncertain.
+If the image does not provide enough visual evidence to determine this attribute, answer Uncertain.",No,No.,no,no,no,True,True,False,False,both_correct
+8607.jpg,No,"Carefully examine the facial image.
+
+Question: Does this person have bags under the eyes?
+
+Answer with only one word: Yes, No, or Uncertain.
+If the image does not provide enough visual evidence to determine this attribute, answer Uncertain.",No,No.,no,no,no,True,True,False,False,both_correct
+11881.jpg,No,"Carefully examine the facial image.
+
+Question: Does this person have bags under the eyes?
+
+Answer with only one word: Yes, No, or Uncertain.
+If the image does not provide enough visual evidence to determine this attribute, answer Uncertain.",No,No.,no,no,no,True,True,False,False,both_correct
+21654.jpg,No,"Carefully examine the facial image.
+
+Question: Does this person have bags under the eyes?
+
+Answer with only one word: Yes, No, or Uncertain.
+If the image does not provide enough visual evidence to determine this attribute, answer Uncertain.",No,No.,no,no,no,True,True,False,False,both_correct
+3253.jpg,No,"Carefully examine the facial image.
+
+Question: Does this person have bags under the eyes?
+
+Answer with only one word: Yes, No, or Uncertain.
+If the image does not provide enough visual evidence to determine this attribute, answer Uncertain.",No,No.,no,no,no,True,True,False,False,both_correct
+27472.jpg,No,"Carefully examine the facial image.
+
+Question: Does this person have bags under the eyes?
+
+Answer with only one word: Yes, No, or Uncertain.
+If the image does not provide enough visual evidence to determine this attribute, answer Uncertain.",No,Uncertain.,no,no,uncertain,True,False,False,True,either_uncertain
+9112.jpg,No,"Carefully examine the facial image.
+
+Question: Does this person have bags under the eyes?
+
+Answer with only one word: Yes, No, or Uncertain.
+If the image does not provide enough visual evidence to determine this attribute, answer Uncertain.",No,No.,no,no,no,True,True,False,False,both_correct
+29433.jpg,No,"Carefully examine the facial image.
+
+Question: Does this person have bags under the eyes?
+
+Answer with only one word: Yes, No, or Uncertain.
+If the image does not provide enough visual evidence to determine this attribute, answer Uncertain.",No,No.,no,no,no,True,True,False,False,both_correct
+21421.jpg,No,"Carefully examine the facial image.
+
+Question: Does this person have bags under the eyes?
+
+Answer with only one word: Yes, No, or Uncertain.
+If the image does not provide enough visual evidence to determine this attribute, answer Uncertain.",Uncertain.,Uncertain.,no,uncertain,uncertain,False,False,True,True,both_uncertain
+16402.jpg,Yes,"Carefully examine the facial image.
+
+Question: Does this person have bags under the eyes?
+
+Answer with only one word: Yes, No, or Uncertain.
+If the image does not provide enough visual evidence to determine this attribute, answer Uncertain.",No,Yes.,yes,no,yes,False,True,False,False,disagreement
+22316.jpg,Yes,"Carefully examine the facial image.
+
+Question: Does this person have bags under the eyes?
+
+Answer with only one word: Yes, No, or Uncertain.
+If the image does not provide enough visual evidence to determine this attribute, answer Uncertain.",No,Uncertain.,yes,no,uncertain,False,False,False,True,either_uncertain
+22475.jpg,Yes,"Carefully examine the facial image.
+
+Question: Does this person have bags under the eyes?
+
+Answer with only one word: Yes, No, or Uncertain.
+If the image does not provide enough visual evidence to determine this attribute, answer Uncertain.",No,No.,yes,no,no,False,False,False,False,both_wrong
+725.jpg,Yes,"Carefully examine the facial image.
+
+Question: Does this person have bags under the eyes?
+
+Answer with only one word: Yes, No, or Uncertain.
+If the image does not provide enough visual evidence to determine this attribute, answer Uncertain.",No,No.,yes,no,no,False,False,False,False,both_wrong
+18305.jpg,Yes,"Carefully examine the facial image.
+
+Question: Does this person have bags under the eyes?
+
+Answer with only one word: Yes, No, or Uncertain.
+If the image does not provide enough visual evidence to determine this attribute, answer Uncertain.",No,No.,yes,no,no,False,False,False,False,both_wrong
+28212.jpg,Yes,"Carefully examine the facial image.
+
+Question: Does this person have bags under the eyes?
+
+Answer with only one word: Yes, No, or Uncertain.
+If the image does not provide enough visual evidence to determine this attribute, answer Uncertain.",No,No.,yes,no,no,False,False,False,False,both_wrong
+3758.jpg,Yes,"Carefully examine the facial image.
+
+Question: Does this person have bags under the eyes?
+
+Answer with only one word: Yes, No, or Uncertain.
+If the image does not provide enough visual evidence to determine this attribute, answer Uncertain.",No,Yes.,yes,no,yes,False,True,False,False,disagreement
+9642.jpg,Yes,"Carefully examine the facial image.
+
+Question: Does this person have bags under the eyes?
+
+Answer with only one word: Yes, No, or Uncertain.
+If the image does not provide enough visual evidence to determine this attribute, answer Uncertain.",No,Yes.,yes,no,yes,False,True,False,False,disagreement
+21455.jpg,Yes,"Carefully examine the facial image.
+
+Question: Does this person have bags under the eyes?
+
+Answer with only one word: Yes, No, or Uncertain.
+If the image does not provide enough visual evidence to determine this attribute, answer Uncertain.",No,Yes.,yes,no,yes,False,True,False,False,disagreement
+11903.jpg,Yes,"Carefully examine the facial image.
+
+Question: Does this person have bags under the eyes?
+
+Answer with only one word: Yes, No, or Uncertain.
+If the image does not provide enough visual evidence to determine this attribute, answer Uncertain.",Yes,Uncertain.,yes,yes,uncertain,True,False,False,True,either_uncertain
+16106.jpg,Yes,"Carefully examine the facial image.
+
+Question: Does this person have bags under the eyes?
+
+Answer with only one word: Yes, No, or Uncertain.
+If the image does not provide enough visual evidence to determine this attribute, answer Uncertain.",Yes,Yes.,yes,yes,yes,True,True,False,False,both_correct
+11470.jpg,Yes,"Carefully examine the facial image.
+
+Question: Does this person have bags under the eyes?
+
+Answer with only one word: Yes, No, or Uncertain.
+If the image does not provide enough visual evidence to determine this attribute, answer Uncertain.",No,Yes.,yes,no,yes,False,True,False,False,disagreement
+22374.jpg,Yes,"Carefully examine the facial image.
+
+Question: Does this person have bags under the eyes?
+
+Answer with only one word: Yes, No, or Uncertain.
+If the image does not provide enough visual evidence to determine this attribute, answer Uncertain.",Yes,Yes.,yes,yes,yes,True,True,False,False,both_correct
+1338.jpg,Yes,"Carefully examine the facial image.
+
+Question: Does this person have bags under the eyes?
+
+Answer with only one word: Yes, No, or Uncertain.
+If the image does not provide enough visual evidence to determine this attribute, answer Uncertain.",No,No.,yes,no,no,False,False,False,False,both_wrong
+115.jpg,Yes,"Carefully examine the facial image.
+
+Question: Does this person have bags under the eyes?
+
+Answer with only one word: Yes, No, or Uncertain.
+If the image does not provide enough visual evidence to determine this attribute, answer Uncertain.",No,Yes,yes,no,yes,False,True,False,False,disagreement
+12795.jpg,Yes,"Carefully examine the facial image.
+
+Question: Does this person have bags under the eyes?
+
+Answer with only one word: Yes, No, or Uncertain.
+If the image does not provide enough visual evidence to determine this attribute, answer Uncertain.",No,Uncertain.,yes,no,uncertain,False,False,False,True,either_uncertain
+7824.jpg,Yes,"Carefully examine the facial image.
+
+Question: Does this person have bags under the eyes?
+
+Answer with only one word: Yes, No, or Uncertain.
+If the image does not provide enough visual evidence to determine this attribute, answer Uncertain.",No,No.,yes,no,no,False,False,False,False,both_wrong
+5941.jpg,Yes,"Carefully examine the facial image.
+
+Question: Does this person have bags under the eyes?
+
+Answer with only one word: Yes, No, or Uncertain.
+If the image does not provide enough visual evidence to determine this attribute, answer Uncertain.",No,No.,yes,no,no,False,False,False,False,both_wrong
+12335.jpg,Yes,"Carefully examine the facial image.
+
+Question: Does this person have bags under the eyes?
+
+Answer with only one word: Yes, No, or Uncertain.
+If the image does not provide enough visual evidence to determine this attribute, answer Uncertain.",Yes,Yes.,yes,yes,yes,True,True,False,False,both_correct
+15473.jpg,Yes,"Carefully examine the facial image.
+
+Question: Does this person have bags under the eyes?
+
+Answer with only one word: Yes, No, or Uncertain.
+If the image does not provide enough visual evidence to determine this attribute, answer Uncertain.",Yes,Uncertain.,yes,yes,uncertain,True,False,False,True,either_uncertain
+10223.jpg,Yes,"Carefully examine the facial image.
+
+Question: Does this person have bags under the eyes?
+
+Answer with only one word: Yes, No, or Uncertain.
+If the image does not provide enough visual evidence to determine this attribute, answer Uncertain.",No,Yes.,yes,no,yes,False,True,False,False,disagreement
+22389.jpg,Yes,"Carefully examine the facial image.
+
+Question: Does this person have bags under the eyes?
+
+Answer with only one word: Yes, No, or Uncertain.
+If the image does not provide enough visual evidence to determine this attribute, answer Uncertain.",No,Uncertain.,yes,no,uncertain,False,False,False,True,either_uncertain
+1430.jpg,Yes,"Carefully examine the facial image.
+
+Question: Does this person have bags under the eyes?
+
+Answer with only one word: Yes, No, or Uncertain.
+If the image does not provide enough visual evidence to determine this attribute, answer Uncertain.",No,Yes.,yes,no,yes,False,True,False,False,disagreement
+18686.jpg,Yes,"Carefully examine the facial image.
+
+Question: Does this person have bags under the eyes?
+
+Answer with only one word: Yes, No, or Uncertain.
+If the image does not provide enough visual evidence to determine this attribute, answer Uncertain.",Yes,Uncertain.,yes,yes,uncertain,True,False,False,True,either_uncertain
+54.jpg,Yes,"Carefully examine the facial image.
+
+Question: Does this person have bags under the eyes?
+
+Answer with only one word: Yes, No, or Uncertain.
+If the image does not provide enough visual evidence to determine this attribute, answer Uncertain.",No,No.,yes,no,no,False,False,False,False,both_wrong
+14719.jpg,Yes,"Carefully examine the facial image.
+
+Question: Does this person have bags under the eyes?
+
+Answer with only one word: Yes, No, or Uncertain.
+If the image does not provide enough visual evidence to determine this attribute, answer Uncertain.",Yes,Yes.,yes,yes,yes,True,True,False,False,both_correct
+23781.jpg,Yes,"Carefully examine the facial image.
+
+Question: Does this person have bags under the eyes?
+
+Answer with only one word: Yes, No, or Uncertain.
+If the image does not provide enough visual evidence to determine this attribute, answer Uncertain.",No,Uncertain.,yes,no,uncertain,False,False,False,True,either_uncertain
+9930.jpg,Yes,"Carefully examine the facial image.
+
+Question: Does this person have bags under the eyes?
+
+Answer with only one word: Yes, No, or Uncertain.
+If the image does not provide enough visual evidence to determine this attribute, answer Uncertain.",No,Yes.,yes,no,yes,False,True,False,False,disagreement
+20562.jpg,Yes,"Carefully examine the facial image.
+
+Question: Does this person have bags under the eyes?
+
+Answer with only one word: Yes, No, or Uncertain.
+If the image does not provide enough visual evidence to determine this attribute, answer Uncertain.",No,Yes,yes,no,yes,False,True,False,False,disagreement
+25931.jpg,Yes,"Carefully examine the facial image.
+
+Question: Does this person have bags under the eyes?
+
+Answer with only one word: Yes, No, or Uncertain.
+If the image does not provide enough visual evidence to determine this attribute, answer Uncertain.",No,Uncertain.,yes,no,uncertain,False,False,False,True,either_uncertain
+12526.jpg,Yes,"Carefully examine the facial image.
+
+Question: Does this person have bags under the eyes?
+
+Answer with only one word: Yes, No, or Uncertain.
+If the image does not provide enough visual evidence to determine this attribute, answer Uncertain.",No,Uncertain.,yes,no,uncertain,False,False,False,True,either_uncertain
+8349.jpg,Yes,"Carefully examine the facial image.
+
+Question: Does this person have bags under the eyes?
+
+Answer with only one word: Yes, No, or Uncertain.
+If the image does not provide enough visual evidence to determine this attribute, answer Uncertain.",No,No.,yes,no,no,False,False,False,False,both_wrong
+17578.jpg,Yes,"Carefully examine the facial image.
+
+Question: Does this person have bags under the eyes?
+
+Answer with only one word: Yes, No, or Uncertain.
+If the image does not provide enough visual evidence to determine this attribute, answer Uncertain.",No,Yes.,yes,no,yes,False,True,False,False,disagreement
+15174.jpg,Yes,"Carefully examine the facial image.
+
+Question: Does this person have bags under the eyes?
+
+Answer with only one word: Yes, No, or Uncertain.
+If the image does not provide enough visual evidence to determine this attribute, answer Uncertain.",Yes,Yes.,yes,yes,yes,True,True,False,False,both_correct
+15431.jpg,Yes,"Carefully examine the facial image.
+
+Question: Does this person have bags under the eyes?
+
+Answer with only one word: Yes, No, or Uncertain.
+If the image does not provide enough visual evidence to determine this attribute, answer Uncertain.",No,Yes.,yes,no,yes,False,True,False,False,disagreement
+28580.jpg,Yes,"Carefully examine the facial image.
+
+Question: Does this person have bags under the eyes?
+
+Answer with only one word: Yes, No, or Uncertain.
+If the image does not provide enough visual evidence to determine this attribute, answer Uncertain.",Yes,Uncertain.,yes,yes,uncertain,True,False,False,True,either_uncertain
+25407.jpg,Yes,"Carefully examine the facial image.
+
+Question: Does this person have bags under the eyes?
+
+Answer with only one word: Yes, No, or Uncertain.
+If the image does not provide enough visual evidence to determine this attribute, answer Uncertain.",No,No.,yes,no,no,False,False,False,False,both_wrong
+6997.jpg,Yes,"Carefully examine the facial image.
+
+Question: Does this person have bags under the eyes?
+
+Answer with only one word: Yes, No, or Uncertain.
+If the image does not provide enough visual evidence to determine this attribute, answer Uncertain.",No,No.,yes,no,no,False,False,False,False,both_wrong
+15372.jpg,Yes,"Carefully examine the facial image.
+
+Question: Does this person have bags under the eyes?
+
+Answer with only one word: Yes, No, or Uncertain.
+If the image does not provide enough visual evidence to determine this attribute, answer Uncertain.",No,No.,yes,no,no,False,False,False,False,both_wrong
+19730.jpg,Yes,"Carefully examine the facial image.
+
+Question: Does this person have bags under the eyes?
+
+Answer with only one word: Yes, No, or Uncertain.
+If the image does not provide enough visual evidence to determine this attribute, answer Uncertain.",No,Uncertain.,yes,no,uncertain,False,False,False,True,either_uncertain
+723.jpg,Yes,"Carefully examine the facial image.
+
+Question: Does this person have bags under the eyes?
+
+Answer with only one word: Yes, No, or Uncertain.
+If the image does not provide enough visual evidence to determine this attribute, answer Uncertain.",No,No.,yes,no,no,False,False,False,False,both_wrong
+15121.jpg,Yes,"Carefully examine the facial image.
+
+Question: Does this person have bags under the eyes?
+
+Answer with only one word: Yes, No, or Uncertain.
+If the image does not provide enough visual evidence to determine this attribute, answer Uncertain.",Yes,Uncertain.,yes,yes,uncertain,True,False,False,True,either_uncertain
+29538.jpg,Yes,"Carefully examine the facial image.
+
+Question: Does this person have bags under the eyes?
+
+Answer with only one word: Yes, No, or Uncertain.
+If the image does not provide enough visual evidence to determine this attribute, answer Uncertain.",Yes,Uncertain.,yes,yes,uncertain,True,False,False,True,either_uncertain
+27005.jpg,Yes,"Carefully examine the facial image.
+
+Question: Does this person have bags under the eyes?
+
+Answer with only one word: Yes, No, or Uncertain.
+If the image does not provide enough visual evidence to determine this attribute, answer Uncertain.",No,No.,yes,no,no,False,False,False,False,both_wrong
+7962.jpg,Yes,"Carefully examine the facial image.
+
+Question: Does this person have bags under the eyes?
+
+Answer with only one word: Yes, No, or Uncertain.
+If the image does not provide enough visual evidence to determine this attribute, answer Uncertain.",No,No.,yes,no,no,False,False,False,False,both_wrong
+761.jpg,Yes,"Carefully examine the facial image.
+
+Question: Does this person have bags under the eyes?
+
+Answer with only one word: Yes, No, or Uncertain.
+If the image does not provide enough visual evidence to determine this attribute, answer Uncertain.",No,Yes.,yes,no,yes,False,True,False,False,disagreement
+24237.jpg,Yes,"Carefully examine the facial image.
+
+Question: Does this person have bags under the eyes?
+
+Answer with only one word: Yes, No, or Uncertain.
+If the image does not provide enough visual evidence to determine this attribute, answer Uncertain.",No,No.,yes,no,no,False,False,False,False,both_wrong
+11049.jpg,Yes,"Carefully examine the facial image.
+
+Question: Does this person have bags under the eyes?
+
+Answer with only one word: Yes, No, or Uncertain.
+If the image does not provide enough visual evidence to determine this attribute, answer Uncertain.",No,Yes.,yes,no,yes,False,True,False,False,disagreement
+1616.jpg,Yes,"Carefully examine the facial image.
+
+Question: Does this person have bags under the eyes?
+
+Answer with only one word: Yes, No, or Uncertain.
+If the image does not provide enough visual evidence to determine this attribute, answer Uncertain.",No,No.,yes,no,no,False,False,False,False,both_wrong
+6336.jpg,Yes,"Carefully examine the facial image.
+
+Question: Does this person have bags under the eyes?
+
+Answer with only one word: Yes, No, or Uncertain.
+If the image does not provide enough visual evidence to determine this attribute, answer Uncertain.",No,Uncertain.,yes,no,uncertain,False,False,False,True,either_uncertain
+15669.jpg,No,"Carefully examine the facial image.
+
+Question: Does this person have bags under the eyes?
+
+Answer with only one word: Yes, No, or Uncertain.
+If the image does not provide enough visual evidence to determine this attribute, answer Uncertain.",No,Yes.,no,no,yes,True,False,False,False,disagreement
+21214.jpg,No,"Carefully examine the facial image.
+
+Question: Does this person have bags under the eyes?
+
+Answer with only one word: Yes, No, or Uncertain.
+If the image does not provide enough visual evidence to determine this attribute, answer Uncertain.",No,Yes.,no,no,yes,True,False,False,False,disagreement
+14226.jpg,No,"Carefully examine the facial image.
+
+Question: Does this person have bags under the eyes?
+
+Answer with only one word: Yes, No, or Uncertain.
+If the image does not provide enough visual evidence to determine this attribute, answer Uncertain.",No,Uncertain.,no,no,uncertain,True,False,False,True,either_uncertain
+9607.jpg,No,"Carefully examine the facial image.
+
+Question: Does this person have bags under the eyes?
+
+Answer with only one word: Yes, No, or Uncertain.
+If the image does not provide enough visual evidence to determine this attribute, answer Uncertain.",No,No.,no,no,no,True,True,False,False,both_correct
+15962.jpg,No,"Carefully examine the facial image.
+
+Question: Does this person have bags under the eyes?
+
+Answer with only one word: Yes, No, or Uncertain.
+If the image does not provide enough visual evidence to determine this attribute, answer Uncertain.",No,No.,no,no,no,True,True,False,False,both_correct
+11047.jpg,No,"Carefully examine the facial image.
+
+Question: Does this person have bags under the eyes?
+
+Answer with only one word: Yes, No, or Uncertain.
+If the image does not provide enough visual evidence to determine this attribute, answer Uncertain.",No,Uncertain.,no,no,uncertain,True,False,False,True,either_uncertain
+27130.jpg,No,"Carefully examine the facial image.
+
+Question: Does this person have bags under the eyes?
+
+Answer with only one word: Yes, No, or Uncertain.
+If the image does not provide enough visual evidence to determine this attribute, answer Uncertain.",No,Yes.,no,no,yes,True,False,False,False,disagreement
+1590.jpg,No,"Carefully examine the facial image.
+
+Question: Does this person have bags under the eyes?
+
+Answer with only one word: Yes, No, or Uncertain.
+If the image does not provide enough visual evidence to determine this attribute, answer Uncertain.",No,No.,no,no,no,True,True,False,False,both_correct
+27848.jpg,No,"Carefully examine the facial image.
+
+Question: Does this person have bags under the eyes?
+
+Answer with only one word: Yes, No, or Uncertain.
+If the image does not provide enough visual evidence to determine this attribute, answer Uncertain.",No,Uncertain.,no,no,uncertain,True,False,False,True,either_uncertain
+4871.jpg,No,"Carefully examine the facial image.
+
+Question: Does this person have bags under the eyes?
+
+Answer with only one word: Yes, No, or Uncertain.
+If the image does not provide enough visual evidence to determine this attribute, answer Uncertain.",No,No.,no,no,no,True,True,False,False,both_correct
+26496.jpg,No,"Carefully examine the facial image.
+
+Question: Does this person have bags under the eyes?
+
+Answer with only one word: Yes, No, or Uncertain.
+If the image does not provide enough visual evidence to determine this attribute, answer Uncertain.",No,Uncertain.,no,no,uncertain,True,False,False,True,either_uncertain
+19604.jpg,No,"Carefully examine the facial image.
+
+Question: Does this person have bags under the eyes?
+
+Answer with only one word: Yes, No, or Uncertain.
+If the image does not provide enough visual evidence to determine this attribute, answer Uncertain.",No,No.,no,no,no,True,True,False,False,both_correct
+21514.jpg,No,"Carefully examine the facial image.
+
+Question: Does this person have bags under the eyes?
+
+Answer with only one word: Yes, No, or Uncertain.
+If the image does not provide enough visual evidence to determine this attribute, answer Uncertain.",No,No.,no,no,no,True,True,False,False,both_correct
+14158.jpg,No,"Carefully examine the facial image.
+
+Question: Does this person have bags under the eyes?
+
+Answer with only one word: Yes, No, or Uncertain.
+If the image does not provide enough visual evidence to determine this attribute, answer Uncertain.",No,Uncertain.,no,no,uncertain,True,False,False,True,either_uncertain
+25528.jpg,No,"Carefully examine the facial image.
+
+Question: Does this person have bags under the eyes?
+
+Answer with only one word: Yes, No, or Uncertain.
+If the image does not provide enough visual evidence to determine this attribute, answer Uncertain.",No,No.,no,no,no,True,True,False,False,both_correct
+8656.jpg,No,"Carefully examine the facial image.
+
+Question: Does this person have bags under the eyes?
+
+Answer with only one word: Yes, No, or Uncertain.
+If the image does not provide enough visual evidence to determine this attribute, answer Uncertain.",No,No.,no,no,no,True,True,False,False,both_correct
+21524.jpg,No,"Carefully examine the facial image.
+
+Question: Does this person have bags under the eyes?
+
+Answer with only one word: Yes, No, or Uncertain.
+If the image does not provide enough visual evidence to determine this attribute, answer Uncertain.",No,Yes.,no,no,yes,True,False,False,False,disagreement
+15220.jpg,No,"Carefully examine the facial image.
+
+Question: Does this person have bags under the eyes?
+
+Answer with only one word: Yes, No, or Uncertain.
+If the image does not provide enough visual evidence to determine this attribute, answer Uncertain.",No,Uncertain.,no,no,uncertain,True,False,False,True,either_uncertain
+9701.jpg,No,"Carefully examine the facial image.
+
+Question: Does this person have bags under the eyes?
+
+Answer with only one word: Yes, No, or Uncertain.
+If the image does not provide enough visual evidence to determine this attribute, answer Uncertain.",No,Uncertain.,no,no,uncertain,True,False,False,True,either_uncertain
+1250.jpg,No,"Carefully examine the facial image.
+
+Question: Does this person have bags under the eyes?
+
+Answer with only one word: Yes, No, or Uncertain.
+If the image does not provide enough visual evidence to determine this attribute, answer Uncertain.",No,No.,no,no,no,True,True,False,False,both_correct
+29923.jpg,No,"Carefully examine the facial image.
+
+Question: Does this person have bags under the eyes?
+
+Answer with only one word: Yes, No, or Uncertain.
+If the image does not provide enough visual evidence to determine this attribute, answer Uncertain.",No,No.,no,no,no,True,True,False,False,both_correct
+21830.jpg,No,"Carefully examine the facial image.
+
+Question: Does this person have bags under the eyes?
+
+Answer with only one word: Yes, No, or Uncertain.
+If the image does not provide enough visual evidence to determine this attribute, answer Uncertain.",No,No.,no,no,no,True,True,False,False,both_correct
+27709.jpg,No,"Carefully examine the facial image.
+
+Question: Does this person have bags under the eyes?
+
+Answer with only one word: Yes, No, or Uncertain.
+If the image does not provide enough visual evidence to determine this attribute, answer Uncertain.",No,No.,no,no,no,True,True,False,False,both_correct
+8144.jpg,No,"Carefully examine the facial image.
+
+Question: Does this person have bags under the eyes?
+
+Answer with only one word: Yes, No, or Uncertain.
+If the image does not provide enough visual evidence to determine this attribute, answer Uncertain.",No,No.,no,no,no,True,True,False,False,both_correct
+11902.jpg,No,"Carefully examine the facial image.
+
+Question: Does this person have bags under the eyes?
+
+Answer with only one word: Yes, No, or Uncertain.
+If the image does not provide enough visual evidence to determine this attribute, answer Uncertain.",Yes,Yes.,no,yes,yes,False,False,False,False,both_wrong
+4121.jpg,No,"Carefully examine the facial image.
+
+Question: Does this person have bags under the eyes?
+
+Answer with only one word: Yes, No, or Uncertain.
+If the image does not provide enough visual evidence to determine this attribute, answer Uncertain.",No,Uncertain.,no,no,uncertain,True,False,False,True,either_uncertain
+16325.jpg,No,"Carefully examine the facial image.
+
+Question: Does this person have bags under the eyes?
+
+Answer with only one word: Yes, No, or Uncertain.
+If the image does not provide enough visual evidence to determine this attribute, answer Uncertain.",No,No.,no,no,no,True,True,False,False,both_correct
+11519.jpg,No,"Carefully examine the facial image.
+
+Question: Does this person have bags under the eyes?
+
+Answer with only one word: Yes, No, or Uncertain.
+If the image does not provide enough visual evidence to determine this attribute, answer Uncertain.",Yes,Uncertain.,no,yes,uncertain,False,False,False,True,either_uncertain
+10933.jpg,No,"Carefully examine the facial image.
+
+Question: Does this person have bags under the eyes?
+
+Answer with only one word: Yes, No, or Uncertain.
+If the image does not provide enough visual evidence to determine this attribute, answer Uncertain.",No,No.,no,no,no,True,True,False,False,both_correct
+28122.jpg,No,"Carefully examine the facial image.
+
+Question: Does this person have bags under the eyes?
+
+Answer with only one word: Yes, No, or Uncertain.
+If the image does not provide enough visual evidence to determine this attribute, answer Uncertain.",No,Uncertain.,no,no,uncertain,True,False,False,True,either_uncertain
+20906.jpg,No,"Carefully examine the facial image.
+
+Question: Does this person have bags under the eyes?
+
+Answer with only one word: Yes, No, or Uncertain.
+If the image does not provide enough visual evidence to determine this attribute, answer Uncertain.",No,Uncertain.,no,no,uncertain,True,False,False,True,either_uncertain
+5720.jpg,No,"Carefully examine the facial image.
+
+Question: Does this person have bags under the eyes?
+
+Answer with only one word: Yes, No, or Uncertain.
+If the image does not provide enough visual evidence to determine this attribute, answer Uncertain.",No,No.,no,no,no,True,True,False,False,both_correct
+7888.jpg,No,"Carefully examine the facial image.
+
+Question: Does this person have bags under the eyes?
+
+Answer with only one word: Yes, No, or Uncertain.
+If the image does not provide enough visual evidence to determine this attribute, answer Uncertain.",No,No.,no,no,no,True,True,False,False,both_correct
+21258.jpg,No,"Carefully examine the facial image.
+
+Question: Does this person have bags under the eyes?
+
+Answer with only one word: Yes, No, or Uncertain.
+If the image does not provide enough visual evidence to determine this attribute, answer Uncertain.",No,Uncertain.,no,no,uncertain,True,False,False,True,either_uncertain
+18927.jpg,No,"Carefully examine the facial image.
+
+Question: Does this person have bags under the eyes?
+
+Answer with only one word: Yes, No, or Uncertain.
+If the image does not provide enough visual evidence to determine this attribute, answer Uncertain.",No,No.,no,no,no,True,True,False,False,both_correct
+16256.jpg,No,"Carefully examine the facial image.
+
+Question: Does this person have bags under the eyes?
+
+Answer with only one word: Yes, No, or Uncertain.
+If the image does not provide enough visual evidence to determine this attribute, answer Uncertain.",No,No.,no,no,no,True,True,False,False,both_correct
+20636.jpg,No,"Carefully examine the facial image.
+
+Question: Does this person have bags under the eyes?
+
+Answer with only one word: Yes, No, or Uncertain.
+If the image does not provide enough visual evidence to determine this attribute, answer Uncertain.",No,Uncertain.,no,no,uncertain,True,False,False,True,either_uncertain
+7798.jpg,No,"Carefully examine the facial image.
+
+Question: Does this person have bags under the eyes?
+
+Answer with only one word: Yes, No, or Uncertain.
+If the image does not provide enough visual evidence to determine this attribute, answer Uncertain.",No,No.,no,no,no,True,True,False,False,both_correct
+894.jpg,No,"Carefully examine the facial image.
+
+Question: Does this person have bags under the eyes?
+
+Answer with only one word: Yes, No, or Uncertain.
+If the image does not provide enough visual evidence to determine this attribute, answer Uncertain.",No,No.,no,no,no,True,True,False,False,both_correct
+11583.jpg,No,"Carefully examine the facial image.
+
+Question: Does this person have bags under the eyes?
+
+Answer with only one word: Yes, No, or Uncertain.
+If the image does not provide enough visual evidence to determine this attribute, answer Uncertain.",No,No.,no,no,no,True,True,False,False,both_correct
+22796.jpg,No,"Carefully examine the facial image.
+
+Question: Does this person have bags under the eyes?
+
+Answer with only one word: Yes, No, or Uncertain.
+If the image does not provide enough visual evidence to determine this attribute, answer Uncertain.",No,No.,no,no,no,True,True,False,False,both_correct
+15095.jpg,No,"Carefully examine the facial image.
+
+Question: Does this person have bags under the eyes?
+
+Answer with only one word: Yes, No, or Uncertain.
+If the image does not provide enough visual evidence to determine this attribute, answer Uncertain.",No,Yes.,no,no,yes,True,False,False,False,disagreement
+23223.jpg,No,"Carefully examine the facial image.
+
+Question: Does this person have bags under the eyes?
+
+Answer with only one word: Yes, No, or Uncertain.
+If the image does not provide enough visual evidence to determine this attribute, answer Uncertain.",No,No.,no,no,no,True,True,False,False,both_correct
+18755.jpg,No,"Carefully examine the facial image.
+
+Question: Does this person have bags under the eyes?
+
+Answer with only one word: Yes, No, or Uncertain.
+If the image does not provide enough visual evidence to determine this attribute, answer Uncertain.",No,No.,no,no,no,True,True,False,False,both_correct
+3684.jpg,No,"Carefully examine the facial image.
+
+Question: Does this person have bags under the eyes?
+
+Answer with only one word: Yes, No, or Uncertain.
+If the image does not provide enough visual evidence to determine this attribute, answer Uncertain.",No,No.,no,no,no,True,True,False,False,both_correct
+16995.jpg,No,"Carefully examine the facial image.
+
+Question: Does this person have bags under the eyes?
+
+Answer with only one word: Yes, No, or Uncertain.
+If the image does not provide enough visual evidence to determine this attribute, answer Uncertain.",No,No.,no,no,no,True,True,False,False,both_correct
+3268.jpg,No,"Carefully examine the facial image.
+
+Question: Does this person have bags under the eyes?
+
+Answer with only one word: Yes, No, or Uncertain.
+If the image does not provide enough visual evidence to determine this attribute, answer Uncertain.",No,No.,no,no,no,True,True,False,False,both_correct
+14693.jpg,No,"Carefully examine the facial image.
+
+Question: Does this person have bags under the eyes?
+
+Answer with only one word: Yes, No, or Uncertain.
+If the image does not provide enough visual evidence to determine this attribute, answer Uncertain.",No,No.,no,no,no,True,True,False,False,both_correct
+11919.jpg,No,"Carefully examine the facial image.
+
+Question: Does this person have bags under the eyes?
+
+Answer with only one word: Yes, No, or Uncertain.
+If the image does not provide enough visual evidence to determine this attribute, answer Uncertain.",No,No.,no,no,no,True,True,False,False,both_correct
+5147.jpg,No,"Carefully examine the facial image.
+
+Question: Does this person have bags under the eyes?
+
+Answer with only one word: Yes, No, or Uncertain.
+If the image does not provide enough visual evidence to determine this attribute, answer Uncertain.",No,No.,no,no,no,True,True,False,False,both_correct

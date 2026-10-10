@@ -1,0 +1,89 @@
+case_id,cell,image_name,attribute,ground_truth,original_prediction,new_answer,reason,parse_ok,reason_first,raw_output
+A001,A,104.jpg,Crows_Feet,Yes,No,No,There are no visible crow's feet around the eyes.,True,True,Reason: There are no visible crow's feet around the eyes. Answer: No
+A002,A,108.jpg,Crows_Feet,Yes,No,No,There are no visible crow's feet around the eyes.,True,True,Reason: There are no visible crow's feet around the eyes. Answer: No
+A003,A,147.jpg,Crows_Feet,Yes,No,No,There are no visible crow's feet around the eyes.,True,True,Reason: There are no visible crow's feet around the eyes. Answer: No
+A004,A,149.jpg,Crows_Feet,Yes,No,No,There are no visible crow's feet around the eyes.,True,True,Reason: There are no visible crow's feet around the eyes. Answer: No
+A005,A,159.jpg,Crows_Feet,Yes,No,No,There are no visible crow's feet around the eyes.,True,True,Reason: There are no visible crow's feet around the eyes. Answer: No
+A006,A,179.jpg,Crows_Feet,Yes,No,No,There are no visible crow's feet on the person's face.,True,True,Reason: There are no visible crow's feet on the person's face. Answer: No
+A007,A,181.jpg,Crows_Feet,Yes,No,No,There are no visible crow's feet around the eyes.,True,True,Reason: There are no visible crow's feet around the eyes. Answer: No
+A008,A,182.jpg,Crows_Feet,Yes,No,No,There are no visible crow's feet around the eyes.,True,True,Reason: There are no visible crow's feet around the eyes. Answer: No
+A009,A,193.jpg,Crows_Feet,Yes,No,No,There are no visible crow's feet around the eyes.,True,True,Reason: There are no visible crow's feet around the eyes. Answer: No
+A010,A,196.jpg,Crows_Feet,Yes,No,No,There are no visible crow's feet around the eyes.,True,True,Reason: There are no visible crow's feet around the eyes. Answer: No
+A011,A,20.jpg,Crows_Feet,Yes,No,No,There are no visible crow's feet around the eyes.,True,True,Reason: There are no visible crow's feet around the eyes. Answer: No
+A012,A,208.jpg,Crows_Feet,Yes,No,No,There are no visible crow's feet around the eyes.,True,True,Reason: There are no visible crow's feet around the eyes. Answer: No
+A013,A,256.jpg,Crows_Feet,Yes,No,No,There are no visible crow's feet around the eyes.,True,True,Reason: There are no visible crow's feet around the eyes. Answer: No
+A014,A,260.jpg,Crows_Feet,Yes,No,No,There are no visible crow's feet around the eyes.,True,True,Reason: There are no visible crow's feet around the eyes. Answer: No
+A015,A,293.jpg,Crows_Feet,Yes,No,No,There are no visible crow's feet around the eyes.,True,True,Reason: There are no visible crow's feet around the eyes. Answer: No
+A016,A,299.jpg,Crows_Feet,Yes,No,No,There are no visible crow's feet around the eyes.,True,True,Reason: There are no visible crow's feet around the eyes. Answer: No
+A017,A,30.jpg,Crows_Feet,Yes,No,No,There are no visible crow's feet around the eyes.,True,True,Reason: There are no visible crow's feet around the eyes. Answer: No
+A018,A,319.jpg,Crows_Feet,Yes,No,No,There are no visible crow's feet around the eyes.,True,True,Reason: There are no visible crow's feet around the eyes. Answer: No
+A019,A,32.jpg,Crows_Feet,Yes,No,No,There are no visible crow's feet around the eyes.,True,True,Reason: There are no visible crow's feet around the eyes. Answer: No
+A020,A,33.jpg,Crows_Feet,Yes,No,No,There are no visible crow's feet around the eyes.,True,True,Reason: There are no visible crow's feet around the eyes. Answer: No
+A021,A,380.jpg,Crows_Feet,Yes,No,No,There are no visible crow's feet around the eyes.,True,True,Reason: There are no visible crow's feet around the eyes. Answer: No
+A022,A,381.jpg,Crows_Feet,Yes,No,No,There are no visible crow's feet around the eyes.,True,True,Reason: There are no visible crow's feet around the eyes. Answer: No
+A023,A,43.jpg,Crows_Feet,Yes,No,No,There are no wrinkles around the eyes.,True,True,Reason: There are no wrinkles around the eyes. Answer: No
+A024,A,44.jpg,Crows_Feet,Yes,No,No,There are no visible crow's feet around the eyes.,True,True,Reason: There are no visible crow's feet around the eyes. Answer: No
+A025,A,54.jpg,Crows_Feet,Yes,No,No,There are no visible crow's feet around the eyes.,True,True,Reason: There are no visible crow's feet around the eyes. Answer: No
+A026,A,71.jpg,Crows_Feet,Yes,No,No,There are no visible crow's feet around the eyes.,True,True,Reason: There are no visible crow's feet around the eyes. Answer: No
+A027,A,76.jpg,Crows_Feet,Yes,No,No,There are no visible crow's feet around the eyes.,True,True,Reason: There are no visible crow's feet around the eyes. Answer: No
+A028,A,92.jpg,Crows_Feet,Yes,No,No,There are no visible crow's feet around the eyes.,True,True,Reason: There are no visible crow's feet around the eyes. Answer: No
+A029,A,2.jpg,Forehead_Wrinkles,Yes,No,No,There are no visible wrinkles on the forehead.,True,True,Reason: There are no visible wrinkles on the forehead. Answer: No
+A030,A,281.jpg,Forehead_Wrinkles,Yes,No,No,There are no visible wrinkles on the forehead.,True,True,Reason: There are no visible wrinkles on the forehead. Answer: No
+A031,A,483.jpg,Forehead_Wrinkles,Yes,No,No,There are no visible forehead wrinkles on the person's face.,True,True,Reason: There are no visible forehead wrinkles on the person's face. Answer: No
+A032,A,133.jpg,Nasolabial_Folds,No,Yes,No,Nasolabial folds are creases that run from the sides of the nose to the corners of the mouth.,True,True,Reason: Nasolabial folds are creases that run from the sides of the nose to the corners of the mouth. Answer: No
+A033,A,160.jpg,Nasolabial_Folds,No,Yes,Yes,The person has visible lines around the mouth area.,True,True,Reason: The person has visible lines around the mouth area. Answer: Yes
+A034,A,178.jpg,Nasolabial_Folds,No,Yes,No,Nasolabial folds are creases that run from the sides of the nose to the corners of the mouth.,True,True,Reason: Nasolabial folds are creases that run from the sides of the nose to the corners of the mouth. Answer: No
+A035,A,187.jpg,Nasolabial_Folds,No,Yes,Yes,The person has visible lines around the mouth area.,True,True,Reason: The person has visible lines around the mouth area. Answer: Yes
+A036,A,208.jpg,Nasolabial_Folds,No,Yes,Yes,The person has visible lines around the mouth area.,True,True,Reason: The person has visible lines around the mouth area. Answer: Yes
+A037,A,281.jpg,Nasolabial_Folds,No,Yes,No,Nasolabial folds are creases that run from the sides of the nose to the corners of the mouth.,True,True,Reason: Nasolabial folds are creases that run from the sides of the nose to the corners of the mouth. Answer: No
+A038,A,348.jpg,Nasolabial_Folds,No,Yes,Yes,Nasolabial folds are the lines that run from the sides of the nose to the corners of the mouth.,True,True,Reason: Nasolabial folds are the lines that run from the sides of the nose to the corners of the mouth. Answer: Yes
+A039,A,351.jpg,Nasolabial_Folds,No,Yes,No,There are no visible nasolabial folds.,True,True,Reason: There are no visible nasolabial folds. Answer: No
+A040,A,356.jpg,Nasolabial_Folds,No,Yes,Yes,The skin around the person's nose and mouth has visible lines.,True,True,Reason: The skin around the person's nose and mouth has visible lines. Answer: Yes
+A041,A,45.jpg,Nasolabial_Folds,No,Yes,Yes,The lines on the person's face go from the bottom of the nose to the corners of the mouth.,True,True,Reason: The lines on the person's face go from the bottom of the nose to the corners of the mouth. Answer: Yes
+A042,A,509.jpg,Nasolabial_Folds,No,Yes,Yes,The lines on the person's face go from the sides of the nose to the corners of the mouth.,True,True,Reason: The lines on the person's face go from the sides of the nose to the corners of the mouth. Answer: Yes
+A043,A,98.jpg,Nasolabial_Folds,No,Yes,No,Nasolabial folds are the lines that run from the sides of the nose to the corners of the mouth.,True,True,Reason: Nasolabial folds are the lines that run from the sides of the nose to the corners of the mouth. Answer: No
+D001,D,120.jpg,Crows_Feet,No,No,No,There are no visible crow's feet around the eyes.,True,True,Reason: There are no visible crow's feet around the eyes. Answer: No
+D002,D,231.jpg,Crows_Feet,No,No,No,There are no visible crow's feet around the eyes.,True,True,Reason: There are no visible crow's feet around the eyes. Answer: No
+D003,D,252.jpg,Crows_Feet,No,No,No,There are no visible crow's feet around the eyes.,True,True,Reason: There are no visible crow's feet around the eyes. Answer: No
+D004,D,292.jpg,Crows_Feet,No,No,No,There are no visible crow's feet around the eyes.,True,True,Reason: There are no visible crow's feet around the eyes. Answer: No
+D005,D,35.jpg,Crows_Feet,No,No,No,There are no visible crow's feet around the eyes.,True,True,Reason: There are no visible crow's feet around the eyes. Answer: No
+D006,D,37.jpg,Crows_Feet,Yes,Yes,Yes,The wrinkles around the eyes indicate the presence of crow's feet.,True,True,Reason: The wrinkles around the eyes indicate the presence of crow's feet. Answer: Yes
+D007,D,469.jpg,Crows_Feet,Yes,Yes,Yes,The wrinkles around the eyes indicate the presence of crow's feet.,True,True,Reason: The wrinkles around the eyes indicate the presence of crow's feet. Answer: Yes
+D008,D,53.jpg,Crows_Feet,No,No,No,There are no visible crow's feet around the eyes.,True,True,Reason: There are no visible crow's feet around the eyes. Answer: No
+D009,D,564.jpg,Crows_Feet,Yes,Yes,No,There are no visible crow's feet around the eyes.,True,True,Reason: There are no visible crow's feet around the eyes. Answer: No
+D010,D,103.jpg,Forehead_Wrinkles,No,No,No,There are no visible wrinkles on the forehead.,True,True,Reason: There are no visible wrinkles on the forehead. Answer: No
+D011,D,127.jpg,Forehead_Wrinkles,No,No,No,There are no visible wrinkles on the forehead.,True,True,Reason: There are no visible wrinkles on the forehead. Answer: No
+D012,D,129.jpg,Forehead_Wrinkles,Yes,Yes,Yes,The person has visible lines on their forehead.,True,True,Reason: The person has visible lines on their forehead. Answer: Yes
+D013,D,186.jpg,Forehead_Wrinkles,No,No,No,There are no visible forehead wrinkles on the person's face.,True,True,Reason: There are no visible forehead wrinkles on the person's face. Answer: No
+D014,D,226.jpg,Forehead_Wrinkles,No,No,No,There are no visible wrinkles on the forehead.,True,True,Reason: There are no visible wrinkles on the forehead. Answer: No
+D015,D,377.jpg,Forehead_Wrinkles,Yes,Yes,No,The skin on the forehead appears smooth without visible wrinkles.,True,True,Reason: The skin on the forehead appears smooth without visible wrinkles. Answer: No
+D016,D,564.jpg,Forehead_Wrinkles,Yes,Yes,Yes,There are visible lines on the forehead.,True,True,Reason: There are visible lines on the forehead. Answer: Yes
+D017,D,62.jpg,Forehead_Wrinkles,Yes,Yes,Yes,There are visible wrinkles on the forehead.,True,True,Reason: There are visible wrinkles on the forehead. Answer: Yes
+D018,D,149.jpg,Nasolabial_Folds,Yes,Yes,Yes,The skin around the person's nose and mouth has visible lines.,True,True,Reason: The skin around the person's nose and mouth has visible lines. Answer: Yes
+D019,D,190.jpg,Nasolabial_Folds,Yes,Yes,Yes,Nasolabial folds are the lines that run from the sides of the nose to the corners of the mouth.,True,True,Reason: Nasolabial folds are the lines that run from the sides of the nose to the corners of the mouth. Answer: Yes
+D020,D,308.jpg,Nasolabial_Folds,Yes,Yes,Uncertain,Nasolabial folds are creases that run from the sides of the nose to the corners of the mouth.,True,True,Reason: Nasolabial folds are creases that run from the sides of the nose to the corners of the mouth. Answer: Uncertain
+D021,D,323.jpg,Nasolabial_Folds,Yes,Yes,Yes,The person has visible lines around the mouth area.,True,True,Reason: The person has visible lines around the mouth area. Answer: Yes
+D022,D,34.jpg,Nasolabial_Folds,Yes,Yes,Yes,Nasolabial folds are the lines that run from the sides of the nose to the corners of the mouth.,True,True,Reason: Nasolabial folds are the lines that run from the sides of the nose to the corners of the mouth. Answer: Yes
+D023,D,370.jpg,Nasolabial_Folds,Yes,Yes,Yes,The person has visible lines around the mouth area.,True,True,Reason: The person has visible lines around the mouth area. Answer: Yes
+D024,D,466.jpg,Nasolabial_Folds,Yes,Yes,Yes,Nasolabial folds are the lines that run from the sides of the nose to the corners of the mouth.,True,True,Reason: Nasolabial folds are the lines that run from the sides of the nose to the corners of the mouth. Answer: Yes
+D025,D,564.jpg,Nasolabial_Folds,Yes,Yes,Yes,Nasolabial folds are creases that run from the sides of the nose to the corners of the mouth.,True,True,Reason: Nasolabial folds are creases that run from the sides of the nose to the corners of the mouth. Answer: Yes
+E001,E,12526.jpg,Bags_Under_Eyes,Yes,No,No,There are no visible signs of bags under the eyes.,True,True,Reason: There are no visible signs of bags under the eyes. Answer: No
+E002,E,1338.jpg,Bags_Under_Eyes,Yes,No,No,There are no visible signs of bags under the eyes.,True,True,Reason: There are no visible signs of bags under the eyes. Answer: No
+E003,E,1616.jpg,Bags_Under_Eyes,Yes,No,No,There are no visible signs of bags under the eyes.,True,True,Reason: There are no visible signs of bags under the eyes. Answer: No
+E004,E,1850.jpg,Bags_Under_Eyes,Yes,No,No,There are no visible signs of bags under the eyes.,True,True,Reason: There are no visible signs of bags under the eyes. Answer: No
+E005,E,19179.jpg,Bags_Under_Eyes,Yes,No,No,There are no visible signs of dark circles or puffiness under the person's eyes.,True,True,Reason: There are no visible signs of dark circles or puffiness under the person's eyes. Answer: No
+E006,E,19963.jpg,Bags_Under_Eyes,Yes,No,No,There are no visible signs of dark circles or bags under the person's eyes.,True,True,Reason: There are no visible signs of dark circles or bags under the person's eyes. Answer: No
+E007,E,20306.jpg,Bags_Under_Eyes,Yes,No,No,There are no visible bags under the eyes.,True,True,Reason: There are no visible bags under the eyes. Answer: No
+E008,E,25407.jpg,Bags_Under_Eyes,Yes,No,No,There are no visible bags under the eyes.,True,True,Reason: There are no visible bags under the eyes. Answer: No
+E009,E,27005.jpg,Bags_Under_Eyes,Yes,No,No,There are no visible signs of bags under the eyes.,True,True,Reason: There are no visible signs of bags under the eyes. Answer: No
+E010,E,28212.jpg,Bags_Under_Eyes,Yes,No,No,There are no visible signs of bags under the eyes.,True,True,Reason: There are no visible signs of bags under the eyes. Answer: No
+E011,E,3651.jpg,Bags_Under_Eyes,Yes,No,No,There are no visible signs of bags under the eyes.,True,True,Reason: There are no visible signs of bags under the eyes. Answer: No
+E012,E,5361.jpg,Bags_Under_Eyes,Yes,No,No,There are no visible signs of bags under the eyes.,True,True,Reason: There are no visible signs of bags under the eyes. Answer: No
+E013,E,6621.jpg,Bags_Under_Eyes,Yes,No,No,There are no visible signs of bags under the eyes.,True,True,Reason: There are no visible signs of bags under the eyes. Answer: No
+E014,E,8349.jpg,Bags_Under_Eyes,Yes,No,No,There are no visible signs of bags under the eyes.,True,True,Reason: There are no visible signs of bags under the eyes. Answer: No
+E015,E,9930.jpg,Bags_Under_Eyes,Yes,No,No,There are no visible signs of bags under the eyes.,True,True,Reason: There are no visible signs of bags under the eyes. Answer: No
+E016,E,22914.jpg,Big_Nose,Yes,No,Uncertain,The image does not provide enough visual evidence to determine whether the person has a big nose.,True,True,Reason: The image does not provide enough visual evidence to determine whether the person has a big nose. Answer: Uncertain
+E017,E,24682.jpg,Big_Nose,Yes,No,Uncertain,"The image only shows the lower half of the person's face, making it impossible to accurately assess the size of the nose.",True,True,"Reason: The image only shows the lower half of the person's face, making it impossible to accurately assess the size of the nose. Answer: Uncertain"
+E018,E,26080.jpg,Big_Nose,Yes,No,Uncertain,The image does not provide enough visual evidence to determine the size of the person's nose.,True,True,Reason: The image does not provide enough visual evidence to determine the size of the person's nose. Answer: Uncertain
+E019,E,27883.jpg,Big_Nose,Yes,No,Uncertain,The image does not provide enough visual evidence to determine the size of the person's nose.,True,True,Reason: The image does not provide enough visual evidence to determine the size of the person's nose. Answer: Uncertain
+E020,E,4870.jpg,Big_Nose,Yes,No,Uncertain,"The image shows a close-up of the person's face, but there is not enough visual evidence to determine the size of the nose.",True,True,"Reason: The image shows a close-up of the person's face, but there is not enough visual evidence to determine the size of the nose. Answer: Uncertain"

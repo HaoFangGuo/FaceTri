@@ -1,0 +1,5 @@
+model,n,baseline_abstention,insample_abstention,new_abstention,shift_vs_baseline,answer_changed,unchanged_n,orig_accuracy_answered,new_accuracy_answered,format_followed
+Qwen2.5-VL-7B,88,0.006,fixed at 0,0.364,0.358,0.455,48,fixed by cells,0.429,1.0
+InternVL3-8B,88,0.442,0.58,0.17,-0.272,0.432,50,0.514,0.384,1.0
+Molmo2-O-7B,88,0.0,fixed at 0,0.955,0.955,0.955,4,fixed by cells,0.75,1.0
+MiniCPM-V-4,88,0.01,fixed at 0,0.398,0.388,0.5,44,fixed by cells,0.245,1.0

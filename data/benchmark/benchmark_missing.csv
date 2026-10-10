@@ -1,0 +1,9 @@
+id,image_name,attribute,label,prompt
+1898,533.jpg,Forehead_Wrinkles,Yes,"Carefully examine the facial image.
+Question: Does this person have forehead wrinkles?
+Answer with only one word: Yes, No, or Uncertain.
+If the image does not provide enough visual evidence to determine this attribute, answer Uncertain."
+2199,533.jpg,Crows_Feet,No,"Carefully examine the facial image.
+Question: Does this person have crow's feet?
+Answer with only one word: Yes, No, or Uncertain.
+If the image does not provide enough visual evidence to determine this attribute, answer Uncertain."

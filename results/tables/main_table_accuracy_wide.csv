@@ -1,0 +1,13 @@
+attribute,Qwen2.5-VL-7B,InternVL3-8B,Molmo2-O-7B,MiniCPM-V-4
+5_o_Clock_Shadow,0.855,0.855,0.875,0.87
+Bags_Under_Eyes,0.563,0.738,0.605,0.55
+Big_Lips,0.551,0.606,0.6,0.568
+Big_Nose,0.589,0.683,0.63,0.484
+Crows_Feet,0.6,0.889,0.715,0.57
+Double_Chin,0.746,0.814,0.755,0.612
+Forehead_Wrinkles,0.75,0.891,0.795,0.805
+Nasolabial_Folds,0.57,0.78,0.52,0.575
+Receding_Hairline,0.7,0.775,0.63,0.675
+Sideburns,0.94,0.907,0.845,0.845
+Straight_Hair,0.765,0.813,0.73,0.725
+Wavy_Hair,0.784,0.826,0.625,0.755

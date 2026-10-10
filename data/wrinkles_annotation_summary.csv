@@ -1,0 +1,4 @@
+attribute,n_images_3_annotators,n_full_agreement,pct_full_agreement,n_2to1_split,mean_entropy
+Forehead_Wrinkles,431,330,76.6,101,0.215
+Crows_Feet,431,281,65.2,150,0.319
+Nasolabial_Folds,431,286,66.4,145,0.309

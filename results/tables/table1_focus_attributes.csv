@@ -1,0 +1,16 @@
+model,attribute,labels,coverage,risk,precision,recall,f1
+Qwen2.5-VL-7B,Sideburns,CelebA,1.0,0.06,0.949,0.93,0.939
+Qwen2.5-VL-7B,Bags_Under_Eyes,CelebA,0.985,0.437,0.818,0.18,0.295
+Qwen2.5-VL-7B,Crows_Feet,ours,1.0,0.4,1.0,0.2,0.333
+Qwen2.5-VL-7B,Nasolabial_Folds,ours,1.0,0.43,0.538,0.99,0.697
+Qwen2.5-VL-7B,Forehead_Wrinkles,ours,1.0,0.25,0.821,0.64,0.719
+InternVL3-8B,Sideburns,CelebA,0.965,0.093,0.953,0.854,0.901
+InternVL3-8B,Bags_Under_Eyes,CelebA,0.725,0.262,0.86,0.581,0.694
+InternVL3-8B,Crows_Feet,ours,0.18,0.111,0.968,0.909,0.937
+InternVL3-8B,Nasolabial_Folds,ours,0.455,0.22,0.78,1.0,0.877
+InternVL3-8B,Forehead_Wrinkles,ours,0.595,0.109,0.963,0.825,0.889
+Molmo2-O-7B,Sideburns,CelebA,1.0,0.155,0.811,0.9,0.853
+Molmo2-O-7B,Bags_Under_Eyes,CelebA,1.0,0.395,0.59,0.69,0.636
+Molmo2-O-7B,Crows_Feet,ours,1.0,0.285,0.891,0.49,0.632
+Molmo2-O-7B,Nasolabial_Folds,ours,1.0,0.48,0.51,1.0,0.676
+Molmo2-O-7B,Forehead_Wrinkles,ours,1.0,0.205,0.766,0.85,0.806

@@ -1,0 +1,14 @@
+attribute,N,Coverage,Risk,EffectiveReliability,N_answered,Accuracy,Precision,Recall,F1
+5_o_Clock_Shadow,200,0.0,0.0,0.0,0,,,,
+Bags_Under_Eyes,200,0.0,0.0,0.0,0,,,,
+Big_Lips,200,0.0,0.0,0.0,0,,,,
+Big_Nose,200,0.0,0.0,0.0,0,,,,
+Crows_Feet,200,0.025,0.0,0.025,5,1.0,1.0,1.0,1.0
+Double_Chin,200,0.005,0.0,0.005,1,1.0,1.0,1.0,1.0
+Forehead_Wrinkles,200,0.045,0.0,0.045,9,1.0,1.0,1.0,1.0
+Nasolabial_Folds,200,0.0,0.0,0.0,0,,,,
+Receding_Hairline,200,0.0,0.0,0.0,0,,,,
+Sideburns,200,0.015,0.0,0.015,3,1.0,1.0,1.0,1.0
+Straight_Hair,200,0.0,0.0,0.0,0,,,,
+Wavy_Hair,200,0.005,0.0,0.005,1,1.0,0.0,0.0,0.0
+OVERALL,2400,0.007916666666666667,0.0,0.007916666666666667,19,1.0,1.0,1.0,1.0

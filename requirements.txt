@@ -1,0 +1,22 @@
+# Core (data prep, evaluation, analysis) — works on CPU, no GPU needed
+pandas
+numpy
+scipy
+scikit-learn
+statsmodels
+Pillow
+
+# Inference (GPU strongly recommended; install only what you need per model)
+# Qwen2.5-VL-7B-Instruct:
+#   torch transformers accelerate qwen-vl-utils
+# InternVL3-8B:
+#   torch transformers accelerate torchvision
+#   (uses trust_remote_code to pull custom modeling code)
+# Molmo2-O-7B:
+#   torch==<compatible> transformers==4.57.1 pillow einops torchvision accelerate decord2 molmo_utils
+#   (molmo_utils is not on PyPI; see the model card for the source)
+# MiniCPM-V-4:
+#   torch transformers accelerate
+#
+# See the docstring at the top of each script in src/inference/ for the
+# exact command used for that model.

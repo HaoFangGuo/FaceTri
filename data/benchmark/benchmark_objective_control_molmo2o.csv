@@ -1,0 +1,2401 @@
+id,image_name,attribute,label,prompt
+1,16988.jpg,Eyeglasses,Yes,"Carefully examine the facial image.
+Question: Is this person wearing eyeglasses?
+Answer with only one word: Yes, No, or Uncertain."
+2,179.jpg,Eyeglasses,Yes,"Carefully examine the facial image.
+Question: Is this person wearing eyeglasses?
+Answer with only one word: Yes, No, or Uncertain."
+3,9287.jpg,Eyeglasses,Yes,"Carefully examine the facial image.
+Question: Is this person wearing eyeglasses?
+Answer with only one word: Yes, No, or Uncertain."
+4,21455.jpg,Eyeglasses,Yes,"Carefully examine the facial image.
+Question: Is this person wearing eyeglasses?
+Answer with only one word: Yes, No, or Uncertain."
+5,10548.jpg,Eyeglasses,Yes,"Carefully examine the facial image.
+Question: Is this person wearing eyeglasses?
+Answer with only one word: Yes, No, or Uncertain."
+6,16483.jpg,Eyeglasses,Yes,"Carefully examine the facial image.
+Question: Is this person wearing eyeglasses?
+Answer with only one word: Yes, No, or Uncertain."
+7,20491.jpg,Eyeglasses,Yes,"Carefully examine the facial image.
+Question: Is this person wearing eyeglasses?
+Answer with only one word: Yes, No, or Uncertain."
+8,13054.jpg,Eyeglasses,Yes,"Carefully examine the facial image.
+Question: Is this person wearing eyeglasses?
+Answer with only one word: Yes, No, or Uncertain."
+9,295.jpg,Eyeglasses,Yes,"Carefully examine the facial image.
+Question: Is this person wearing eyeglasses?
+Answer with only one word: Yes, No, or Uncertain."
+10,2076.jpg,Eyeglasses,Yes,"Carefully examine the facial image.
+Question: Is this person wearing eyeglasses?
+Answer with only one word: Yes, No, or Uncertain."
+11,15263.jpg,Eyeglasses,Yes,"Carefully examine the facial image.
+Question: Is this person wearing eyeglasses?
+Answer with only one word: Yes, No, or Uncertain."
+12,25027.jpg,Eyeglasses,Yes,"Carefully examine the facial image.
+Question: Is this person wearing eyeglasses?
+Answer with only one word: Yes, No, or Uncertain."
+13,26584.jpg,Eyeglasses,Yes,"Carefully examine the facial image.
+Question: Is this person wearing eyeglasses?
+Answer with only one word: Yes, No, or Uncertain."
+14,24062.jpg,Eyeglasses,Yes,"Carefully examine the facial image.
+Question: Is this person wearing eyeglasses?
+Answer with only one word: Yes, No, or Uncertain."
+15,11115.jpg,Eyeglasses,Yes,"Carefully examine the facial image.
+Question: Is this person wearing eyeglasses?
+Answer with only one word: Yes, No, or Uncertain."
+16,7856.jpg,Eyeglasses,Yes,"Carefully examine the facial image.
+Question: Is this person wearing eyeglasses?
+Answer with only one word: Yes, No, or Uncertain."
+17,19338.jpg,Eyeglasses,Yes,"Carefully examine the facial image.
+Question: Is this person wearing eyeglasses?
+Answer with only one word: Yes, No, or Uncertain."
+18,924.jpg,Eyeglasses,Yes,"Carefully examine the facial image.
+Question: Is this person wearing eyeglasses?
+Answer with only one word: Yes, No, or Uncertain."
+19,10105.jpg,Eyeglasses,Yes,"Carefully examine the facial image.
+Question: Is this person wearing eyeglasses?
+Answer with only one word: Yes, No, or Uncertain."
+20,1565.jpg,Eyeglasses,Yes,"Carefully examine the facial image.
+Question: Is this person wearing eyeglasses?
+Answer with only one word: Yes, No, or Uncertain."
+21,27047.jpg,Eyeglasses,Yes,"Carefully examine the facial image.
+Question: Is this person wearing eyeglasses?
+Answer with only one word: Yes, No, or Uncertain."
+22,1384.jpg,Eyeglasses,Yes,"Carefully examine the facial image.
+Question: Is this person wearing eyeglasses?
+Answer with only one word: Yes, No, or Uncertain."
+23,10664.jpg,Eyeglasses,Yes,"Carefully examine the facial image.
+Question: Is this person wearing eyeglasses?
+Answer with only one word: Yes, No, or Uncertain."
+24,11471.jpg,Eyeglasses,Yes,"Carefully examine the facial image.
+Question: Is this person wearing eyeglasses?
+Answer with only one word: Yes, No, or Uncertain."
+25,2224.jpg,Eyeglasses,Yes,"Carefully examine the facial image.
+Question: Is this person wearing eyeglasses?
+Answer with only one word: Yes, No, or Uncertain."
+26,10797.jpg,Eyeglasses,Yes,"Carefully examine the facial image.
+Question: Is this person wearing eyeglasses?
+Answer with only one word: Yes, No, or Uncertain."
+27,29778.jpg,Eyeglasses,Yes,"Carefully examine the facial image.
+Question: Is this person wearing eyeglasses?
+Answer with only one word: Yes, No, or Uncertain."
+28,28973.jpg,Eyeglasses,Yes,"Carefully examine the facial image.
+Question: Is this person wearing eyeglasses?
+Answer with only one word: Yes, No, or Uncertain."
+29,386.jpg,Eyeglasses,Yes,"Carefully examine the facial image.
+Question: Is this person wearing eyeglasses?
+Answer with only one word: Yes, No, or Uncertain."
+30,12078.jpg,Eyeglasses,Yes,"Carefully examine the facial image.
+Question: Is this person wearing eyeglasses?
+Answer with only one word: Yes, No, or Uncertain."
+31,16275.jpg,Eyeglasses,Yes,"Carefully examine the facial image.
+Question: Is this person wearing eyeglasses?
+Answer with only one word: Yes, No, or Uncertain."
+32,10210.jpg,Eyeglasses,Yes,"Carefully examine the facial image.
+Question: Is this person wearing eyeglasses?
+Answer with only one word: Yes, No, or Uncertain."
+33,11341.jpg,Eyeglasses,Yes,"Carefully examine the facial image.
+Question: Is this person wearing eyeglasses?
+Answer with only one word: Yes, No, or Uncertain."
+34,22659.jpg,Eyeglasses,Yes,"Carefully examine the facial image.
+Question: Is this person wearing eyeglasses?
+Answer with only one word: Yes, No, or Uncertain."
+35,25653.jpg,Eyeglasses,Yes,"Carefully examine the facial image.
+Question: Is this person wearing eyeglasses?
+Answer with only one word: Yes, No, or Uncertain."
+36,1598.jpg,Eyeglasses,Yes,"Carefully examine the facial image.
+Question: Is this person wearing eyeglasses?
+Answer with only one word: Yes, No, or Uncertain."
+37,9412.jpg,Eyeglasses,Yes,"Carefully examine the facial image.
+Question: Is this person wearing eyeglasses?
+Answer with only one word: Yes, No, or Uncertain."
+38,1301.jpg,Eyeglasses,Yes,"Carefully examine the facial image.
+Question: Is this person wearing eyeglasses?
+Answer with only one word: Yes, No, or Uncertain."
+39,9155.jpg,Eyeglasses,Yes,"Carefully examine the facial image.
+Question: Is this person wearing eyeglasses?
+Answer with only one word: Yes, No, or Uncertain."
+40,11119.jpg,Eyeglasses,Yes,"Carefully examine the facial image.
+Question: Is this person wearing eyeglasses?
+Answer with only one word: Yes, No, or Uncertain."
+41,18561.jpg,Eyeglasses,Yes,"Carefully examine the facial image.
+Question: Is this person wearing eyeglasses?
+Answer with only one word: Yes, No, or Uncertain."
+42,14739.jpg,Eyeglasses,Yes,"Carefully examine the facial image.
+Question: Is this person wearing eyeglasses?
+Answer with only one word: Yes, No, or Uncertain."
+43,28416.jpg,Eyeglasses,Yes,"Carefully examine the facial image.
+Question: Is this person wearing eyeglasses?
+Answer with only one word: Yes, No, or Uncertain."
+44,15736.jpg,Eyeglasses,Yes,"Carefully examine the facial image.
+Question: Is this person wearing eyeglasses?
+Answer with only one word: Yes, No, or Uncertain."
+45,2570.jpg,Eyeglasses,Yes,"Carefully examine the facial image.
+Question: Is this person wearing eyeglasses?
+Answer with only one word: Yes, No, or Uncertain."
+46,7585.jpg,Eyeglasses,Yes,"Carefully examine the facial image.
+Question: Is this person wearing eyeglasses?
+Answer with only one word: Yes, No, or Uncertain."
+47,1094.jpg,Eyeglasses,Yes,"Carefully examine the facial image.
+Question: Is this person wearing eyeglasses?
+Answer with only one word: Yes, No, or Uncertain."
+48,7592.jpg,Eyeglasses,Yes,"Carefully examine the facial image.
+Question: Is this person wearing eyeglasses?
+Answer with only one word: Yes, No, or Uncertain."
+49,21546.jpg,Eyeglasses,Yes,"Carefully examine the facial image.
+Question: Is this person wearing eyeglasses?
+Answer with only one word: Yes, No, or Uncertain."
+50,20258.jpg,Eyeglasses,Yes,"Carefully examine the facial image.
+Question: Is this person wearing eyeglasses?
+Answer with only one word: Yes, No, or Uncertain."
+51,14952.jpg,Eyeglasses,Yes,"Carefully examine the facial image.
+Question: Is this person wearing eyeglasses?
+Answer with only one word: Yes, No, or Uncertain."
+52,2330.jpg,Eyeglasses,Yes,"Carefully examine the facial image.
+Question: Is this person wearing eyeglasses?
+Answer with only one word: Yes, No, or Uncertain."
+53,11220.jpg,Eyeglasses,Yes,"Carefully examine the facial image.
+Question: Is this person wearing eyeglasses?
+Answer with only one word: Yes, No, or Uncertain."
+54,9376.jpg,Eyeglasses,Yes,"Carefully examine the facial image.
+Question: Is this person wearing eyeglasses?
+Answer with only one word: Yes, No, or Uncertain."
+55,2961.jpg,Eyeglasses,Yes,"Carefully examine the facial image.
+Question: Is this person wearing eyeglasses?
+Answer with only one word: Yes, No, or Uncertain."
+56,24450.jpg,Eyeglasses,Yes,"Carefully examine the facial image.
+Question: Is this person wearing eyeglasses?
+Answer with only one word: Yes, No, or Uncertain."
+57,10312.jpg,Eyeglasses,Yes,"Carefully examine the facial image.
+Question: Is this person wearing eyeglasses?
+Answer with only one word: Yes, No, or Uncertain."
+58,11181.jpg,Eyeglasses,Yes,"Carefully examine the facial image.
+Question: Is this person wearing eyeglasses?
+Answer with only one word: Yes, No, or Uncertain."
+59,10847.jpg,Eyeglasses,Yes,"Carefully examine the facial image.
+Question: Is this person wearing eyeglasses?
+Answer with only one word: Yes, No, or Uncertain."
+60,4389.jpg,Eyeglasses,Yes,"Carefully examine the facial image.
+Question: Is this person wearing eyeglasses?
+Answer with only one word: Yes, No, or Uncertain."
+61,10265.jpg,Eyeglasses,Yes,"Carefully examine the facial image.
+Question: Is this person wearing eyeglasses?
+Answer with only one word: Yes, No, or Uncertain."
+62,14158.jpg,Eyeglasses,Yes,"Carefully examine the facial image.
+Question: Is this person wearing eyeglasses?
+Answer with only one word: Yes, No, or Uncertain."
+63,29379.jpg,Eyeglasses,Yes,"Carefully examine the facial image.
+Question: Is this person wearing eyeglasses?
+Answer with only one word: Yes, No, or Uncertain."
+64,10826.jpg,Eyeglasses,Yes,"Carefully examine the facial image.
+Question: Is this person wearing eyeglasses?
+Answer with only one word: Yes, No, or Uncertain."
+65,25861.jpg,Eyeglasses,Yes,"Carefully examine the facial image.
+Question: Is this person wearing eyeglasses?
+Answer with only one word: Yes, No, or Uncertain."
+66,11228.jpg,Eyeglasses,Yes,"Carefully examine the facial image.
+Question: Is this person wearing eyeglasses?
+Answer with only one word: Yes, No, or Uncertain."
+67,10418.jpg,Eyeglasses,Yes,"Carefully examine the facial image.
+Question: Is this person wearing eyeglasses?
+Answer with only one word: Yes, No, or Uncertain."
+68,15129.jpg,Eyeglasses,Yes,"Carefully examine the facial image.
+Question: Is this person wearing eyeglasses?
+Answer with only one word: Yes, No, or Uncertain."
+69,9073.jpg,Eyeglasses,Yes,"Carefully examine the facial image.
+Question: Is this person wearing eyeglasses?
+Answer with only one word: Yes, No, or Uncertain."
+70,10495.jpg,Eyeglasses,Yes,"Carefully examine the facial image.
+Question: Is this person wearing eyeglasses?
+Answer with only one word: Yes, No, or Uncertain."
+71,11541.jpg,Eyeglasses,Yes,"Carefully examine the facial image.
+Question: Is this person wearing eyeglasses?
+Answer with only one word: Yes, No, or Uncertain."
+72,8230.jpg,Eyeglasses,Yes,"Carefully examine the facial image.
+Question: Is this person wearing eyeglasses?
+Answer with only one word: Yes, No, or Uncertain."
+73,11187.jpg,Eyeglasses,Yes,"Carefully examine the facial image.
+Question: Is this person wearing eyeglasses?
+Answer with only one word: Yes, No, or Uncertain."
+74,10429.jpg,Eyeglasses,Yes,"Carefully examine the facial image.
+Question: Is this person wearing eyeglasses?
+Answer with only one word: Yes, No, or Uncertain."
+75,10507.jpg,Eyeglasses,Yes,"Carefully examine the facial image.
+Question: Is this person wearing eyeglasses?
+Answer with only one word: Yes, No, or Uncertain."
+76,29060.jpg,Eyeglasses,Yes,"Carefully examine the facial image.
+Question: Is this person wearing eyeglasses?
+Answer with only one word: Yes, No, or Uncertain."
+77,10471.jpg,Eyeglasses,Yes,"Carefully examine the facial image.
+Question: Is this person wearing eyeglasses?
+Answer with only one word: Yes, No, or Uncertain."
+78,28834.jpg,Eyeglasses,Yes,"Carefully examine the facial image.
+Question: Is this person wearing eyeglasses?
+Answer with only one word: Yes, No, or Uncertain."
+79,9565.jpg,Eyeglasses,Yes,"Carefully examine the facial image.
+Question: Is this person wearing eyeglasses?
+Answer with only one word: Yes, No, or Uncertain."
+80,2051.jpg,Eyeglasses,Yes,"Carefully examine the facial image.
+Question: Is this person wearing eyeglasses?
+Answer with only one word: Yes, No, or Uncertain."
+81,13908.jpg,Eyeglasses,Yes,"Carefully examine the facial image.
+Question: Is this person wearing eyeglasses?
+Answer with only one word: Yes, No, or Uncertain."
+82,9359.jpg,Eyeglasses,Yes,"Carefully examine the facial image.
+Question: Is this person wearing eyeglasses?
+Answer with only one word: Yes, No, or Uncertain."
+83,10433.jpg,Eyeglasses,Yes,"Carefully examine the facial image.
+Question: Is this person wearing eyeglasses?
+Answer with only one word: Yes, No, or Uncertain."
+84,168.jpg,Eyeglasses,Yes,"Carefully examine the facial image.
+Question: Is this person wearing eyeglasses?
+Answer with only one word: Yes, No, or Uncertain."
+85,2992.jpg,Eyeglasses,Yes,"Carefully examine the facial image.
+Question: Is this person wearing eyeglasses?
+Answer with only one word: Yes, No, or Uncertain."
+86,11015.jpg,Eyeglasses,Yes,"Carefully examine the facial image.
+Question: Is this person wearing eyeglasses?
+Answer with only one word: Yes, No, or Uncertain."
+87,11487.jpg,Eyeglasses,Yes,"Carefully examine the facial image.
+Question: Is this person wearing eyeglasses?
+Answer with only one word: Yes, No, or Uncertain."
+88,11633.jpg,Eyeglasses,Yes,"Carefully examine the facial image.
+Question: Is this person wearing eyeglasses?
+Answer with only one word: Yes, No, or Uncertain."
+89,7501.jpg,Eyeglasses,Yes,"Carefully examine the facial image.
+Question: Is this person wearing eyeglasses?
+Answer with only one word: Yes, No, or Uncertain."
+90,16608.jpg,Eyeglasses,Yes,"Carefully examine the facial image.
+Question: Is this person wearing eyeglasses?
+Answer with only one word: Yes, No, or Uncertain."
+91,9388.jpg,Eyeglasses,Yes,"Carefully examine the facial image.
+Question: Is this person wearing eyeglasses?
+Answer with only one word: Yes, No, or Uncertain."
+92,24359.jpg,Eyeglasses,Yes,"Carefully examine the facial image.
+Question: Is this person wearing eyeglasses?
+Answer with only one word: Yes, No, or Uncertain."
+93,27848.jpg,Eyeglasses,Yes,"Carefully examine the facial image.
+Question: Is this person wearing eyeglasses?
+Answer with only one word: Yes, No, or Uncertain."
+94,2120.jpg,Eyeglasses,Yes,"Carefully examine the facial image.
+Question: Is this person wearing eyeglasses?
+Answer with only one word: Yes, No, or Uncertain."
+95,478.jpg,Eyeglasses,Yes,"Carefully examine the facial image.
+Question: Is this person wearing eyeglasses?
+Answer with only one word: Yes, No, or Uncertain."
+96,2249.jpg,Eyeglasses,Yes,"Carefully examine the facial image.
+Question: Is this person wearing eyeglasses?
+Answer with only one word: Yes, No, or Uncertain."
+97,2003.jpg,Eyeglasses,Yes,"Carefully examine the facial image.
+Question: Is this person wearing eyeglasses?
+Answer with only one word: Yes, No, or Uncertain."
+98,2449.jpg,Eyeglasses,Yes,"Carefully examine the facial image.
+Question: Is this person wearing eyeglasses?
+Answer with only one word: Yes, No, or Uncertain."
+99,10470.jpg,Eyeglasses,Yes,"Carefully examine the facial image.
+Question: Is this person wearing eyeglasses?
+Answer with only one word: Yes, No, or Uncertain."
+100,1548.jpg,Eyeglasses,Yes,"Carefully examine the facial image.
+Question: Is this person wearing eyeglasses?
+Answer with only one word: Yes, No, or Uncertain."
+101,2625.jpg,Eyeglasses,No,"Carefully examine the facial image.
+Question: Is this person wearing eyeglasses?
+Answer with only one word: Yes, No, or Uncertain."
+102,10042.jpg,Eyeglasses,No,"Carefully examine the facial image.
+Question: Is this person wearing eyeglasses?
+Answer with only one word: Yes, No, or Uncertain."
+103,11026.jpg,Eyeglasses,No,"Carefully examine the facial image.
+Question: Is this person wearing eyeglasses?
+Answer with only one word: Yes, No, or Uncertain."
+104,9399.jpg,Eyeglasses,No,"Carefully examine the facial image.
+Question: Is this person wearing eyeglasses?
+Answer with only one word: Yes, No, or Uncertain."
+105,10249.jpg,Eyeglasses,No,"Carefully examine the facial image.
+Question: Is this person wearing eyeglasses?
+Answer with only one word: Yes, No, or Uncertain."
+106,8.jpg,Eyeglasses,No,"Carefully examine the facial image.
+Question: Is this person wearing eyeglasses?
+Answer with only one word: Yes, No, or Uncertain."
+107,160.jpg,Eyeglasses,No,"Carefully examine the facial image.
+Question: Is this person wearing eyeglasses?
+Answer with only one word: Yes, No, or Uncertain."
+108,23.jpg,Eyeglasses,No,"Carefully examine the facial image.
+Question: Is this person wearing eyeglasses?
+Answer with only one word: Yes, No, or Uncertain."
+109,23788.jpg,Eyeglasses,No,"Carefully examine the facial image.
+Question: Is this person wearing eyeglasses?
+Answer with only one word: Yes, No, or Uncertain."
+110,4217.jpg,Eyeglasses,No,"Carefully examine the facial image.
+Question: Is this person wearing eyeglasses?
+Answer with only one word: Yes, No, or Uncertain."
+111,234.jpg,Eyeglasses,No,"Carefully examine the facial image.
+Question: Is this person wearing eyeglasses?
+Answer with only one word: Yes, No, or Uncertain."
+112,16776.jpg,Eyeglasses,No,"Carefully examine the facial image.
+Question: Is this person wearing eyeglasses?
+Answer with only one word: Yes, No, or Uncertain."
+113,80.jpg,Eyeglasses,No,"Carefully examine the facial image.
+Question: Is this person wearing eyeglasses?
+Answer with only one word: Yes, No, or Uncertain."
+114,9420.jpg,Eyeglasses,No,"Carefully examine the facial image.
+Question: Is this person wearing eyeglasses?
+Answer with only one word: Yes, No, or Uncertain."
+115,9090.jpg,Eyeglasses,No,"Carefully examine the facial image.
+Question: Is this person wearing eyeglasses?
+Answer with only one word: Yes, No, or Uncertain."
+116,11164.jpg,Eyeglasses,No,"Carefully examine the facial image.
+Question: Is this person wearing eyeglasses?
+Answer with only one word: Yes, No, or Uncertain."
+117,23344.jpg,Eyeglasses,No,"Carefully examine the facial image.
+Question: Is this person wearing eyeglasses?
+Answer with only one word: Yes, No, or Uncertain."
+118,2726.jpg,Eyeglasses,No,"Carefully examine the facial image.
+Question: Is this person wearing eyeglasses?
+Answer with only one word: Yes, No, or Uncertain."
+119,18390.jpg,Eyeglasses,No,"Carefully examine the facial image.
+Question: Is this person wearing eyeglasses?
+Answer with only one word: Yes, No, or Uncertain."
+120,10156.jpg,Eyeglasses,No,"Carefully examine the facial image.
+Question: Is this person wearing eyeglasses?
+Answer with only one word: Yes, No, or Uncertain."
+121,10269.jpg,Eyeglasses,No,"Carefully examine the facial image.
+Question: Is this person wearing eyeglasses?
+Answer with only one word: Yes, No, or Uncertain."
+122,1562.jpg,Eyeglasses,No,"Carefully examine the facial image.
+Question: Is this person wearing eyeglasses?
+Answer with only one word: Yes, No, or Uncertain."
+123,10687.jpg,Eyeglasses,No,"Carefully examine the facial image.
+Question: Is this person wearing eyeglasses?
+Answer with only one word: Yes, No, or Uncertain."
+124,1310.jpg,Eyeglasses,No,"Carefully examine the facial image.
+Question: Is this person wearing eyeglasses?
+Answer with only one word: Yes, No, or Uncertain."
+125,11041.jpg,Eyeglasses,No,"Carefully examine the facial image.
+Question: Is this person wearing eyeglasses?
+Answer with only one word: Yes, No, or Uncertain."
+126,14841.jpg,Eyeglasses,No,"Carefully examine the facial image.
+Question: Is this person wearing eyeglasses?
+Answer with only one word: Yes, No, or Uncertain."
+127,26525.jpg,Eyeglasses,No,"Carefully examine the facial image.
+Question: Is this person wearing eyeglasses?
+Answer with only one word: Yes, No, or Uncertain."
+128,11054.jpg,Eyeglasses,No,"Carefully examine the facial image.
+Question: Is this person wearing eyeglasses?
+Answer with only one word: Yes, No, or Uncertain."
+129,2892.jpg,Eyeglasses,No,"Carefully examine the facial image.
+Question: Is this person wearing eyeglasses?
+Answer with only one word: Yes, No, or Uncertain."
+130,29433.jpg,Eyeglasses,No,"Carefully examine the facial image.
+Question: Is this person wearing eyeglasses?
+Answer with only one word: Yes, No, or Uncertain."
+131,356.jpg,Eyeglasses,No,"Carefully examine the facial image.
+Question: Is this person wearing eyeglasses?
+Answer with only one word: Yes, No, or Uncertain."
+132,25883.jpg,Eyeglasses,No,"Carefully examine the facial image.
+Question: Is this person wearing eyeglasses?
+Answer with only one word: Yes, No, or Uncertain."
+133,81.jpg,Eyeglasses,No,"Carefully examine the facial image.
+Question: Is this person wearing eyeglasses?
+Answer with only one word: Yes, No, or Uncertain."
+134,306.jpg,Eyeglasses,No,"Carefully examine the facial image.
+Question: Is this person wearing eyeglasses?
+Answer with only one word: Yes, No, or Uncertain."
+135,20830.jpg,Eyeglasses,No,"Carefully examine the facial image.
+Question: Is this person wearing eyeglasses?
+Answer with only one word: Yes, No, or Uncertain."
+136,10338.jpg,Eyeglasses,No,"Carefully examine the facial image.
+Question: Is this person wearing eyeglasses?
+Answer with only one word: Yes, No, or Uncertain."
+137,2252.jpg,Eyeglasses,No,"Carefully examine the facial image.
+Question: Is this person wearing eyeglasses?
+Answer with only one word: Yes, No, or Uncertain."
+138,10849.jpg,Eyeglasses,No,"Carefully examine the facial image.
+Question: Is this person wearing eyeglasses?
+Answer with only one word: Yes, No, or Uncertain."
+139,10651.jpg,Eyeglasses,No,"Carefully examine the facial image.
+Question: Is this person wearing eyeglasses?
+Answer with only one word: Yes, No, or Uncertain."
+140,10155.jpg,Eyeglasses,No,"Carefully examine the facial image.
+Question: Is this person wearing eyeglasses?
+Answer with only one word: Yes, No, or Uncertain."
+141,2525.jpg,Eyeglasses,No,"Carefully examine the facial image.
+Question: Is this person wearing eyeglasses?
+Answer with only one word: Yes, No, or Uncertain."
+142,2424.jpg,Eyeglasses,No,"Carefully examine the facial image.
+Question: Is this person wearing eyeglasses?
+Answer with only one word: Yes, No, or Uncertain."
+143,23545.jpg,Eyeglasses,No,"Carefully examine the facial image.
+Question: Is this person wearing eyeglasses?
+Answer with only one word: Yes, No, or Uncertain."
+144,11532.jpg,Eyeglasses,No,"Carefully examine the facial image.
+Question: Is this person wearing eyeglasses?
+Answer with only one word: Yes, No, or Uncertain."
+145,10584.jpg,Eyeglasses,No,"Carefully examine the facial image.
+Question: Is this person wearing eyeglasses?
+Answer with only one word: Yes, No, or Uncertain."
+146,11395.jpg,Eyeglasses,No,"Carefully examine the facial image.
+Question: Is this person wearing eyeglasses?
+Answer with only one word: Yes, No, or Uncertain."
+147,1268.jpg,Eyeglasses,No,"Carefully examine the facial image.
+Question: Is this person wearing eyeglasses?
+Answer with only one word: Yes, No, or Uncertain."
+148,11435.jpg,Eyeglasses,No,"Carefully examine the facial image.
+Question: Is this person wearing eyeglasses?
+Answer with only one word: Yes, No, or Uncertain."
+149,247.jpg,Eyeglasses,No,"Carefully examine the facial image.
+Question: Is this person wearing eyeglasses?
+Answer with only one word: Yes, No, or Uncertain."
+150,1685.jpg,Eyeglasses,No,"Carefully examine the facial image.
+Question: Is this person wearing eyeglasses?
+Answer with only one word: Yes, No, or Uncertain."
+151,1533.jpg,Eyeglasses,No,"Carefully examine the facial image.
+Question: Is this person wearing eyeglasses?
+Answer with only one word: Yes, No, or Uncertain."
+152,24417.jpg,Eyeglasses,No,"Carefully examine the facial image.
+Question: Is this person wearing eyeglasses?
+Answer with only one word: Yes, No, or Uncertain."
+153,15240.jpg,Eyeglasses,No,"Carefully examine the facial image.
+Question: Is this person wearing eyeglasses?
+Answer with only one word: Yes, No, or Uncertain."
+154,24701.jpg,Eyeglasses,No,"Carefully examine the facial image.
+Question: Is this person wearing eyeglasses?
+Answer with only one word: Yes, No, or Uncertain."
+155,9093.jpg,Eyeglasses,No,"Carefully examine the facial image.
+Question: Is this person wearing eyeglasses?
+Answer with only one word: Yes, No, or Uncertain."
+156,6244.jpg,Eyeglasses,No,"Carefully examine the facial image.
+Question: Is this person wearing eyeglasses?
+Answer with only one word: Yes, No, or Uncertain."
+157,20553.jpg,Eyeglasses,No,"Carefully examine the facial image.
+Question: Is this person wearing eyeglasses?
+Answer with only one word: Yes, No, or Uncertain."
+158,1258.jpg,Eyeglasses,No,"Carefully examine the facial image.
+Question: Is this person wearing eyeglasses?
+Answer with only one word: Yes, No, or Uncertain."
+159,627.jpg,Eyeglasses,No,"Carefully examine the facial image.
+Question: Is this person wearing eyeglasses?
+Answer with only one word: Yes, No, or Uncertain."
+160,9055.jpg,Eyeglasses,No,"Carefully examine the facial image.
+Question: Is this person wearing eyeglasses?
+Answer with only one word: Yes, No, or Uncertain."
+161,22390.jpg,Eyeglasses,No,"Carefully examine the facial image.
+Question: Is this person wearing eyeglasses?
+Answer with only one word: Yes, No, or Uncertain."
+162,11453.jpg,Eyeglasses,No,"Carefully examine the facial image.
+Question: Is this person wearing eyeglasses?
+Answer with only one word: Yes, No, or Uncertain."
+163,2099.jpg,Eyeglasses,No,"Carefully examine the facial image.
+Question: Is this person wearing eyeglasses?
+Answer with only one word: Yes, No, or Uncertain."
+164,19134.jpg,Eyeglasses,No,"Carefully examine the facial image.
+Question: Is this person wearing eyeglasses?
+Answer with only one word: Yes, No, or Uncertain."
+165,16915.jpg,Eyeglasses,No,"Carefully examine the facial image.
+Question: Is this person wearing eyeglasses?
+Answer with only one word: Yes, No, or Uncertain."
+166,12304.jpg,Eyeglasses,No,"Carefully examine the facial image.
+Question: Is this person wearing eyeglasses?
+Answer with only one word: Yes, No, or Uncertain."
+167,16952.jpg,Eyeglasses,No,"Carefully examine the facial image.
+Question: Is this person wearing eyeglasses?
+Answer with only one word: Yes, No, or Uncertain."
+168,25792.jpg,Eyeglasses,No,"Carefully examine the facial image.
+Question: Is this person wearing eyeglasses?
+Answer with only one word: Yes, No, or Uncertain."
+169,10442.jpg,Eyeglasses,No,"Carefully examine the facial image.
+Question: Is this person wearing eyeglasses?
+Answer with only one word: Yes, No, or Uncertain."
+170,4841.jpg,Eyeglasses,No,"Carefully examine the facial image.
+Question: Is this person wearing eyeglasses?
+Answer with only one word: Yes, No, or Uncertain."
+171,2009.jpg,Eyeglasses,No,"Carefully examine the facial image.
+Question: Is this person wearing eyeglasses?
+Answer with only one word: Yes, No, or Uncertain."
+172,21327.jpg,Eyeglasses,No,"Carefully examine the facial image.
+Question: Is this person wearing eyeglasses?
+Answer with only one word: Yes, No, or Uncertain."
+173,1430.jpg,Eyeglasses,No,"Carefully examine the facial image.
+Question: Is this person wearing eyeglasses?
+Answer with only one word: Yes, No, or Uncertain."
+174,2282.jpg,Eyeglasses,No,"Carefully examine the facial image.
+Question: Is this person wearing eyeglasses?
+Answer with only one word: Yes, No, or Uncertain."
+175,9164.jpg,Eyeglasses,No,"Carefully examine the facial image.
+Question: Is this person wearing eyeglasses?
+Answer with only one word: Yes, No, or Uncertain."
+176,10719.jpg,Eyeglasses,No,"Carefully examine the facial image.
+Question: Is this person wearing eyeglasses?
+Answer with only one word: Yes, No, or Uncertain."
+177,16742.jpg,Eyeglasses,No,"Carefully examine the facial image.
+Question: Is this person wearing eyeglasses?
+Answer with only one word: Yes, No, or Uncertain."
+178,13491.jpg,Eyeglasses,No,"Carefully examine the facial image.
+Question: Is this person wearing eyeglasses?
+Answer with only one word: Yes, No, or Uncertain."
+179,1338.jpg,Eyeglasses,No,"Carefully examine the facial image.
+Question: Is this person wearing eyeglasses?
+Answer with only one word: Yes, No, or Uncertain."
+180,894.jpg,Eyeglasses,No,"Carefully examine the facial image.
+Question: Is this person wearing eyeglasses?
+Answer with only one word: Yes, No, or Uncertain."
+181,10945.jpg,Eyeglasses,No,"Carefully examine the facial image.
+Question: Is this person wearing eyeglasses?
+Answer with only one word: Yes, No, or Uncertain."
+182,2405.jpg,Eyeglasses,No,"Carefully examine the facial image.
+Question: Is this person wearing eyeglasses?
+Answer with only one word: Yes, No, or Uncertain."
+183,18138.jpg,Eyeglasses,No,"Carefully examine the facial image.
+Question: Is this person wearing eyeglasses?
+Answer with only one word: Yes, No, or Uncertain."
+184,1464.jpg,Eyeglasses,No,"Carefully examine the facial image.
+Question: Is this person wearing eyeglasses?
+Answer with only one word: Yes, No, or Uncertain."
+185,22214.jpg,Eyeglasses,No,"Carefully examine the facial image.
+Question: Is this person wearing eyeglasses?
+Answer with only one word: Yes, No, or Uncertain."
+186,9151.jpg,Eyeglasses,No,"Carefully examine the facial image.
+Question: Is this person wearing eyeglasses?
+Answer with only one word: Yes, No, or Uncertain."
+187,14805.jpg,Eyeglasses,No,"Carefully examine the facial image.
+Question: Is this person wearing eyeglasses?
+Answer with only one word: Yes, No, or Uncertain."
+188,11488.jpg,Eyeglasses,No,"Carefully examine the facial image.
+Question: Is this person wearing eyeglasses?
+Answer with only one word: Yes, No, or Uncertain."
+189,9228.jpg,Eyeglasses,No,"Carefully examine the facial image.
+Question: Is this person wearing eyeglasses?
+Answer with only one word: Yes, No, or Uncertain."
+190,12727.jpg,Eyeglasses,No,"Carefully examine the facial image.
+Question: Is this person wearing eyeglasses?
+Answer with only one word: Yes, No, or Uncertain."
+191,16269.jpg,Eyeglasses,No,"Carefully examine the facial image.
+Question: Is this person wearing eyeglasses?
+Answer with only one word: Yes, No, or Uncertain."
+192,11437.jpg,Eyeglasses,No,"Carefully examine the facial image.
+Question: Is this person wearing eyeglasses?
+Answer with only one word: Yes, No, or Uncertain."
+193,29.jpg,Eyeglasses,No,"Carefully examine the facial image.
+Question: Is this person wearing eyeglasses?
+Answer with only one word: Yes, No, or Uncertain."
+194,10574.jpg,Eyeglasses,No,"Carefully examine the facial image.
+Question: Is this person wearing eyeglasses?
+Answer with only one word: Yes, No, or Uncertain."
+195,1557.jpg,Eyeglasses,No,"Carefully examine the facial image.
+Question: Is this person wearing eyeglasses?
+Answer with only one word: Yes, No, or Uncertain."
+196,11279.jpg,Eyeglasses,No,"Carefully examine the facial image.
+Question: Is this person wearing eyeglasses?
+Answer with only one word: Yes, No, or Uncertain."
+197,2669.jpg,Eyeglasses,No,"Carefully examine the facial image.
+Question: Is this person wearing eyeglasses?
+Answer with only one word: Yes, No, or Uncertain."
+198,1272.jpg,Eyeglasses,No,"Carefully examine the facial image.
+Question: Is this person wearing eyeglasses?
+Answer with only one word: Yes, No, or Uncertain."
+199,11649.jpg,Eyeglasses,No,"Carefully examine the facial image.
+Question: Is this person wearing eyeglasses?
+Answer with only one word: Yes, No, or Uncertain."
+200,2105.jpg,Eyeglasses,No,"Carefully examine the facial image.
+Question: Is this person wearing eyeglasses?
+Answer with only one word: Yes, No, or Uncertain."
+201,1615.jpg,Wearing_Hat,Yes,"Carefully examine the facial image.
+Question: Is this person wearing a hat?
+Answer with only one word: Yes, No, or Uncertain."
+202,1384.jpg,Wearing_Hat,Yes,"Carefully examine the facial image.
+Question: Is this person wearing a hat?
+Answer with only one word: Yes, No, or Uncertain."
+203,10723.jpg,Wearing_Hat,Yes,"Carefully examine the facial image.
+Question: Is this person wearing a hat?
+Answer with only one word: Yes, No, or Uncertain."
+204,9327.jpg,Wearing_Hat,Yes,"Carefully examine the facial image.
+Question: Is this person wearing a hat?
+Answer with only one word: Yes, No, or Uncertain."
+205,8472.jpg,Wearing_Hat,Yes,"Carefully examine the facial image.
+Question: Is this person wearing a hat?
+Answer with only one word: Yes, No, or Uncertain."
+206,2778.jpg,Wearing_Hat,Yes,"Carefully examine the facial image.
+Question: Is this person wearing a hat?
+Answer with only one word: Yes, No, or Uncertain."
+207,11497.jpg,Wearing_Hat,Yes,"Carefully examine the facial image.
+Question: Is this person wearing a hat?
+Answer with only one word: Yes, No, or Uncertain."
+208,20343.jpg,Wearing_Hat,Yes,"Carefully examine the facial image.
+Question: Is this person wearing a hat?
+Answer with only one word: Yes, No, or Uncertain."
+209,29654.jpg,Wearing_Hat,Yes,"Carefully examine the facial image.
+Question: Is this person wearing a hat?
+Answer with only one word: Yes, No, or Uncertain."
+210,21546.jpg,Wearing_Hat,Yes,"Carefully examine the facial image.
+Question: Is this person wearing a hat?
+Answer with only one word: Yes, No, or Uncertain."
+211,9066.jpg,Wearing_Hat,Yes,"Carefully examine the facial image.
+Question: Is this person wearing a hat?
+Answer with only one word: Yes, No, or Uncertain."
+212,14805.jpg,Wearing_Hat,Yes,"Carefully examine the facial image.
+Question: Is this person wearing a hat?
+Answer with only one word: Yes, No, or Uncertain."
+213,16962.jpg,Wearing_Hat,Yes,"Carefully examine the facial image.
+Question: Is this person wearing a hat?
+Answer with only one word: Yes, No, or Uncertain."
+214,24197.jpg,Wearing_Hat,Yes,"Carefully examine the facial image.
+Question: Is this person wearing a hat?
+Answer with only one word: Yes, No, or Uncertain."
+215,3239.jpg,Wearing_Hat,Yes,"Carefully examine the facial image.
+Question: Is this person wearing a hat?
+Answer with only one word: Yes, No, or Uncertain."
+216,27315.jpg,Wearing_Hat,Yes,"Carefully examine the facial image.
+Question: Is this person wearing a hat?
+Answer with only one word: Yes, No, or Uncertain."
+217,1651.jpg,Wearing_Hat,Yes,"Carefully examine the facial image.
+Question: Is this person wearing a hat?
+Answer with only one word: Yes, No, or Uncertain."
+218,9337.jpg,Wearing_Hat,Yes,"Carefully examine the facial image.
+Question: Is this person wearing a hat?
+Answer with only one word: Yes, No, or Uncertain."
+219,3151.jpg,Wearing_Hat,Yes,"Carefully examine the facial image.
+Question: Is this person wearing a hat?
+Answer with only one word: Yes, No, or Uncertain."
+220,11515.jpg,Wearing_Hat,Yes,"Carefully examine the facial image.
+Question: Is this person wearing a hat?
+Answer with only one word: Yes, No, or Uncertain."
+221,19827.jpg,Wearing_Hat,Yes,"Carefully examine the facial image.
+Question: Is this person wearing a hat?
+Answer with only one word: Yes, No, or Uncertain."
+222,10326.jpg,Wearing_Hat,Yes,"Carefully examine the facial image.
+Question: Is this person wearing a hat?
+Answer with only one word: Yes, No, or Uncertain."
+223,10296.jpg,Wearing_Hat,Yes,"Carefully examine the facial image.
+Question: Is this person wearing a hat?
+Answer with only one word: Yes, No, or Uncertain."
+224,2289.jpg,Wearing_Hat,Yes,"Carefully examine the facial image.
+Question: Is this person wearing a hat?
+Answer with only one word: Yes, No, or Uncertain."
+225,10956.jpg,Wearing_Hat,Yes,"Carefully examine the facial image.
+Question: Is this person wearing a hat?
+Answer with only one word: Yes, No, or Uncertain."
+226,1629.jpg,Wearing_Hat,Yes,"Carefully examine the facial image.
+Question: Is this person wearing a hat?
+Answer with only one word: Yes, No, or Uncertain."
+227,18125.jpg,Wearing_Hat,Yes,"Carefully examine the facial image.
+Question: Is this person wearing a hat?
+Answer with only one word: Yes, No, or Uncertain."
+228,9531.jpg,Wearing_Hat,Yes,"Carefully examine the facial image.
+Question: Is this person wearing a hat?
+Answer with only one word: Yes, No, or Uncertain."
+229,15984.jpg,Wearing_Hat,Yes,"Carefully examine the facial image.
+Question: Is this person wearing a hat?
+Answer with only one word: Yes, No, or Uncertain."
+230,10908.jpg,Wearing_Hat,Yes,"Carefully examine the facial image.
+Question: Is this person wearing a hat?
+Answer with only one word: Yes, No, or Uncertain."
+231,8282.jpg,Wearing_Hat,Yes,"Carefully examine the facial image.
+Question: Is this person wearing a hat?
+Answer with only one word: Yes, No, or Uncertain."
+232,9027.jpg,Wearing_Hat,Yes,"Carefully examine the facial image.
+Question: Is this person wearing a hat?
+Answer with only one word: Yes, No, or Uncertain."
+233,11016.jpg,Wearing_Hat,Yes,"Carefully examine the facial image.
+Question: Is this person wearing a hat?
+Answer with only one word: Yes, No, or Uncertain."
+234,9008.jpg,Wearing_Hat,Yes,"Carefully examine the facial image.
+Question: Is this person wearing a hat?
+Answer with only one word: Yes, No, or Uncertain."
+235,9281.jpg,Wearing_Hat,Yes,"Carefully examine the facial image.
+Question: Is this person wearing a hat?
+Answer with only one word: Yes, No, or Uncertain."
+236,10384.jpg,Wearing_Hat,Yes,"Carefully examine the facial image.
+Question: Is this person wearing a hat?
+Answer with only one word: Yes, No, or Uncertain."
+237,11423.jpg,Wearing_Hat,Yes,"Carefully examine the facial image.
+Question: Is this person wearing a hat?
+Answer with only one word: Yes, No, or Uncertain."
+238,11352.jpg,Wearing_Hat,Yes,"Carefully examine the facial image.
+Question: Is this person wearing a hat?
+Answer with only one word: Yes, No, or Uncertain."
+239,16747.jpg,Wearing_Hat,Yes,"Carefully examine the facial image.
+Question: Is this person wearing a hat?
+Answer with only one word: Yes, No, or Uncertain."
+240,9369.jpg,Wearing_Hat,Yes,"Carefully examine the facial image.
+Question: Is this person wearing a hat?
+Answer with only one word: Yes, No, or Uncertain."
+241,9363.jpg,Wearing_Hat,Yes,"Carefully examine the facial image.
+Question: Is this person wearing a hat?
+Answer with only one word: Yes, No, or Uncertain."
+242,29096.jpg,Wearing_Hat,Yes,"Carefully examine the facial image.
+Question: Is this person wearing a hat?
+Answer with only one word: Yes, No, or Uncertain."
+243,10204.jpg,Wearing_Hat,Yes,"Carefully examine the facial image.
+Question: Is this person wearing a hat?
+Answer with only one word: Yes, No, or Uncertain."
+244,2607.jpg,Wearing_Hat,Yes,"Carefully examine the facial image.
+Question: Is this person wearing a hat?
+Answer with only one word: Yes, No, or Uncertain."
+245,2210.jpg,Wearing_Hat,Yes,"Carefully examine the facial image.
+Question: Is this person wearing a hat?
+Answer with only one word: Yes, No, or Uncertain."
+246,10303.jpg,Wearing_Hat,Yes,"Carefully examine the facial image.
+Question: Is this person wearing a hat?
+Answer with only one word: Yes, No, or Uncertain."
+247,10646.jpg,Wearing_Hat,Yes,"Carefully examine the facial image.
+Question: Is this person wearing a hat?
+Answer with only one word: Yes, No, or Uncertain."
+248,2279.jpg,Wearing_Hat,Yes,"Carefully examine the facial image.
+Question: Is this person wearing a hat?
+Answer with only one word: Yes, No, or Uncertain."
+249,2042.jpg,Wearing_Hat,Yes,"Carefully examine the facial image.
+Question: Is this person wearing a hat?
+Answer with only one word: Yes, No, or Uncertain."
+250,5066.jpg,Wearing_Hat,Yes,"Carefully examine the facial image.
+Question: Is this person wearing a hat?
+Answer with only one word: Yes, No, or Uncertain."
+251,13868.jpg,Wearing_Hat,Yes,"Carefully examine the facial image.
+Question: Is this person wearing a hat?
+Answer with only one word: Yes, No, or Uncertain."
+252,16965.jpg,Wearing_Hat,Yes,"Carefully examine the facial image.
+Question: Is this person wearing a hat?
+Answer with only one word: Yes, No, or Uncertain."
+253,10128.jpg,Wearing_Hat,Yes,"Carefully examine the facial image.
+Question: Is this person wearing a hat?
+Answer with only one word: Yes, No, or Uncertain."
+254,190.jpg,Wearing_Hat,Yes,"Carefully examine the facial image.
+Question: Is this person wearing a hat?
+Answer with only one word: Yes, No, or Uncertain."
+255,11059.jpg,Wearing_Hat,Yes,"Carefully examine the facial image.
+Question: Is this person wearing a hat?
+Answer with only one word: Yes, No, or Uncertain."
+256,10791.jpg,Wearing_Hat,Yes,"Carefully examine the facial image.
+Question: Is this person wearing a hat?
+Answer with only one word: Yes, No, or Uncertain."
+257,27848.jpg,Wearing_Hat,Yes,"Carefully examine the facial image.
+Question: Is this person wearing a hat?
+Answer with only one word: Yes, No, or Uncertain."
+258,11454.jpg,Wearing_Hat,Yes,"Carefully examine the facial image.
+Question: Is this person wearing a hat?
+Answer with only one word: Yes, No, or Uncertain."
+259,25027.jpg,Wearing_Hat,Yes,"Carefully examine the facial image.
+Question: Is this person wearing a hat?
+Answer with only one word: Yes, No, or Uncertain."
+260,19629.jpg,Wearing_Hat,Yes,"Carefully examine the facial image.
+Question: Is this person wearing a hat?
+Answer with only one word: Yes, No, or Uncertain."
+261,9173.jpg,Wearing_Hat,Yes,"Carefully examine the facial image.
+Question: Is this person wearing a hat?
+Answer with only one word: Yes, No, or Uncertain."
+262,17825.jpg,Wearing_Hat,Yes,"Carefully examine the facial image.
+Question: Is this person wearing a hat?
+Answer with only one word: Yes, No, or Uncertain."
+263,10338.jpg,Wearing_Hat,Yes,"Carefully examine the facial image.
+Question: Is this person wearing a hat?
+Answer with only one word: Yes, No, or Uncertain."
+264,2316.jpg,Wearing_Hat,Yes,"Carefully examine the facial image.
+Question: Is this person wearing a hat?
+Answer with only one word: Yes, No, or Uncertain."
+265,1491.jpg,Wearing_Hat,Yes,"Carefully examine the facial image.
+Question: Is this person wearing a hat?
+Answer with only one word: Yes, No, or Uncertain."
+266,2522.jpg,Wearing_Hat,Yes,"Carefully examine the facial image.
+Question: Is this person wearing a hat?
+Answer with only one word: Yes, No, or Uncertain."
+267,10825.jpg,Wearing_Hat,Yes,"Carefully examine the facial image.
+Question: Is this person wearing a hat?
+Answer with only one word: Yes, No, or Uncertain."
+268,2656.jpg,Wearing_Hat,Yes,"Carefully examine the facial image.
+Question: Is this person wearing a hat?
+Answer with only one word: Yes, No, or Uncertain."
+269,9210.jpg,Wearing_Hat,Yes,"Carefully examine the facial image.
+Question: Is this person wearing a hat?
+Answer with only one word: Yes, No, or Uncertain."
+270,12335.jpg,Wearing_Hat,Yes,"Carefully examine the facial image.
+Question: Is this person wearing a hat?
+Answer with only one word: Yes, No, or Uncertain."
+271,11403.jpg,Wearing_Hat,Yes,"Carefully examine the facial image.
+Question: Is this person wearing a hat?
+Answer with only one word: Yes, No, or Uncertain."
+272,2903.jpg,Wearing_Hat,Yes,"Carefully examine the facial image.
+Question: Is this person wearing a hat?
+Answer with only one word: Yes, No, or Uncertain."
+273,10844.jpg,Wearing_Hat,Yes,"Carefully examine the facial image.
+Question: Is this person wearing a hat?
+Answer with only one word: Yes, No, or Uncertain."
+274,16325.jpg,Wearing_Hat,Yes,"Carefully examine the facial image.
+Question: Is this person wearing a hat?
+Answer with only one word: Yes, No, or Uncertain."
+275,2644.jpg,Wearing_Hat,Yes,"Carefully examine the facial image.
+Question: Is this person wearing a hat?
+Answer with only one word: Yes, No, or Uncertain."
+276,10821.jpg,Wearing_Hat,Yes,"Carefully examine the facial image.
+Question: Is this person wearing a hat?
+Answer with only one word: Yes, No, or Uncertain."
+277,10656.jpg,Wearing_Hat,Yes,"Carefully examine the facial image.
+Question: Is this person wearing a hat?
+Answer with only one word: Yes, No, or Uncertain."
+278,2245.jpg,Wearing_Hat,Yes,"Carefully examine the facial image.
+Question: Is this person wearing a hat?
+Answer with only one word: Yes, No, or Uncertain."
+279,11247.jpg,Wearing_Hat,Yes,"Carefully examine the facial image.
+Question: Is this person wearing a hat?
+Answer with only one word: Yes, No, or Uncertain."
+280,10425.jpg,Wearing_Hat,Yes,"Carefully examine the facial image.
+Question: Is this person wearing a hat?
+Answer with only one word: Yes, No, or Uncertain."
+281,10649.jpg,Wearing_Hat,Yes,"Carefully examine the facial image.
+Question: Is this person wearing a hat?
+Answer with only one word: Yes, No, or Uncertain."
+282,43.jpg,Wearing_Hat,Yes,"Carefully examine the facial image.
+Question: Is this person wearing a hat?
+Answer with only one word: Yes, No, or Uncertain."
+283,9283.jpg,Wearing_Hat,Yes,"Carefully examine the facial image.
+Question: Is this person wearing a hat?
+Answer with only one word: Yes, No, or Uncertain."
+284,2806.jpg,Wearing_Hat,Yes,"Carefully examine the facial image.
+Question: Is this person wearing a hat?
+Answer with only one word: Yes, No, or Uncertain."
+285,10772.jpg,Wearing_Hat,Yes,"Carefully examine the facial image.
+Question: Is this person wearing a hat?
+Answer with only one word: Yes, No, or Uncertain."
+286,11514.jpg,Wearing_Hat,Yes,"Carefully examine the facial image.
+Question: Is this person wearing a hat?
+Answer with only one word: Yes, No, or Uncertain."
+287,9490.jpg,Wearing_Hat,Yes,"Carefully examine the facial image.
+Question: Is this person wearing a hat?
+Answer with only one word: Yes, No, or Uncertain."
+288,11346.jpg,Wearing_Hat,Yes,"Carefully examine the facial image.
+Question: Is this person wearing a hat?
+Answer with only one word: Yes, No, or Uncertain."
+289,2526.jpg,Wearing_Hat,Yes,"Carefully examine the facial image.
+Question: Is this person wearing a hat?
+Answer with only one word: Yes, No, or Uncertain."
+290,10575.jpg,Wearing_Hat,Yes,"Carefully examine the facial image.
+Question: Is this person wearing a hat?
+Answer with only one word: Yes, No, or Uncertain."
+291,5912.jpg,Wearing_Hat,Yes,"Carefully examine the facial image.
+Question: Is this person wearing a hat?
+Answer with only one word: Yes, No, or Uncertain."
+292,2180.jpg,Wearing_Hat,Yes,"Carefully examine the facial image.
+Question: Is this person wearing a hat?
+Answer with only one word: Yes, No, or Uncertain."
+293,11427.jpg,Wearing_Hat,Yes,"Carefully examine the facial image.
+Question: Is this person wearing a hat?
+Answer with only one word: Yes, No, or Uncertain."
+294,28104.jpg,Wearing_Hat,Yes,"Carefully examine the facial image.
+Question: Is this person wearing a hat?
+Answer with only one word: Yes, No, or Uncertain."
+295,2409.jpg,Wearing_Hat,Yes,"Carefully examine the facial image.
+Question: Is this person wearing a hat?
+Answer with only one word: Yes, No, or Uncertain."
+296,1461.jpg,Wearing_Hat,Yes,"Carefully examine the facial image.
+Question: Is this person wearing a hat?
+Answer with only one word: Yes, No, or Uncertain."
+297,29022.jpg,Wearing_Hat,Yes,"Carefully examine the facial image.
+Question: Is this person wearing a hat?
+Answer with only one word: Yes, No, or Uncertain."
+298,14781.jpg,Wearing_Hat,Yes,"Carefully examine the facial image.
+Question: Is this person wearing a hat?
+Answer with only one word: Yes, No, or Uncertain."
+299,222.jpg,Wearing_Hat,Yes,"Carefully examine the facial image.
+Question: Is this person wearing a hat?
+Answer with only one word: Yes, No, or Uncertain."
+300,2261.jpg,Wearing_Hat,Yes,"Carefully examine the facial image.
+Question: Is this person wearing a hat?
+Answer with only one word: Yes, No, or Uncertain."
+301,11033.jpg,Wearing_Hat,No,"Carefully examine the facial image.
+Question: Is this person wearing a hat?
+Answer with only one word: Yes, No, or Uncertain."
+302,11502.jpg,Wearing_Hat,No,"Carefully examine the facial image.
+Question: Is this person wearing a hat?
+Answer with only one word: Yes, No, or Uncertain."
+303,11180.jpg,Wearing_Hat,No,"Carefully examine the facial image.
+Question: Is this person wearing a hat?
+Answer with only one word: Yes, No, or Uncertain."
+304,3826.jpg,Wearing_Hat,No,"Carefully examine the facial image.
+Question: Is this person wearing a hat?
+Answer with only one word: Yes, No, or Uncertain."
+305,29862.jpg,Wearing_Hat,No,"Carefully examine the facial image.
+Question: Is this person wearing a hat?
+Answer with only one word: Yes, No, or Uncertain."
+306,12204.jpg,Wearing_Hat,No,"Carefully examine the facial image.
+Question: Is this person wearing a hat?
+Answer with only one word: Yes, No, or Uncertain."
+307,26157.jpg,Wearing_Hat,No,"Carefully examine the facial image.
+Question: Is this person wearing a hat?
+Answer with only one word: Yes, No, or Uncertain."
+308,9089.jpg,Wearing_Hat,No,"Carefully examine the facial image.
+Question: Is this person wearing a hat?
+Answer with only one word: Yes, No, or Uncertain."
+309,23740.jpg,Wearing_Hat,No,"Carefully examine the facial image.
+Question: Is this person wearing a hat?
+Answer with only one word: Yes, No, or Uncertain."
+310,16053.jpg,Wearing_Hat,No,"Carefully examine the facial image.
+Question: Is this person wearing a hat?
+Answer with only one word: Yes, No, or Uncertain."
+311,22374.jpg,Wearing_Hat,No,"Carefully examine the facial image.
+Question: Is this person wearing a hat?
+Answer with only one word: Yes, No, or Uncertain."
+312,1457.jpg,Wearing_Hat,No,"Carefully examine the facial image.
+Question: Is this person wearing a hat?
+Answer with only one word: Yes, No, or Uncertain."
+313,1381.jpg,Wearing_Hat,No,"Carefully examine the facial image.
+Question: Is this person wearing a hat?
+Answer with only one word: Yes, No, or Uncertain."
+314,15050.jpg,Wearing_Hat,No,"Carefully examine the facial image.
+Question: Is this person wearing a hat?
+Answer with only one word: Yes, No, or Uncertain."
+315,11404.jpg,Wearing_Hat,No,"Carefully examine the facial image.
+Question: Is this person wearing a hat?
+Answer with only one word: Yes, No, or Uncertain."
+316,2856.jpg,Wearing_Hat,No,"Carefully examine the facial image.
+Question: Is this person wearing a hat?
+Answer with only one word: Yes, No, or Uncertain."
+317,21524.jpg,Wearing_Hat,No,"Carefully examine the facial image.
+Question: Is this person wearing a hat?
+Answer with only one word: Yes, No, or Uncertain."
+318,27549.jpg,Wearing_Hat,No,"Carefully examine the facial image.
+Question: Is this person wearing a hat?
+Answer with only one word: Yes, No, or Uncertain."
+319,2070.jpg,Wearing_Hat,No,"Carefully examine the facial image.
+Question: Is this person wearing a hat?
+Answer with only one word: Yes, No, or Uncertain."
+320,11594.jpg,Wearing_Hat,No,"Carefully examine the facial image.
+Question: Is this person wearing a hat?
+Answer with only one word: Yes, No, or Uncertain."
+321,10773.jpg,Wearing_Hat,No,"Carefully examine the facial image.
+Question: Is this person wearing a hat?
+Answer with only one word: Yes, No, or Uncertain."
+322,2165.jpg,Wearing_Hat,No,"Carefully examine the facial image.
+Question: Is this person wearing a hat?
+Answer with only one word: Yes, No, or Uncertain."
+323,10786.jpg,Wearing_Hat,No,"Carefully examine the facial image.
+Question: Is this person wearing a hat?
+Answer with only one word: Yes, No, or Uncertain."
+324,11004.jpg,Wearing_Hat,No,"Carefully examine the facial image.
+Question: Is this person wearing a hat?
+Answer with only one word: Yes, No, or Uncertain."
+325,2600.jpg,Wearing_Hat,No,"Carefully examine the facial image.
+Question: Is this person wearing a hat?
+Answer with only one word: Yes, No, or Uncertain."
+326,9218.jpg,Wearing_Hat,No,"Carefully examine the facial image.
+Question: Is this person wearing a hat?
+Answer with only one word: Yes, No, or Uncertain."
+327,23913.jpg,Wearing_Hat,No,"Carefully examine the facial image.
+Question: Is this person wearing a hat?
+Answer with only one word: Yes, No, or Uncertain."
+328,10643.jpg,Wearing_Hat,No,"Carefully examine the facial image.
+Question: Is this person wearing a hat?
+Answer with only one word: Yes, No, or Uncertain."
+329,2804.jpg,Wearing_Hat,No,"Carefully examine the facial image.
+Question: Is this person wearing a hat?
+Answer with only one word: Yes, No, or Uncertain."
+330,9.jpg,Wearing_Hat,No,"Carefully examine the facial image.
+Question: Is this person wearing a hat?
+Answer with only one word: Yes, No, or Uncertain."
+331,10147.jpg,Wearing_Hat,No,"Carefully examine the facial image.
+Question: Is this person wearing a hat?
+Answer with only one word: Yes, No, or Uncertain."
+332,297.jpg,Wearing_Hat,No,"Carefully examine the facial image.
+Question: Is this person wearing a hat?
+Answer with only one word: Yes, No, or Uncertain."
+333,9282.jpg,Wearing_Hat,No,"Carefully examine the facial image.
+Question: Is this person wearing a hat?
+Answer with only one word: Yes, No, or Uncertain."
+334,11432.jpg,Wearing_Hat,No,"Carefully examine the facial image.
+Question: Is this person wearing a hat?
+Answer with only one word: Yes, No, or Uncertain."
+335,10390.jpg,Wearing_Hat,No,"Carefully examine the facial image.
+Question: Is this person wearing a hat?
+Answer with only one word: Yes, No, or Uncertain."
+336,10285.jpg,Wearing_Hat,No,"Carefully examine the facial image.
+Question: Is this person wearing a hat?
+Answer with only one word: Yes, No, or Uncertain."
+337,2930.jpg,Wearing_Hat,No,"Carefully examine the facial image.
+Question: Is this person wearing a hat?
+Answer with only one word: Yes, No, or Uncertain."
+338,10497.jpg,Wearing_Hat,No,"Carefully examine the facial image.
+Question: Is this person wearing a hat?
+Answer with only one word: Yes, No, or Uncertain."
+339,13023.jpg,Wearing_Hat,No,"Carefully examine the facial image.
+Question: Is this person wearing a hat?
+Answer with only one word: Yes, No, or Uncertain."
+340,11473.jpg,Wearing_Hat,No,"Carefully examine the facial image.
+Question: Is this person wearing a hat?
+Answer with only one word: Yes, No, or Uncertain."
+341,9299.jpg,Wearing_Hat,No,"Carefully examine the facial image.
+Question: Is this person wearing a hat?
+Answer with only one word: Yes, No, or Uncertain."
+342,28152.jpg,Wearing_Hat,No,"Carefully examine the facial image.
+Question: Is this person wearing a hat?
+Answer with only one word: Yes, No, or Uncertain."
+343,19798.jpg,Wearing_Hat,No,"Carefully examine the facial image.
+Question: Is this person wearing a hat?
+Answer with only one word: Yes, No, or Uncertain."
+344,286.jpg,Wearing_Hat,No,"Carefully examine the facial image.
+Question: Is this person wearing a hat?
+Answer with only one word: Yes, No, or Uncertain."
+345,16.jpg,Wearing_Hat,No,"Carefully examine the facial image.
+Question: Is this person wearing a hat?
+Answer with only one word: Yes, No, or Uncertain."
+346,2185.jpg,Wearing_Hat,No,"Carefully examine the facial image.
+Question: Is this person wearing a hat?
+Answer with only one word: Yes, No, or Uncertain."
+347,2253.jpg,Wearing_Hat,No,"Carefully examine the facial image.
+Question: Is this person wearing a hat?
+Answer with only one word: Yes, No, or Uncertain."
+348,2411.jpg,Wearing_Hat,No,"Carefully examine the facial image.
+Question: Is this person wearing a hat?
+Answer with only one word: Yes, No, or Uncertain."
+349,11066.jpg,Wearing_Hat,No,"Carefully examine the facial image.
+Question: Is this person wearing a hat?
+Answer with only one word: Yes, No, or Uncertain."
+350,1605.jpg,Wearing_Hat,No,"Carefully examine the facial image.
+Question: Is this person wearing a hat?
+Answer with only one word: Yes, No, or Uncertain."
+351,9221.jpg,Wearing_Hat,No,"Carefully examine the facial image.
+Question: Is this person wearing a hat?
+Answer with only one word: Yes, No, or Uncertain."
+352,9082.jpg,Wearing_Hat,No,"Carefully examine the facial image.
+Question: Is this person wearing a hat?
+Answer with only one word: Yes, No, or Uncertain."
+353,1422.jpg,Wearing_Hat,No,"Carefully examine the facial image.
+Question: Is this person wearing a hat?
+Answer with only one word: Yes, No, or Uncertain."
+354,10455.jpg,Wearing_Hat,No,"Carefully examine the facial image.
+Question: Is this person wearing a hat?
+Answer with only one word: Yes, No, or Uncertain."
+355,22217.jpg,Wearing_Hat,No,"Carefully examine the facial image.
+Question: Is this person wearing a hat?
+Answer with only one word: Yes, No, or Uncertain."
+356,2684.jpg,Wearing_Hat,No,"Carefully examine the facial image.
+Question: Is this person wearing a hat?
+Answer with only one word: Yes, No, or Uncertain."
+357,9034.jpg,Wearing_Hat,No,"Carefully examine the facial image.
+Question: Is this person wearing a hat?
+Answer with only one word: Yes, No, or Uncertain."
+358,28920.jpg,Wearing_Hat,No,"Carefully examine the facial image.
+Question: Is this person wearing a hat?
+Answer with only one word: Yes, No, or Uncertain."
+359,4294.jpg,Wearing_Hat,No,"Carefully examine the facial image.
+Question: Is this person wearing a hat?
+Answer with only one word: Yes, No, or Uncertain."
+360,10981.jpg,Wearing_Hat,No,"Carefully examine the facial image.
+Question: Is this person wearing a hat?
+Answer with only one word: Yes, No, or Uncertain."
+361,82.jpg,Wearing_Hat,No,"Carefully examine the facial image.
+Question: Is this person wearing a hat?
+Answer with only one word: Yes, No, or Uncertain."
+362,1420.jpg,Wearing_Hat,No,"Carefully examine the facial image.
+Question: Is this person wearing a hat?
+Answer with only one word: Yes, No, or Uncertain."
+363,87.jpg,Wearing_Hat,No,"Carefully examine the facial image.
+Question: Is this person wearing a hat?
+Answer with only one word: Yes, No, or Uncertain."
+364,13116.jpg,Wearing_Hat,No,"Carefully examine the facial image.
+Question: Is this person wearing a hat?
+Answer with only one word: Yes, No, or Uncertain."
+365,24.jpg,Wearing_Hat,No,"Carefully examine the facial image.
+Question: Is this person wearing a hat?
+Answer with only one word: Yes, No, or Uncertain."
+366,514.jpg,Wearing_Hat,No,"Carefully examine the facial image.
+Question: Is this person wearing a hat?
+Answer with only one word: Yes, No, or Uncertain."
+367,11284.jpg,Wearing_Hat,No,"Carefully examine the facial image.
+Question: Is this person wearing a hat?
+Answer with only one word: Yes, No, or Uncertain."
+368,28924.jpg,Wearing_Hat,No,"Carefully examine the facial image.
+Question: Is this person wearing a hat?
+Answer with only one word: Yes, No, or Uncertain."
+369,2639.jpg,Wearing_Hat,No,"Carefully examine the facial image.
+Question: Is this person wearing a hat?
+Answer with only one word: Yes, No, or Uncertain."
+370,26868.jpg,Wearing_Hat,No,"Carefully examine the facial image.
+Question: Is this person wearing a hat?
+Answer with only one word: Yes, No, or Uncertain."
+371,2499.jpg,Wearing_Hat,No,"Carefully examine the facial image.
+Question: Is this person wearing a hat?
+Answer with only one word: Yes, No, or Uncertain."
+372,1724.jpg,Wearing_Hat,No,"Carefully examine the facial image.
+Question: Is this person wearing a hat?
+Answer with only one word: Yes, No, or Uncertain."
+373,10392.jpg,Wearing_Hat,No,"Carefully examine the facial image.
+Question: Is this person wearing a hat?
+Answer with only one word: Yes, No, or Uncertain."
+374,1326.jpg,Wearing_Hat,No,"Carefully examine the facial image.
+Question: Is this person wearing a hat?
+Answer with only one word: Yes, No, or Uncertain."
+375,11323.jpg,Wearing_Hat,No,"Carefully examine the facial image.
+Question: Is this person wearing a hat?
+Answer with only one word: Yes, No, or Uncertain."
+376,10676.jpg,Wearing_Hat,No,"Carefully examine the facial image.
+Question: Is this person wearing a hat?
+Answer with only one word: Yes, No, or Uncertain."
+377,10011.jpg,Wearing_Hat,No,"Carefully examine the facial image.
+Question: Is this person wearing a hat?
+Answer with only one word: Yes, No, or Uncertain."
+378,2893.jpg,Wearing_Hat,No,"Carefully examine the facial image.
+Question: Is this person wearing a hat?
+Answer with only one word: Yes, No, or Uncertain."
+379,21663.jpg,Wearing_Hat,No,"Carefully examine the facial image.
+Question: Is this person wearing a hat?
+Answer with only one word: Yes, No, or Uncertain."
+380,11101.jpg,Wearing_Hat,No,"Carefully examine the facial image.
+Question: Is this person wearing a hat?
+Answer with only one word: Yes, No, or Uncertain."
+381,11303.jpg,Wearing_Hat,No,"Carefully examine the facial image.
+Question: Is this person wearing a hat?
+Answer with only one word: Yes, No, or Uncertain."
+382,2592.jpg,Wearing_Hat,No,"Carefully examine the facial image.
+Question: Is this person wearing a hat?
+Answer with only one word: Yes, No, or Uncertain."
+383,15881.jpg,Wearing_Hat,No,"Carefully examine the facial image.
+Question: Is this person wearing a hat?
+Answer with only one word: Yes, No, or Uncertain."
+384,11779.jpg,Wearing_Hat,No,"Carefully examine the facial image.
+Question: Is this person wearing a hat?
+Answer with only one word: Yes, No, or Uncertain."
+385,21775.jpg,Wearing_Hat,No,"Carefully examine the facial image.
+Question: Is this person wearing a hat?
+Answer with only one word: Yes, No, or Uncertain."
+386,15473.jpg,Wearing_Hat,No,"Carefully examine the facial image.
+Question: Is this person wearing a hat?
+Answer with only one word: Yes, No, or Uncertain."
+387,10510.jpg,Wearing_Hat,No,"Carefully examine the facial image.
+Question: Is this person wearing a hat?
+Answer with only one word: Yes, No, or Uncertain."
+388,9192.jpg,Wearing_Hat,No,"Carefully examine the facial image.
+Question: Is this person wearing a hat?
+Answer with only one word: Yes, No, or Uncertain."
+389,15850.jpg,Wearing_Hat,No,"Carefully examine the facial image.
+Question: Is this person wearing a hat?
+Answer with only one word: Yes, No, or Uncertain."
+390,2898.jpg,Wearing_Hat,No,"Carefully examine the facial image.
+Question: Is this person wearing a hat?
+Answer with only one word: Yes, No, or Uncertain."
+391,6802.jpg,Wearing_Hat,No,"Carefully examine the facial image.
+Question: Is this person wearing a hat?
+Answer with only one word: Yes, No, or Uncertain."
+392,10700.jpg,Wearing_Hat,No,"Carefully examine the facial image.
+Question: Is this person wearing a hat?
+Answer with only one word: Yes, No, or Uncertain."
+393,24696.jpg,Wearing_Hat,No,"Carefully examine the facial image.
+Question: Is this person wearing a hat?
+Answer with only one word: Yes, No, or Uncertain."
+394,246.jpg,Wearing_Hat,No,"Carefully examine the facial image.
+Question: Is this person wearing a hat?
+Answer with only one word: Yes, No, or Uncertain."
+395,11415.jpg,Wearing_Hat,No,"Carefully examine the facial image.
+Question: Is this person wearing a hat?
+Answer with only one word: Yes, No, or Uncertain."
+396,2914.jpg,Wearing_Hat,No,"Carefully examine the facial image.
+Question: Is this person wearing a hat?
+Answer with only one word: Yes, No, or Uncertain."
+397,2614.jpg,Wearing_Hat,No,"Carefully examine the facial image.
+Question: Is this person wearing a hat?
+Answer with only one word: Yes, No, or Uncertain."
+398,16687.jpg,Wearing_Hat,No,"Carefully examine the facial image.
+Question: Is this person wearing a hat?
+Answer with only one word: Yes, No, or Uncertain."
+399,18390.jpg,Wearing_Hat,No,"Carefully examine the facial image.
+Question: Is this person wearing a hat?
+Answer with only one word: Yes, No, or Uncertain."
+400,9484.jpg,Wearing_Hat,No,"Carefully examine the facial image.
+Question: Is this person wearing a hat?
+Answer with only one word: Yes, No, or Uncertain."
+401,332.jpg,Wearing_Earrings,Yes,"Carefully examine the facial image.
+Question: Is this person wearing earrings?
+Answer with only one word: Yes, No, or Uncertain."
+402,2328.jpg,Wearing_Earrings,Yes,"Carefully examine the facial image.
+Question: Is this person wearing earrings?
+Answer with only one word: Yes, No, or Uncertain."
+403,7862.jpg,Wearing_Earrings,Yes,"Carefully examine the facial image.
+Question: Is this person wearing earrings?
+Answer with only one word: Yes, No, or Uncertain."
+404,10941.jpg,Wearing_Earrings,Yes,"Carefully examine the facial image.
+Question: Is this person wearing earrings?
+Answer with only one word: Yes, No, or Uncertain."
+405,2700.jpg,Wearing_Earrings,Yes,"Carefully examine the facial image.
+Question: Is this person wearing earrings?
+Answer with only one word: Yes, No, or Uncertain."
+406,10709.jpg,Wearing_Earrings,Yes,"Carefully examine the facial image.
+Question: Is this person wearing earrings?
+Answer with only one word: Yes, No, or Uncertain."
+407,27549.jpg,Wearing_Earrings,Yes,"Carefully examine the facial image.
+Question: Is this person wearing earrings?
+Answer with only one word: Yes, No, or Uncertain."
+408,6410.jpg,Wearing_Earrings,Yes,"Carefully examine the facial image.
+Question: Is this person wearing earrings?
+Answer with only one word: Yes, No, or Uncertain."
+409,9323.jpg,Wearing_Earrings,Yes,"Carefully examine the facial image.
+Question: Is this person wearing earrings?
+Answer with only one word: Yes, No, or Uncertain."
+410,1532.jpg,Wearing_Earrings,Yes,"Carefully examine the facial image.
+Question: Is this person wearing earrings?
+Answer with only one word: Yes, No, or Uncertain."
+411,2927.jpg,Wearing_Earrings,Yes,"Carefully examine the facial image.
+Question: Is this person wearing earrings?
+Answer with only one word: Yes, No, or Uncertain."
+412,12506.jpg,Wearing_Earrings,Yes,"Carefully examine the facial image.
+Question: Is this person wearing earrings?
+Answer with only one word: Yes, No, or Uncertain."
+413,5593.jpg,Wearing_Earrings,Yes,"Carefully examine the facial image.
+Question: Is this person wearing earrings?
+Answer with only one word: Yes, No, or Uncertain."
+414,69.jpg,Wearing_Earrings,Yes,"Carefully examine the facial image.
+Question: Is this person wearing earrings?
+Answer with only one word: Yes, No, or Uncertain."
+415,2516.jpg,Wearing_Earrings,Yes,"Carefully examine the facial image.
+Question: Is this person wearing earrings?
+Answer with only one word: Yes, No, or Uncertain."
+416,2429.jpg,Wearing_Earrings,Yes,"Carefully examine the facial image.
+Question: Is this person wearing earrings?
+Answer with only one word: Yes, No, or Uncertain."
+417,2721.jpg,Wearing_Earrings,Yes,"Carefully examine the facial image.
+Question: Is this person wearing earrings?
+Answer with only one word: Yes, No, or Uncertain."
+418,1497.jpg,Wearing_Earrings,Yes,"Carefully examine the facial image.
+Question: Is this person wearing earrings?
+Answer with only one word: Yes, No, or Uncertain."
+419,10902.jpg,Wearing_Earrings,Yes,"Carefully examine the facial image.
+Question: Is this person wearing earrings?
+Answer with only one word: Yes, No, or Uncertain."
+420,1577.jpg,Wearing_Earrings,Yes,"Carefully examine the facial image.
+Question: Is this person wearing earrings?
+Answer with only one word: Yes, No, or Uncertain."
+421,1624.jpg,Wearing_Earrings,Yes,"Carefully examine the facial image.
+Question: Is this person wearing earrings?
+Answer with only one word: Yes, No, or Uncertain."
+422,1468.jpg,Wearing_Earrings,Yes,"Carefully examine the facial image.
+Question: Is this person wearing earrings?
+Answer with only one word: Yes, No, or Uncertain."
+423,1464.jpg,Wearing_Earrings,Yes,"Carefully examine the facial image.
+Question: Is this person wearing earrings?
+Answer with only one word: Yes, No, or Uncertain."
+424,20244.jpg,Wearing_Earrings,Yes,"Carefully examine the facial image.
+Question: Is this person wearing earrings?
+Answer with only one word: Yes, No, or Uncertain."
+425,11631.jpg,Wearing_Earrings,Yes,"Carefully examine the facial image.
+Question: Is this person wearing earrings?
+Answer with only one word: Yes, No, or Uncertain."
+426,2088.jpg,Wearing_Earrings,Yes,"Carefully examine the facial image.
+Question: Is this person wearing earrings?
+Answer with only one word: Yes, No, or Uncertain."
+427,10650.jpg,Wearing_Earrings,Yes,"Carefully examine the facial image.
+Question: Is this person wearing earrings?
+Answer with only one word: Yes, No, or Uncertain."
+428,10792.jpg,Wearing_Earrings,Yes,"Carefully examine the facial image.
+Question: Is this person wearing earrings?
+Answer with only one word: Yes, No, or Uncertain."
+429,176.jpg,Wearing_Earrings,Yes,"Carefully examine the facial image.
+Question: Is this person wearing earrings?
+Answer with only one word: Yes, No, or Uncertain."
+430,25040.jpg,Wearing_Earrings,Yes,"Carefully examine the facial image.
+Question: Is this person wearing earrings?
+Answer with only one word: Yes, No, or Uncertain."
+431,2442.jpg,Wearing_Earrings,Yes,"Carefully examine the facial image.
+Question: Is this person wearing earrings?
+Answer with only one word: Yes, No, or Uncertain."
+432,1635.jpg,Wearing_Earrings,Yes,"Carefully examine the facial image.
+Question: Is this person wearing earrings?
+Answer with only one word: Yes, No, or Uncertain."
+433,10268.jpg,Wearing_Earrings,Yes,"Carefully examine the facial image.
+Question: Is this person wearing earrings?
+Answer with only one word: Yes, No, or Uncertain."
+434,2511.jpg,Wearing_Earrings,Yes,"Carefully examine the facial image.
+Question: Is this person wearing earrings?
+Answer with only one word: Yes, No, or Uncertain."
+435,72.jpg,Wearing_Earrings,Yes,"Carefully examine the facial image.
+Question: Is this person wearing earrings?
+Answer with only one word: Yes, No, or Uncertain."
+436,311.jpg,Wearing_Earrings,Yes,"Carefully examine the facial image.
+Question: Is this person wearing earrings?
+Answer with only one word: Yes, No, or Uncertain."
+437,23059.jpg,Wearing_Earrings,Yes,"Carefully examine the facial image.
+Question: Is this person wearing earrings?
+Answer with only one word: Yes, No, or Uncertain."
+438,11068.jpg,Wearing_Earrings,Yes,"Carefully examine the facial image.
+Question: Is this person wearing earrings?
+Answer with only one word: Yes, No, or Uncertain."
+439,25219.jpg,Wearing_Earrings,Yes,"Carefully examine the facial image.
+Question: Is this person wearing earrings?
+Answer with only one word: Yes, No, or Uncertain."
+440,29817.jpg,Wearing_Earrings,Yes,"Carefully examine the facial image.
+Question: Is this person wearing earrings?
+Answer with only one word: Yes, No, or Uncertain."
+441,29540.jpg,Wearing_Earrings,Yes,"Carefully examine the facial image.
+Question: Is this person wearing earrings?
+Answer with only one word: Yes, No, or Uncertain."
+442,2925.jpg,Wearing_Earrings,Yes,"Carefully examine the facial image.
+Question: Is this person wearing earrings?
+Answer with only one word: Yes, No, or Uncertain."
+443,10684.jpg,Wearing_Earrings,Yes,"Carefully examine the facial image.
+Question: Is this person wearing earrings?
+Answer with only one word: Yes, No, or Uncertain."
+444,9227.jpg,Wearing_Earrings,Yes,"Carefully examine the facial image.
+Question: Is this person wearing earrings?
+Answer with only one word: Yes, No, or Uncertain."
+445,24834.jpg,Wearing_Earrings,Yes,"Carefully examine the facial image.
+Question: Is this person wearing earrings?
+Answer with only one word: Yes, No, or Uncertain."
+446,2123.jpg,Wearing_Earrings,Yes,"Carefully examine the facial image.
+Question: Is this person wearing earrings?
+Answer with only one word: Yes, No, or Uncertain."
+447,4546.jpg,Wearing_Earrings,Yes,"Carefully examine the facial image.
+Question: Is this person wearing earrings?
+Answer with only one word: Yes, No, or Uncertain."
+448,2345.jpg,Wearing_Earrings,Yes,"Carefully examine the facial image.
+Question: Is this person wearing earrings?
+Answer with only one word: Yes, No, or Uncertain."
+449,59.jpg,Wearing_Earrings,Yes,"Carefully examine the facial image.
+Question: Is this person wearing earrings?
+Answer with only one word: Yes, No, or Uncertain."
+450,1539.jpg,Wearing_Earrings,Yes,"Carefully examine the facial image.
+Question: Is this person wearing earrings?
+Answer with only one word: Yes, No, or Uncertain."
+451,78.jpg,Wearing_Earrings,Yes,"Carefully examine the facial image.
+Question: Is this person wearing earrings?
+Answer with only one word: Yes, No, or Uncertain."
+452,11019.jpg,Wearing_Earrings,Yes,"Carefully examine the facial image.
+Question: Is this person wearing earrings?
+Answer with only one word: Yes, No, or Uncertain."
+453,2533.jpg,Wearing_Earrings,Yes,"Carefully examine the facial image.
+Question: Is this person wearing earrings?
+Answer with only one word: Yes, No, or Uncertain."
+454,8453.jpg,Wearing_Earrings,Yes,"Carefully examine the facial image.
+Question: Is this person wearing earrings?
+Answer with only one word: Yes, No, or Uncertain."
+455,10246.jpg,Wearing_Earrings,Yes,"Carefully examine the facial image.
+Question: Is this person wearing earrings?
+Answer with only one word: Yes, No, or Uncertain."
+456,2694.jpg,Wearing_Earrings,Yes,"Carefully examine the facial image.
+Question: Is this person wearing earrings?
+Answer with only one word: Yes, No, or Uncertain."
+457,166.jpg,Wearing_Earrings,Yes,"Carefully examine the facial image.
+Question: Is this person wearing earrings?
+Answer with only one word: Yes, No, or Uncertain."
+458,15196.jpg,Wearing_Earrings,Yes,"Carefully examine the facial image.
+Question: Is this person wearing earrings?
+Answer with only one word: Yes, No, or Uncertain."
+459,9509.jpg,Wearing_Earrings,Yes,"Carefully examine the facial image.
+Question: Is this person wearing earrings?
+Answer with only one word: Yes, No, or Uncertain."
+460,10320.jpg,Wearing_Earrings,Yes,"Carefully examine the facial image.
+Question: Is this person wearing earrings?
+Answer with only one word: Yes, No, or Uncertain."
+461,2151.jpg,Wearing_Earrings,Yes,"Carefully examine the facial image.
+Question: Is this person wearing earrings?
+Answer with only one word: Yes, No, or Uncertain."
+462,513.jpg,Wearing_Earrings,Yes,"Carefully examine the facial image.
+Question: Is this person wearing earrings?
+Answer with only one word: Yes, No, or Uncertain."
+463,2145.jpg,Wearing_Earrings,Yes,"Carefully examine the facial image.
+Question: Is this person wearing earrings?
+Answer with only one word: Yes, No, or Uncertain."
+464,10949.jpg,Wearing_Earrings,Yes,"Carefully examine the facial image.
+Question: Is this person wearing earrings?
+Answer with only one word: Yes, No, or Uncertain."
+465,2507.jpg,Wearing_Earrings,Yes,"Carefully examine the facial image.
+Question: Is this person wearing earrings?
+Answer with only one word: Yes, No, or Uncertain."
+466,3003.jpg,Wearing_Earrings,Yes,"Carefully examine the facial image.
+Question: Is this person wearing earrings?
+Answer with only one word: Yes, No, or Uncertain."
+467,9493.jpg,Wearing_Earrings,Yes,"Carefully examine the facial image.
+Question: Is this person wearing earrings?
+Answer with only one word: Yes, No, or Uncertain."
+468,10759.jpg,Wearing_Earrings,Yes,"Carefully examine the facial image.
+Question: Is this person wearing earrings?
+Answer with only one word: Yes, No, or Uncertain."
+469,148.jpg,Wearing_Earrings,Yes,"Carefully examine the facial image.
+Question: Is this person wearing earrings?
+Answer with only one word: Yes, No, or Uncertain."
+470,11066.jpg,Wearing_Earrings,Yes,"Carefully examine the facial image.
+Question: Is this person wearing earrings?
+Answer with only one word: Yes, No, or Uncertain."
+471,174.jpg,Wearing_Earrings,Yes,"Carefully examine the facial image.
+Question: Is this person wearing earrings?
+Answer with only one word: Yes, No, or Uncertain."
+472,9097.jpg,Wearing_Earrings,Yes,"Carefully examine the facial image.
+Question: Is this person wearing earrings?
+Answer with only one word: Yes, No, or Uncertain."
+473,4119.jpg,Wearing_Earrings,Yes,"Carefully examine the facial image.
+Question: Is this person wearing earrings?
+Answer with only one word: Yes, No, or Uncertain."
+474,383.jpg,Wearing_Earrings,Yes,"Carefully examine the facial image.
+Question: Is this person wearing earrings?
+Answer with only one word: Yes, No, or Uncertain."
+475,9336.jpg,Wearing_Earrings,Yes,"Carefully examine the facial image.
+Question: Is this person wearing earrings?
+Answer with only one word: Yes, No, or Uncertain."
+476,11284.jpg,Wearing_Earrings,Yes,"Carefully examine the facial image.
+Question: Is this person wearing earrings?
+Answer with only one word: Yes, No, or Uncertain."
+477,2175.jpg,Wearing_Earrings,Yes,"Carefully examine the facial image.
+Question: Is this person wearing earrings?
+Answer with only one word: Yes, No, or Uncertain."
+478,11310.jpg,Wearing_Earrings,Yes,"Carefully examine the facial image.
+Question: Is this person wearing earrings?
+Answer with only one word: Yes, No, or Uncertain."
+479,2996.jpg,Wearing_Earrings,Yes,"Carefully examine the facial image.
+Question: Is this person wearing earrings?
+Answer with only one word: Yes, No, or Uncertain."
+480,2624.jpg,Wearing_Earrings,Yes,"Carefully examine the facial image.
+Question: Is this person wearing earrings?
+Answer with only one word: Yes, No, or Uncertain."
+481,1923.jpg,Wearing_Earrings,Yes,"Carefully examine the facial image.
+Question: Is this person wearing earrings?
+Answer with only one word: Yes, No, or Uncertain."
+482,2240.jpg,Wearing_Earrings,Yes,"Carefully examine the facial image.
+Question: Is this person wearing earrings?
+Answer with only one word: Yes, No, or Uncertain."
+483,251.jpg,Wearing_Earrings,Yes,"Carefully examine the facial image.
+Question: Is this person wearing earrings?
+Answer with only one word: Yes, No, or Uncertain."
+484,1528.jpg,Wearing_Earrings,Yes,"Carefully examine the facial image.
+Question: Is this person wearing earrings?
+Answer with only one word: Yes, No, or Uncertain."
+485,11525.jpg,Wearing_Earrings,Yes,"Carefully examine the facial image.
+Question: Is this person wearing earrings?
+Answer with only one word: Yes, No, or Uncertain."
+486,2919.jpg,Wearing_Earrings,Yes,"Carefully examine the facial image.
+Question: Is this person wearing earrings?
+Answer with only one word: Yes, No, or Uncertain."
+487,1483.jpg,Wearing_Earrings,Yes,"Carefully examine the facial image.
+Question: Is this person wearing earrings?
+Answer with only one word: Yes, No, or Uncertain."
+488,11114.jpg,Wearing_Earrings,Yes,"Carefully examine the facial image.
+Question: Is this person wearing earrings?
+Answer with only one word: Yes, No, or Uncertain."
+489,27318.jpg,Wearing_Earrings,Yes,"Carefully examine the facial image.
+Question: Is this person wearing earrings?
+Answer with only one word: Yes, No, or Uncertain."
+490,2212.jpg,Wearing_Earrings,Yes,"Carefully examine the facial image.
+Question: Is this person wearing earrings?
+Answer with only one word: Yes, No, or Uncertain."
+491,3626.jpg,Wearing_Earrings,Yes,"Carefully examine the facial image.
+Question: Is this person wearing earrings?
+Answer with only one word: Yes, No, or Uncertain."
+492,2762.jpg,Wearing_Earrings,Yes,"Carefully examine the facial image.
+Question: Is this person wearing earrings?
+Answer with only one word: Yes, No, or Uncertain."
+493,11120.jpg,Wearing_Earrings,Yes,"Carefully examine the facial image.
+Question: Is this person wearing earrings?
+Answer with only one word: Yes, No, or Uncertain."
+494,11059.jpg,Wearing_Earrings,Yes,"Carefully examine the facial image.
+Question: Is this person wearing earrings?
+Answer with only one word: Yes, No, or Uncertain."
+495,9341.jpg,Wearing_Earrings,Yes,"Carefully examine the facial image.
+Question: Is this person wearing earrings?
+Answer with only one word: Yes, No, or Uncertain."
+496,9410.jpg,Wearing_Earrings,Yes,"Carefully examine the facial image.
+Question: Is this person wearing earrings?
+Answer with only one word: Yes, No, or Uncertain."
+497,23473.jpg,Wearing_Earrings,Yes,"Carefully examine the facial image.
+Question: Is this person wearing earrings?
+Answer with only one word: Yes, No, or Uncertain."
+498,9515.jpg,Wearing_Earrings,Yes,"Carefully examine the facial image.
+Question: Is this person wearing earrings?
+Answer with only one word: Yes, No, or Uncertain."
+499,1475.jpg,Wearing_Earrings,Yes,"Carefully examine the facial image.
+Question: Is this person wearing earrings?
+Answer with only one word: Yes, No, or Uncertain."
+500,9398.jpg,Wearing_Earrings,Yes,"Carefully examine the facial image.
+Question: Is this person wearing earrings?
+Answer with only one word: Yes, No, or Uncertain."
+501,10084.jpg,Wearing_Earrings,No,"Carefully examine the facial image.
+Question: Is this person wearing earrings?
+Answer with only one word: Yes, No, or Uncertain."
+502,355.jpg,Wearing_Earrings,No,"Carefully examine the facial image.
+Question: Is this person wearing earrings?
+Answer with only one word: Yes, No, or Uncertain."
+503,27883.jpg,Wearing_Earrings,No,"Carefully examine the facial image.
+Question: Is this person wearing earrings?
+Answer with only one word: Yes, No, or Uncertain."
+504,1543.jpg,Wearing_Earrings,No,"Carefully examine the facial image.
+Question: Is this person wearing earrings?
+Answer with only one word: Yes, No, or Uncertain."
+505,4870.jpg,Wearing_Earrings,No,"Carefully examine the facial image.
+Question: Is this person wearing earrings?
+Answer with only one word: Yes, No, or Uncertain."
+506,52.jpg,Wearing_Earrings,No,"Carefully examine the facial image.
+Question: Is this person wearing earrings?
+Answer with only one word: Yes, No, or Uncertain."
+507,10473.jpg,Wearing_Earrings,No,"Carefully examine the facial image.
+Question: Is this person wearing earrings?
+Answer with only one word: Yes, No, or Uncertain."
+508,9109.jpg,Wearing_Earrings,No,"Carefully examine the facial image.
+Question: Is this person wearing earrings?
+Answer with only one word: Yes, No, or Uncertain."
+509,2648.jpg,Wearing_Earrings,No,"Carefully examine the facial image.
+Question: Is this person wearing earrings?
+Answer with only one word: Yes, No, or Uncertain."
+510,9084.jpg,Wearing_Earrings,No,"Carefully examine the facial image.
+Question: Is this person wearing earrings?
+Answer with only one word: Yes, No, or Uncertain."
+511,22596.jpg,Wearing_Earrings,No,"Carefully examine the facial image.
+Question: Is this person wearing earrings?
+Answer with only one word: Yes, No, or Uncertain."
+512,10851.jpg,Wearing_Earrings,No,"Carefully examine the facial image.
+Question: Is this person wearing earrings?
+Answer with only one word: Yes, No, or Uncertain."
+513,16392.jpg,Wearing_Earrings,No,"Carefully examine the facial image.
+Question: Is this person wearing earrings?
+Answer with only one word: Yes, No, or Uncertain."
+514,1343.jpg,Wearing_Earrings,No,"Carefully examine the facial image.
+Question: Is this person wearing earrings?
+Answer with only one word: Yes, No, or Uncertain."
+515,10472.jpg,Wearing_Earrings,No,"Carefully examine the facial image.
+Question: Is this person wearing earrings?
+Answer with only one word: Yes, No, or Uncertain."
+516,23.jpg,Wearing_Earrings,No,"Carefully examine the facial image.
+Question: Is this person wearing earrings?
+Answer with only one word: Yes, No, or Uncertain."
+517,23649.jpg,Wearing_Earrings,No,"Carefully examine the facial image.
+Question: Is this person wearing earrings?
+Answer with only one word: Yes, No, or Uncertain."
+518,9478.jpg,Wearing_Earrings,No,"Carefully examine the facial image.
+Question: Is this person wearing earrings?
+Answer with only one word: Yes, No, or Uncertain."
+519,417.jpg,Wearing_Earrings,No,"Carefully examine the facial image.
+Question: Is this person wearing earrings?
+Answer with only one word: Yes, No, or Uncertain."
+520,10227.jpg,Wearing_Earrings,No,"Carefully examine the facial image.
+Question: Is this person wearing earrings?
+Answer with only one word: Yes, No, or Uncertain."
+521,1460.jpg,Wearing_Earrings,No,"Carefully examine the facial image.
+Question: Is this person wearing earrings?
+Answer with only one word: Yes, No, or Uncertain."
+522,1327.jpg,Wearing_Earrings,No,"Carefully examine the facial image.
+Question: Is this person wearing earrings?
+Answer with only one word: Yes, No, or Uncertain."
+523,10872.jpg,Wearing_Earrings,No,"Carefully examine the facial image.
+Question: Is this person wearing earrings?
+Answer with only one word: Yes, No, or Uncertain."
+524,14952.jpg,Wearing_Earrings,No,"Carefully examine the facial image.
+Question: Is this person wearing earrings?
+Answer with only one word: Yes, No, or Uncertain."
+525,10870.jpg,Wearing_Earrings,No,"Carefully examine the facial image.
+Question: Is this person wearing earrings?
+Answer with only one word: Yes, No, or Uncertain."
+526,2862.jpg,Wearing_Earrings,No,"Carefully examine the facial image.
+Question: Is this person wearing earrings?
+Answer with only one word: Yes, No, or Uncertain."
+527,9183.jpg,Wearing_Earrings,No,"Carefully examine the facial image.
+Question: Is this person wearing earrings?
+Answer with only one word: Yes, No, or Uncertain."
+528,2510.jpg,Wearing_Earrings,No,"Carefully examine the facial image.
+Question: Is this person wearing earrings?
+Answer with only one word: Yes, No, or Uncertain."
+529,6551.jpg,Wearing_Earrings,No,"Carefully examine the facial image.
+Question: Is this person wearing earrings?
+Answer with only one word: Yes, No, or Uncertain."
+530,11239.jpg,Wearing_Earrings,No,"Carefully examine the facial image.
+Question: Is this person wearing earrings?
+Answer with only one word: Yes, No, or Uncertain."
+531,1629.jpg,Wearing_Earrings,No,"Carefully examine the facial image.
+Question: Is this person wearing earrings?
+Answer with only one word: Yes, No, or Uncertain."
+532,15721.jpg,Wearing_Earrings,No,"Carefully examine the facial image.
+Question: Is this person wearing earrings?
+Answer with only one word: Yes, No, or Uncertain."
+533,11366.jpg,Wearing_Earrings,No,"Carefully examine the facial image.
+Question: Is this person wearing earrings?
+Answer with only one word: Yes, No, or Uncertain."
+534,10881.jpg,Wearing_Earrings,No,"Carefully examine the facial image.
+Question: Is this person wearing earrings?
+Answer with only one word: Yes, No, or Uncertain."
+535,10657.jpg,Wearing_Earrings,No,"Carefully examine the facial image.
+Question: Is this person wearing earrings?
+Answer with only one word: Yes, No, or Uncertain."
+536,11188.jpg,Wearing_Earrings,No,"Carefully examine the facial image.
+Question: Is this person wearing earrings?
+Answer with only one word: Yes, No, or Uncertain."
+537,2729.jpg,Wearing_Earrings,No,"Carefully examine the facial image.
+Question: Is this person wearing earrings?
+Answer with only one word: Yes, No, or Uncertain."
+538,6074.jpg,Wearing_Earrings,No,"Carefully examine the facial image.
+Question: Is this person wearing earrings?
+Answer with only one word: Yes, No, or Uncertain."
+539,17704.jpg,Wearing_Earrings,No,"Carefully examine the facial image.
+Question: Is this person wearing earrings?
+Answer with only one word: Yes, No, or Uncertain."
+540,12419.jpg,Wearing_Earrings,No,"Carefully examine the facial image.
+Question: Is this person wearing earrings?
+Answer with only one word: Yes, No, or Uncertain."
+541,26930.jpg,Wearing_Earrings,No,"Carefully examine the facial image.
+Question: Is this person wearing earrings?
+Answer with only one word: Yes, No, or Uncertain."
+542,2028.jpg,Wearing_Earrings,No,"Carefully examine the facial image.
+Question: Is this person wearing earrings?
+Answer with only one word: Yes, No, or Uncertain."
+543,14580.jpg,Wearing_Earrings,No,"Carefully examine the facial image.
+Question: Is this person wearing earrings?
+Answer with only one word: Yes, No, or Uncertain."
+544,23472.jpg,Wearing_Earrings,No,"Carefully examine the facial image.
+Question: Is this person wearing earrings?
+Answer with only one word: Yes, No, or Uncertain."
+545,308.jpg,Wearing_Earrings,No,"Carefully examine the facial image.
+Question: Is this person wearing earrings?
+Answer with only one word: Yes, No, or Uncertain."
+546,10210.jpg,Wearing_Earrings,No,"Carefully examine the facial image.
+Question: Is this person wearing earrings?
+Answer with only one word: Yes, No, or Uncertain."
+547,14893.jpg,Wearing_Earrings,No,"Carefully examine the facial image.
+Question: Is this person wearing earrings?
+Answer with only one word: Yes, No, or Uncertain."
+548,10139.jpg,Wearing_Earrings,No,"Carefully examine the facial image.
+Question: Is this person wearing earrings?
+Answer with only one word: Yes, No, or Uncertain."
+549,1704.jpg,Wearing_Earrings,No,"Carefully examine the facial image.
+Question: Is this person wearing earrings?
+Answer with only one word: Yes, No, or Uncertain."
+550,3791.jpg,Wearing_Earrings,No,"Carefully examine the facial image.
+Question: Is this person wearing earrings?
+Answer with only one word: Yes, No, or Uncertain."
+551,5733.jpg,Wearing_Earrings,No,"Carefully examine the facial image.
+Question: Is this person wearing earrings?
+Answer with only one word: Yes, No, or Uncertain."
+552,331.jpg,Wearing_Earrings,No,"Carefully examine the facial image.
+Question: Is this person wearing earrings?
+Answer with only one word: Yes, No, or Uncertain."
+553,15309.jpg,Wearing_Earrings,No,"Carefully examine the facial image.
+Question: Is this person wearing earrings?
+Answer with only one word: Yes, No, or Uncertain."
+554,11140.jpg,Wearing_Earrings,No,"Carefully examine the facial image.
+Question: Is this person wearing earrings?
+Answer with only one word: Yes, No, or Uncertain."
+555,11357.jpg,Wearing_Earrings,No,"Carefully examine the facial image.
+Question: Is this person wearing earrings?
+Answer with only one word: Yes, No, or Uncertain."
+556,9024.jpg,Wearing_Earrings,No,"Carefully examine the facial image.
+Question: Is this person wearing earrings?
+Answer with only one word: Yes, No, or Uncertain."
+557,10730.jpg,Wearing_Earrings,No,"Carefully examine the facial image.
+Question: Is this person wearing earrings?
+Answer with only one word: Yes, No, or Uncertain."
+558,11503.jpg,Wearing_Earrings,No,"Carefully examine the facial image.
+Question: Is this person wearing earrings?
+Answer with only one word: Yes, No, or Uncertain."
+559,21546.jpg,Wearing_Earrings,No,"Carefully examine the facial image.
+Question: Is this person wearing earrings?
+Answer with only one word: Yes, No, or Uncertain."
+560,11448.jpg,Wearing_Earrings,No,"Carefully examine the facial image.
+Question: Is this person wearing earrings?
+Answer with only one word: Yes, No, or Uncertain."
+561,1368.jpg,Wearing_Earrings,No,"Carefully examine the facial image.
+Question: Is this person wearing earrings?
+Answer with only one word: Yes, No, or Uncertain."
+562,15546.jpg,Wearing_Earrings,No,"Carefully examine the facial image.
+Question: Is this person wearing earrings?
+Answer with only one word: Yes, No, or Uncertain."
+563,1284.jpg,Wearing_Earrings,No,"Carefully examine the facial image.
+Question: Is this person wearing earrings?
+Answer with only one word: Yes, No, or Uncertain."
+564,9480.jpg,Wearing_Earrings,No,"Carefully examine the facial image.
+Question: Is this person wearing earrings?
+Answer with only one word: Yes, No, or Uncertain."
+565,10521.jpg,Wearing_Earrings,No,"Carefully examine the facial image.
+Question: Is this person wearing earrings?
+Answer with only one word: Yes, No, or Uncertain."
+566,2403.jpg,Wearing_Earrings,No,"Carefully examine the facial image.
+Question: Is this person wearing earrings?
+Answer with only one word: Yes, No, or Uncertain."
+567,25676.jpg,Wearing_Earrings,No,"Carefully examine the facial image.
+Question: Is this person wearing earrings?
+Answer with only one word: Yes, No, or Uncertain."
+568,11277.jpg,Wearing_Earrings,No,"Carefully examine the facial image.
+Question: Is this person wearing earrings?
+Answer with only one word: Yes, No, or Uncertain."
+569,11639.jpg,Wearing_Earrings,No,"Carefully examine the facial image.
+Question: Is this person wearing earrings?
+Answer with only one word: Yes, No, or Uncertain."
+570,9310.jpg,Wearing_Earrings,No,"Carefully examine the facial image.
+Question: Is this person wearing earrings?
+Answer with only one word: Yes, No, or Uncertain."
+571,26584.jpg,Wearing_Earrings,No,"Carefully examine the facial image.
+Question: Is this person wearing earrings?
+Answer with only one word: Yes, No, or Uncertain."
+572,9534.jpg,Wearing_Earrings,No,"Carefully examine the facial image.
+Question: Is this person wearing earrings?
+Answer with only one word: Yes, No, or Uncertain."
+573,2044.jpg,Wearing_Earrings,No,"Carefully examine the facial image.
+Question: Is this person wearing earrings?
+Answer with only one word: Yes, No, or Uncertain."
+574,2087.jpg,Wearing_Earrings,No,"Carefully examine the facial image.
+Question: Is this person wearing earrings?
+Answer with only one word: Yes, No, or Uncertain."
+575,2490.jpg,Wearing_Earrings,No,"Carefully examine the facial image.
+Question: Is this person wearing earrings?
+Answer with only one word: Yes, No, or Uncertain."
+576,10736.jpg,Wearing_Earrings,No,"Carefully examine the facial image.
+Question: Is this person wearing earrings?
+Answer with only one word: Yes, No, or Uncertain."
+577,14859.jpg,Wearing_Earrings,No,"Carefully examine the facial image.
+Question: Is this person wearing earrings?
+Answer with only one word: Yes, No, or Uncertain."
+578,3710.jpg,Wearing_Earrings,No,"Carefully examine the facial image.
+Question: Is this person wearing earrings?
+Answer with only one word: Yes, No, or Uncertain."
+579,13496.jpg,Wearing_Earrings,No,"Carefully examine the facial image.
+Question: Is this person wearing earrings?
+Answer with only one word: Yes, No, or Uncertain."
+580,16067.jpg,Wearing_Earrings,No,"Carefully examine the facial image.
+Question: Is this person wearing earrings?
+Answer with only one word: Yes, No, or Uncertain."
+581,9467.jpg,Wearing_Earrings,No,"Carefully examine the facial image.
+Question: Is this person wearing earrings?
+Answer with only one word: Yes, No, or Uncertain."
+582,10912.jpg,Wearing_Earrings,No,"Carefully examine the facial image.
+Question: Is this person wearing earrings?
+Answer with only one word: Yes, No, or Uncertain."
+583,2808.jpg,Wearing_Earrings,No,"Carefully examine the facial image.
+Question: Is this person wearing earrings?
+Answer with only one word: Yes, No, or Uncertain."
+584,2991.jpg,Wearing_Earrings,No,"Carefully examine the facial image.
+Question: Is this person wearing earrings?
+Answer with only one word: Yes, No, or Uncertain."
+585,2166.jpg,Wearing_Earrings,No,"Carefully examine the facial image.
+Question: Is this person wearing earrings?
+Answer with only one word: Yes, No, or Uncertain."
+586,12765.jpg,Wearing_Earrings,No,"Carefully examine the facial image.
+Question: Is this person wearing earrings?
+Answer with only one word: Yes, No, or Uncertain."
+587,18776.jpg,Wearing_Earrings,No,"Carefully examine the facial image.
+Question: Is this person wearing earrings?
+Answer with only one word: Yes, No, or Uncertain."
+588,9245.jpg,Wearing_Earrings,No,"Carefully examine the facial image.
+Question: Is this person wearing earrings?
+Answer with only one word: Yes, No, or Uncertain."
+589,1673.jpg,Wearing_Earrings,No,"Carefully examine the facial image.
+Question: Is this person wearing earrings?
+Answer with only one word: Yes, No, or Uncertain."
+590,2531.jpg,Wearing_Earrings,No,"Carefully examine the facial image.
+Question: Is this person wearing earrings?
+Answer with only one word: Yes, No, or Uncertain."
+591,10433.jpg,Wearing_Earrings,No,"Carefully examine the facial image.
+Question: Is this person wearing earrings?
+Answer with only one word: Yes, No, or Uncertain."
+592,2697.jpg,Wearing_Earrings,No,"Carefully examine the facial image.
+Question: Is this person wearing earrings?
+Answer with only one word: Yes, No, or Uncertain."
+593,296.jpg,Wearing_Earrings,No,"Carefully examine the facial image.
+Question: Is this person wearing earrings?
+Answer with only one word: Yes, No, or Uncertain."
+594,10380.jpg,Wearing_Earrings,No,"Carefully examine the facial image.
+Question: Is this person wearing earrings?
+Answer with only one word: Yes, No, or Uncertain."
+595,1694.jpg,Wearing_Earrings,No,"Carefully examine the facial image.
+Question: Is this person wearing earrings?
+Answer with only one word: Yes, No, or Uncertain."
+596,13676.jpg,Wearing_Earrings,No,"Carefully examine the facial image.
+Question: Is this person wearing earrings?
+Answer with only one word: Yes, No, or Uncertain."
+597,12462.jpg,Wearing_Earrings,No,"Carefully examine the facial image.
+Question: Is this person wearing earrings?
+Answer with only one word: Yes, No, or Uncertain."
+598,10613.jpg,Wearing_Earrings,No,"Carefully examine the facial image.
+Question: Is this person wearing earrings?
+Answer with only one word: Yes, No, or Uncertain."
+599,22769.jpg,Wearing_Earrings,No,"Carefully examine the facial image.
+Question: Is this person wearing earrings?
+Answer with only one word: Yes, No, or Uncertain."
+600,19211.jpg,Wearing_Earrings,No,"Carefully examine the facial image.
+Question: Is this person wearing earrings?
+Answer with only one word: Yes, No, or Uncertain."
+601,9392.jpg,Bald,Yes,"Carefully examine the facial image.
+Question: Is this person bald?
+Answer with only one word: Yes, No, or Uncertain."
+602,11115.jpg,Bald,Yes,"Carefully examine the facial image.
+Question: Is this person bald?
+Answer with only one word: Yes, No, or Uncertain."
+603,308.jpg,Bald,Yes,"Carefully examine the facial image.
+Question: Is this person bald?
+Answer with only one word: Yes, No, or Uncertain."
+604,10237.jpg,Bald,Yes,"Carefully examine the facial image.
+Question: Is this person bald?
+Answer with only one word: Yes, No, or Uncertain."
+605,10048.jpg,Bald,Yes,"Carefully examine the facial image.
+Question: Is this person bald?
+Answer with only one word: Yes, No, or Uncertain."
+606,11464.jpg,Bald,Yes,"Carefully examine the facial image.
+Question: Is this person bald?
+Answer with only one word: Yes, No, or Uncertain."
+607,5261.jpg,Bald,Yes,"Carefully examine the facial image.
+Question: Is this person bald?
+Answer with only one word: Yes, No, or Uncertain."
+608,1459.jpg,Bald,Yes,"Carefully examine the facial image.
+Question: Is this person bald?
+Answer with only one word: Yes, No, or Uncertain."
+609,1419.jpg,Bald,Yes,"Carefully examine the facial image.
+Question: Is this person bald?
+Answer with only one word: Yes, No, or Uncertain."
+610,10163.jpg,Bald,Yes,"Carefully examine the facial image.
+Question: Is this person bald?
+Answer with only one word: Yes, No, or Uncertain."
+611,11633.jpg,Bald,Yes,"Carefully examine the facial image.
+Question: Is this person bald?
+Answer with only one word: Yes, No, or Uncertain."
+612,10462.jpg,Bald,Yes,"Carefully examine the facial image.
+Question: Is this person bald?
+Answer with only one word: Yes, No, or Uncertain."
+613,11437.jpg,Bald,Yes,"Carefully examine the facial image.
+Question: Is this person bald?
+Answer with only one word: Yes, No, or Uncertain."
+614,23037.jpg,Bald,Yes,"Carefully examine the facial image.
+Question: Is this person bald?
+Answer with only one word: Yes, No, or Uncertain."
+615,37.jpg,Bald,Yes,"Carefully examine the facial image.
+Question: Is this person bald?
+Answer with only one word: Yes, No, or Uncertain."
+616,2363.jpg,Bald,Yes,"Carefully examine the facial image.
+Question: Is this person bald?
+Answer with only one word: Yes, No, or Uncertain."
+617,10429.jpg,Bald,Yes,"Carefully examine the facial image.
+Question: Is this person bald?
+Answer with only one word: Yes, No, or Uncertain."
+618,14129.jpg,Bald,Yes,"Carefully examine the facial image.
+Question: Is this person bald?
+Answer with only one word: Yes, No, or Uncertain."
+619,26630.jpg,Bald,Yes,"Carefully examine the facial image.
+Question: Is this person bald?
+Answer with only one word: Yes, No, or Uncertain."
+620,18561.jpg,Bald,Yes,"Carefully examine the facial image.
+Question: Is this person bald?
+Answer with only one word: Yes, No, or Uncertain."
+621,9202.jpg,Bald,Yes,"Carefully examine the facial image.
+Question: Is this person bald?
+Answer with only one word: Yes, No, or Uncertain."
+622,1533.jpg,Bald,Yes,"Carefully examine the facial image.
+Question: Is this person bald?
+Answer with only one word: Yes, No, or Uncertain."
+623,9003.jpg,Bald,Yes,"Carefully examine the facial image.
+Question: Is this person bald?
+Answer with only one word: Yes, No, or Uncertain."
+624,11204.jpg,Bald,Yes,"Carefully examine the facial image.
+Question: Is this person bald?
+Answer with only one word: Yes, No, or Uncertain."
+625,17761.jpg,Bald,Yes,"Carefully examine the facial image.
+Question: Is this person bald?
+Answer with only one word: Yes, No, or Uncertain."
+626,10867.jpg,Bald,Yes,"Carefully examine the facial image.
+Question: Is this person bald?
+Answer with only one word: Yes, No, or Uncertain."
+627,2518.jpg,Bald,Yes,"Carefully examine the facial image.
+Question: Is this person bald?
+Answer with only one word: Yes, No, or Uncertain."
+628,14830.jpg,Bald,Yes,"Carefully examine the facial image.
+Question: Is this person bald?
+Answer with only one word: Yes, No, or Uncertain."
+629,14205.jpg,Bald,Yes,"Carefully examine the facial image.
+Question: Is this person bald?
+Answer with only one word: Yes, No, or Uncertain."
+630,13631.jpg,Bald,Yes,"Carefully examine the facial image.
+Question: Is this person bald?
+Answer with only one word: Yes, No, or Uncertain."
+631,2182.jpg,Bald,Yes,"Carefully examine the facial image.
+Question: Is this person bald?
+Answer with only one word: Yes, No, or Uncertain."
+632,7585.jpg,Bald,Yes,"Carefully examine the facial image.
+Question: Is this person bald?
+Answer with only one word: Yes, No, or Uncertain."
+633,10164.jpg,Bald,Yes,"Carefully examine the facial image.
+Question: Is this person bald?
+Answer with only one word: Yes, No, or Uncertain."
+634,1004.jpg,Bald,Yes,"Carefully examine the facial image.
+Question: Is this person bald?
+Answer with only one word: Yes, No, or Uncertain."
+635,9151.jpg,Bald,Yes,"Carefully examine the facial image.
+Question: Is this person bald?
+Answer with only one word: Yes, No, or Uncertain."
+636,10495.jpg,Bald,Yes,"Carefully examine the facial image.
+Question: Is this person bald?
+Answer with only one word: Yes, No, or Uncertain."
+637,11089.jpg,Bald,Yes,"Carefully examine the facial image.
+Question: Is this person bald?
+Answer with only one word: Yes, No, or Uncertain."
+638,5941.jpg,Bald,Yes,"Carefully examine the facial image.
+Question: Is this person bald?
+Answer with only one word: Yes, No, or Uncertain."
+639,13828.jpg,Bald,Yes,"Carefully examine the facial image.
+Question: Is this person bald?
+Answer with only one word: Yes, No, or Uncertain."
+640,343.jpg,Bald,Yes,"Carefully examine the facial image.
+Question: Is this person bald?
+Answer with only one word: Yes, No, or Uncertain."
+641,27485.jpg,Bald,Yes,"Carefully examine the facial image.
+Question: Is this person bald?
+Answer with only one word: Yes, No, or Uncertain."
+642,11485.jpg,Bald,Yes,"Carefully examine the facial image.
+Question: Is this person bald?
+Answer with only one word: Yes, No, or Uncertain."
+643,9368.jpg,Bald,Yes,"Carefully examine the facial image.
+Question: Is this person bald?
+Answer with only one word: Yes, No, or Uncertain."
+644,9174.jpg,Bald,Yes,"Carefully examine the facial image.
+Question: Is this person bald?
+Answer with only one word: Yes, No, or Uncertain."
+645,2200.jpg,Bald,Yes,"Carefully examine the facial image.
+Question: Is this person bald?
+Answer with only one word: Yes, No, or Uncertain."
+646,27011.jpg,Bald,Yes,"Carefully examine the facial image.
+Question: Is this person bald?
+Answer with only one word: Yes, No, or Uncertain."
+647,9155.jpg,Bald,Yes,"Carefully examine the facial image.
+Question: Is this person bald?
+Answer with only one word: Yes, No, or Uncertain."
+648,28839.jpg,Bald,Yes,"Carefully examine the facial image.
+Question: Is this person bald?
+Answer with only one word: Yes, No, or Uncertain."
+649,514.jpg,Bald,Yes,"Carefully examine the facial image.
+Question: Is this person bald?
+Answer with only one word: Yes, No, or Uncertain."
+650,10106.jpg,Bald,Yes,"Carefully examine the facial image.
+Question: Is this person bald?
+Answer with only one word: Yes, No, or Uncertain."
+651,11355.jpg,Bald,Yes,"Carefully examine the facial image.
+Question: Is this person bald?
+Answer with only one word: Yes, No, or Uncertain."
+652,23344.jpg,Bald,Yes,"Carefully examine the facial image.
+Question: Is this person bald?
+Answer with only one word: Yes, No, or Uncertain."
+653,5527.jpg,Bald,Yes,"Carefully examine the facial image.
+Question: Is this person bald?
+Answer with only one word: Yes, No, or Uncertain."
+654,2440.jpg,Bald,Yes,"Carefully examine the facial image.
+Question: Is this person bald?
+Answer with only one word: Yes, No, or Uncertain."
+655,17097.jpg,Bald,Yes,"Carefully examine the facial image.
+Question: Is this person bald?
+Answer with only one word: Yes, No, or Uncertain."
+656,21386.jpg,Bald,Yes,"Carefully examine the facial image.
+Question: Is this person bald?
+Answer with only one word: Yes, No, or Uncertain."
+657,5118.jpg,Bald,Yes,"Carefully examine the facial image.
+Question: Is this person bald?
+Answer with only one word: Yes, No, or Uncertain."
+658,761.jpg,Bald,Yes,"Carefully examine the facial image.
+Question: Is this person bald?
+Answer with only one word: Yes, No, or Uncertain."
+659,14453.jpg,Bald,Yes,"Carefully examine the facial image.
+Question: Is this person bald?
+Answer with only one word: Yes, No, or Uncertain."
+660,10300.jpg,Bald,Yes,"Carefully examine the facial image.
+Question: Is this person bald?
+Answer with only one word: Yes, No, or Uncertain."
+661,1558.jpg,Bald,Yes,"Carefully examine the facial image.
+Question: Is this person bald?
+Answer with only one word: Yes, No, or Uncertain."
+662,13690.jpg,Bald,Yes,"Carefully examine the facial image.
+Question: Is this person bald?
+Answer with only one word: Yes, No, or Uncertain."
+663,2810.jpg,Bald,Yes,"Carefully examine the facial image.
+Question: Is this person bald?
+Answer with only one word: Yes, No, or Uncertain."
+664,138.jpg,Bald,Yes,"Carefully examine the facial image.
+Question: Is this person bald?
+Answer with only one word: Yes, No, or Uncertain."
+665,2316.jpg,Bald,Yes,"Carefully examine the facial image.
+Question: Is this person bald?
+Answer with only one word: Yes, No, or Uncertain."
+666,9331.jpg,Bald,Yes,"Carefully examine the facial image.
+Question: Is this person bald?
+Answer with only one word: Yes, No, or Uncertain."
+667,24150.jpg,Bald,Yes,"Carefully examine the facial image.
+Question: Is this person bald?
+Answer with only one word: Yes, No, or Uncertain."
+668,347.jpg,Bald,Yes,"Carefully examine the facial image.
+Question: Is this person bald?
+Answer with only one word: Yes, No, or Uncertain."
+669,11602.jpg,Bald,Yes,"Carefully examine the facial image.
+Question: Is this person bald?
+Answer with only one word: Yes, No, or Uncertain."
+670,22350.jpg,Bald,Yes,"Carefully examine the facial image.
+Question: Is this person bald?
+Answer with only one word: Yes, No, or Uncertain."
+671,16693.jpg,Bald,Yes,"Carefully examine the facial image.
+Question: Is this person bald?
+Answer with only one word: Yes, No, or Uncertain."
+672,10433.jpg,Bald,Yes,"Carefully examine the facial image.
+Question: Is this person bald?
+Answer with only one word: Yes, No, or Uncertain."
+673,10308.jpg,Bald,Yes,"Carefully examine the facial image.
+Question: Is this person bald?
+Answer with only one word: Yes, No, or Uncertain."
+674,14807.jpg,Bald,Yes,"Carefully examine the facial image.
+Question: Is this person bald?
+Answer with only one word: Yes, No, or Uncertain."
+675,10207.jpg,Bald,Yes,"Carefully examine the facial image.
+Question: Is this person bald?
+Answer with only one word: Yes, No, or Uncertain."
+676,12630.jpg,Bald,Yes,"Carefully examine the facial image.
+Question: Is this person bald?
+Answer with only one word: Yes, No, or Uncertain."
+677,10847.jpg,Bald,Yes,"Carefully examine the facial image.
+Question: Is this person bald?
+Answer with only one word: Yes, No, or Uncertain."
+678,28416.jpg,Bald,Yes,"Carefully examine the facial image.
+Question: Is this person bald?
+Answer with only one word: Yes, No, or Uncertain."
+679,28461.jpg,Bald,Yes,"Carefully examine the facial image.
+Question: Is this person bald?
+Answer with only one word: Yes, No, or Uncertain."
+680,9932.jpg,Bald,Yes,"Carefully examine the facial image.
+Question: Is this person bald?
+Answer with only one word: Yes, No, or Uncertain."
+681,10637.jpg,Bald,Yes,"Carefully examine the facial image.
+Question: Is this person bald?
+Answer with only one word: Yes, No, or Uncertain."
+682,10260.jpg,Bald,Yes,"Carefully examine the facial image.
+Question: Is this person bald?
+Answer with only one word: Yes, No, or Uncertain."
+683,22288.jpg,Bald,Yes,"Carefully examine the facial image.
+Question: Is this person bald?
+Answer with only one word: Yes, No, or Uncertain."
+684,10524.jpg,Bald,Yes,"Carefully examine the facial image.
+Question: Is this person bald?
+Answer with only one word: Yes, No, or Uncertain."
+685,11840.jpg,Bald,Yes,"Carefully examine the facial image.
+Question: Is this person bald?
+Answer with only one word: Yes, No, or Uncertain."
+686,9079.jpg,Bald,Yes,"Carefully examine the facial image.
+Question: Is this person bald?
+Answer with only one word: Yes, No, or Uncertain."
+687,26930.jpg,Bald,Yes,"Carefully examine the facial image.
+Question: Is this person bald?
+Answer with only one word: Yes, No, or Uncertain."
+688,10657.jpg,Bald,Yes,"Carefully examine the facial image.
+Question: Is this person bald?
+Answer with only one word: Yes, No, or Uncertain."
+689,11010.jpg,Bald,Yes,"Carefully examine the facial image.
+Question: Is this person bald?
+Answer with only one word: Yes, No, or Uncertain."
+690,19981.jpg,Bald,Yes,"Carefully examine the facial image.
+Question: Is this person bald?
+Answer with only one word: Yes, No, or Uncertain."
+691,9314.jpg,Bald,Yes,"Carefully examine the facial image.
+Question: Is this person bald?
+Answer with only one word: Yes, No, or Uncertain."
+692,6178.jpg,Bald,Yes,"Carefully examine the facial image.
+Question: Is this person bald?
+Answer with only one word: Yes, No, or Uncertain."
+693,23139.jpg,Bald,Yes,"Carefully examine the facial image.
+Question: Is this person bald?
+Answer with only one word: Yes, No, or Uncertain."
+694,64.jpg,Bald,Yes,"Carefully examine the facial image.
+Question: Is this person bald?
+Answer with only one word: Yes, No, or Uncertain."
+695,10406.jpg,Bald,Yes,"Carefully examine the facial image.
+Question: Is this person bald?
+Answer with only one word: Yes, No, or Uncertain."
+696,2476.jpg,Bald,Yes,"Carefully examine the facial image.
+Question: Is this person bald?
+Answer with only one word: Yes, No, or Uncertain."
+697,115.jpg,Bald,Yes,"Carefully examine the facial image.
+Question: Is this person bald?
+Answer with only one word: Yes, No, or Uncertain."
+698,2542.jpg,Bald,Yes,"Carefully examine the facial image.
+Question: Is this person bald?
+Answer with only one word: Yes, No, or Uncertain."
+699,16388.jpg,Bald,Yes,"Carefully examine the facial image.
+Question: Is this person bald?
+Answer with only one word: Yes, No, or Uncertain."
+700,23740.jpg,Bald,Yes,"Carefully examine the facial image.
+Question: Is this person bald?
+Answer with only one word: Yes, No, or Uncertain."
+701,10069.jpg,Bald,No,"Carefully examine the facial image.
+Question: Is this person bald?
+Answer with only one word: Yes, No, or Uncertain."
+702,2206.jpg,Bald,No,"Carefully examine the facial image.
+Question: Is this person bald?
+Answer with only one word: Yes, No, or Uncertain."
+703,10923.jpg,Bald,No,"Carefully examine the facial image.
+Question: Is this person bald?
+Answer with only one word: Yes, No, or Uncertain."
+704,14226.jpg,Bald,No,"Carefully examine the facial image.
+Question: Is this person bald?
+Answer with only one word: Yes, No, or Uncertain."
+705,11640.jpg,Bald,No,"Carefully examine the facial image.
+Question: Is this person bald?
+Answer with only one word: Yes, No, or Uncertain."
+706,2669.jpg,Bald,No,"Carefully examine the facial image.
+Question: Is this person bald?
+Answer with only one word: Yes, No, or Uncertain."
+707,14859.jpg,Bald,No,"Carefully examine the facial image.
+Question: Is this person bald?
+Answer with only one word: Yes, No, or Uncertain."
+708,2509.jpg,Bald,No,"Carefully examine the facial image.
+Question: Is this person bald?
+Answer with only one word: Yes, No, or Uncertain."
+709,2381.jpg,Bald,No,"Carefully examine the facial image.
+Question: Is this person bald?
+Answer with only one word: Yes, No, or Uncertain."
+710,10145.jpg,Bald,No,"Carefully examine the facial image.
+Question: Is this person bald?
+Answer with only one word: Yes, No, or Uncertain."
+711,10443.jpg,Bald,No,"Carefully examine the facial image.
+Question: Is this person bald?
+Answer with only one word: Yes, No, or Uncertain."
+712,9375.jpg,Bald,No,"Carefully examine the facial image.
+Question: Is this person bald?
+Answer with only one word: Yes, No, or Uncertain."
+713,33.jpg,Bald,No,"Carefully examine the facial image.
+Question: Is this person bald?
+Answer with only one word: Yes, No, or Uncertain."
+714,10842.jpg,Bald,No,"Carefully examine the facial image.
+Question: Is this person bald?
+Answer with only one word: Yes, No, or Uncertain."
+715,9520.jpg,Bald,No,"Carefully examine the facial image.
+Question: Is this person bald?
+Answer with only one word: Yes, No, or Uncertain."
+716,10420.jpg,Bald,No,"Carefully examine the facial image.
+Question: Is this person bald?
+Answer with only one word: Yes, No, or Uncertain."
+717,1647.jpg,Bald,No,"Carefully examine the facial image.
+Question: Is this person bald?
+Answer with only one word: Yes, No, or Uncertain."
+718,2679.jpg,Bald,No,"Carefully examine the facial image.
+Question: Is this person bald?
+Answer with only one word: Yes, No, or Uncertain."
+719,9359.jpg,Bald,No,"Carefully examine the facial image.
+Question: Is this person bald?
+Answer with only one word: Yes, No, or Uncertain."
+720,9302.jpg,Bald,No,"Carefully examine the facial image.
+Question: Is this person bald?
+Answer with only one word: Yes, No, or Uncertain."
+721,2817.jpg,Bald,No,"Carefully examine the facial image.
+Question: Is this person bald?
+Answer with only one word: Yes, No, or Uncertain."
+722,28624.jpg,Bald,No,"Carefully examine the facial image.
+Question: Is this person bald?
+Answer with only one word: Yes, No, or Uncertain."
+723,10436.jpg,Bald,No,"Carefully examine the facial image.
+Question: Is this person bald?
+Answer with only one word: Yes, No, or Uncertain."
+724,2944.jpg,Bald,No,"Carefully examine the facial image.
+Question: Is this person bald?
+Answer with only one word: Yes, No, or Uncertain."
+725,16254.jpg,Bald,No,"Carefully examine the facial image.
+Question: Is this person bald?
+Answer with only one word: Yes, No, or Uncertain."
+726,2705.jpg,Bald,No,"Carefully examine the facial image.
+Question: Is this person bald?
+Answer with only one word: Yes, No, or Uncertain."
+727,86.jpg,Bald,No,"Carefully examine the facial image.
+Question: Is this person bald?
+Answer with only one word: Yes, No, or Uncertain."
+728,22938.jpg,Bald,No,"Carefully examine the facial image.
+Question: Is this person bald?
+Answer with only one word: Yes, No, or Uncertain."
+729,10564.jpg,Bald,No,"Carefully examine the facial image.
+Question: Is this person bald?
+Answer with only one word: Yes, No, or Uncertain."
+730,23336.jpg,Bald,No,"Carefully examine the facial image.
+Question: Is this person bald?
+Answer with only one word: Yes, No, or Uncertain."
+731,3309.jpg,Bald,No,"Carefully examine the facial image.
+Question: Is this person bald?
+Answer with only one word: Yes, No, or Uncertain."
+732,4252.jpg,Bald,No,"Carefully examine the facial image.
+Question: Is this person bald?
+Answer with only one word: Yes, No, or Uncertain."
+733,9077.jpg,Bald,No,"Carefully examine the facial image.
+Question: Is this person bald?
+Answer with only one word: Yes, No, or Uncertain."
+734,3945.jpg,Bald,No,"Carefully examine the facial image.
+Question: Is this person bald?
+Answer with only one word: Yes, No, or Uncertain."
+735,27883.jpg,Bald,No,"Carefully examine the facial image.
+Question: Is this person bald?
+Answer with only one word: Yes, No, or Uncertain."
+736,26107.jpg,Bald,No,"Carefully examine the facial image.
+Question: Is this person bald?
+Answer with only one word: Yes, No, or Uncertain."
+737,21495.jpg,Bald,No,"Carefully examine the facial image.
+Question: Is this person bald?
+Answer with only one word: Yes, No, or Uncertain."
+738,29617.jpg,Bald,No,"Carefully examine the facial image.
+Question: Is this person bald?
+Answer with only one word: Yes, No, or Uncertain."
+739,2896.jpg,Bald,No,"Carefully examine the facial image.
+Question: Is this person bald?
+Answer with only one word: Yes, No, or Uncertain."
+740,8.jpg,Bald,No,"Carefully examine the facial image.
+Question: Is this person bald?
+Answer with only one word: Yes, No, or Uncertain."
+741,2710.jpg,Bald,No,"Carefully examine the facial image.
+Question: Is this person bald?
+Answer with only one word: Yes, No, or Uncertain."
+742,29817.jpg,Bald,No,"Carefully examine the facial image.
+Question: Is this person bald?
+Answer with only one word: Yes, No, or Uncertain."
+743,9046.jpg,Bald,No,"Carefully examine the facial image.
+Question: Is this person bald?
+Answer with only one word: Yes, No, or Uncertain."
+744,2153.jpg,Bald,No,"Carefully examine the facial image.
+Question: Is this person bald?
+Answer with only one word: Yes, No, or Uncertain."
+745,2559.jpg,Bald,No,"Carefully examine the facial image.
+Question: Is this person bald?
+Answer with only one word: Yes, No, or Uncertain."
+746,10798.jpg,Bald,No,"Carefully examine the facial image.
+Question: Is this person bald?
+Answer with only one word: Yes, No, or Uncertain."
+747,388.jpg,Bald,No,"Carefully examine the facial image.
+Question: Is this person bald?
+Answer with only one word: Yes, No, or Uncertain."
+748,10165.jpg,Bald,No,"Carefully examine the facial image.
+Question: Is this person bald?
+Answer with only one word: Yes, No, or Uncertain."
+749,11018.jpg,Bald,No,"Carefully examine the facial image.
+Question: Is this person bald?
+Answer with only one word: Yes, No, or Uncertain."
+750,29357.jpg,Bald,No,"Carefully examine the facial image.
+Question: Is this person bald?
+Answer with only one word: Yes, No, or Uncertain."
+751,2208.jpg,Bald,No,"Carefully examine the facial image.
+Question: Is this person bald?
+Answer with only one word: Yes, No, or Uncertain."
+752,29553.jpg,Bald,No,"Carefully examine the facial image.
+Question: Is this person bald?
+Answer with only one word: Yes, No, or Uncertain."
+753,7798.jpg,Bald,No,"Carefully examine the facial image.
+Question: Is this person bald?
+Answer with only one word: Yes, No, or Uncertain."
+754,9361.jpg,Bald,No,"Carefully examine the facial image.
+Question: Is this person bald?
+Answer with only one word: Yes, No, or Uncertain."
+755,9218.jpg,Bald,No,"Carefully examine the facial image.
+Question: Is this person bald?
+Answer with only one word: Yes, No, or Uncertain."
+756,17197.jpg,Bald,No,"Carefully examine the facial image.
+Question: Is this person bald?
+Answer with only one word: Yes, No, or Uncertain."
+757,9565.jpg,Bald,No,"Carefully examine the facial image.
+Question: Is this person bald?
+Answer with only one word: Yes, No, or Uncertain."
+758,12795.jpg,Bald,No,"Carefully examine the facial image.
+Question: Is this person bald?
+Answer with only one word: Yes, No, or Uncertain."
+759,3789.jpg,Bald,No,"Carefully examine the facial image.
+Question: Is this person bald?
+Answer with only one word: Yes, No, or Uncertain."
+760,10934.jpg,Bald,No,"Carefully examine the facial image.
+Question: Is this person bald?
+Answer with only one word: Yes, No, or Uncertain."
+761,2563.jpg,Bald,No,"Carefully examine the facial image.
+Question: Is this person bald?
+Answer with only one word: Yes, No, or Uncertain."
+762,11440.jpg,Bald,No,"Carefully examine the facial image.
+Question: Is this person bald?
+Answer with only one word: Yes, No, or Uncertain."
+763,10855.jpg,Bald,No,"Carefully examine the facial image.
+Question: Is this person bald?
+Answer with only one word: Yes, No, or Uncertain."
+764,10592.jpg,Bald,No,"Carefully examine the facial image.
+Question: Is this person bald?
+Answer with only one word: Yes, No, or Uncertain."
+765,10104.jpg,Bald,No,"Carefully examine the facial image.
+Question: Is this person bald?
+Answer with only one word: Yes, No, or Uncertain."
+766,3606.jpg,Bald,No,"Carefully examine the facial image.
+Question: Is this person bald?
+Answer with only one word: Yes, No, or Uncertain."
+767,18125.jpg,Bald,No,"Carefully examine the facial image.
+Question: Is this person bald?
+Answer with only one word: Yes, No, or Uncertain."
+768,1327.jpg,Bald,No,"Carefully examine the facial image.
+Question: Is this person bald?
+Answer with only one word: Yes, No, or Uncertain."
+769,1724.jpg,Bald,No,"Carefully examine the facial image.
+Question: Is this person bald?
+Answer with only one word: Yes, No, or Uncertain."
+770,135.jpg,Bald,No,"Carefully examine the facial image.
+Question: Is this person bald?
+Answer with only one word: Yes, No, or Uncertain."
+771,9078.jpg,Bald,No,"Carefully examine the facial image.
+Question: Is this person bald?
+Answer with only one word: Yes, No, or Uncertain."
+772,2766.jpg,Bald,No,"Carefully examine the facial image.
+Question: Is this person bald?
+Answer with only one word: Yes, No, or Uncertain."
+773,283.jpg,Bald,No,"Carefully examine the facial image.
+Question: Is this person bald?
+Answer with only one word: Yes, No, or Uncertain."
+774,2013.jpg,Bald,No,"Carefully examine the facial image.
+Question: Is this person bald?
+Answer with only one word: Yes, No, or Uncertain."
+775,2101.jpg,Bald,No,"Carefully examine the facial image.
+Question: Is this person bald?
+Answer with only one word: Yes, No, or Uncertain."
+776,22417.jpg,Bald,No,"Carefully examine the facial image.
+Question: Is this person bald?
+Answer with only one word: Yes, No, or Uncertain."
+777,3253.jpg,Bald,No,"Carefully examine the facial image.
+Question: Is this person bald?
+Answer with only one word: Yes, No, or Uncertain."
+778,2254.jpg,Bald,No,"Carefully examine the facial image.
+Question: Is this person bald?
+Answer with only one word: Yes, No, or Uncertain."
+779,9194.jpg,Bald,No,"Carefully examine the facial image.
+Question: Is this person bald?
+Answer with only one word: Yes, No, or Uncertain."
+780,2869.jpg,Bald,No,"Carefully examine the facial image.
+Question: Is this person bald?
+Answer with only one word: Yes, No, or Uncertain."
+781,2781.jpg,Bald,No,"Carefully examine the facial image.
+Question: Is this person bald?
+Answer with only one word: Yes, No, or Uncertain."
+782,2253.jpg,Bald,No,"Carefully examine the facial image.
+Question: Is this person bald?
+Answer with only one word: Yes, No, or Uncertain."
+783,252.jpg,Bald,No,"Carefully examine the facial image.
+Question: Is this person bald?
+Answer with only one word: Yes, No, or Uncertain."
+784,9058.jpg,Bald,No,"Carefully examine the facial image.
+Question: Is this person bald?
+Answer with only one word: Yes, No, or Uncertain."
+785,3599.jpg,Bald,No,"Carefully examine the facial image.
+Question: Is this person bald?
+Answer with only one word: Yes, No, or Uncertain."
+786,10360.jpg,Bald,No,"Carefully examine the facial image.
+Question: Is this person bald?
+Answer with only one word: Yes, No, or Uncertain."
+787,23126.jpg,Bald,No,"Carefully examine the facial image.
+Question: Is this person bald?
+Answer with only one word: Yes, No, or Uncertain."
+788,10610.jpg,Bald,No,"Carefully examine the facial image.
+Question: Is this person bald?
+Answer with only one word: Yes, No, or Uncertain."
+789,11479.jpg,Bald,No,"Carefully examine the facial image.
+Question: Is this person bald?
+Answer with only one word: Yes, No, or Uncertain."
+790,18081.jpg,Bald,No,"Carefully examine the facial image.
+Question: Is this person bald?
+Answer with only one word: Yes, No, or Uncertain."
+791,18312.jpg,Bald,No,"Carefully examine the facial image.
+Question: Is this person bald?
+Answer with only one word: Yes, No, or Uncertain."
+792,2825.jpg,Bald,No,"Carefully examine the facial image.
+Question: Is this person bald?
+Answer with only one word: Yes, No, or Uncertain."
+793,4836.jpg,Bald,No,"Carefully examine the facial image.
+Question: Is this person bald?
+Answer with only one word: Yes, No, or Uncertain."
+794,10342.jpg,Bald,No,"Carefully examine the facial image.
+Question: Is this person bald?
+Answer with only one word: Yes, No, or Uncertain."
+795,11353.jpg,Bald,No,"Carefully examine the facial image.
+Question: Is this person bald?
+Answer with only one word: Yes, No, or Uncertain."
+796,23.jpg,Bald,No,"Carefully examine the facial image.
+Question: Is this person bald?
+Answer with only one word: Yes, No, or Uncertain."
+797,483.jpg,Bald,No,"Carefully examine the facial image.
+Question: Is this person bald?
+Answer with only one word: Yes, No, or Uncertain."
+798,7240.jpg,Bald,No,"Carefully examine the facial image.
+Question: Is this person bald?
+Answer with only one word: Yes, No, or Uncertain."
+799,244.jpg,Bald,No,"Carefully examine the facial image.
+Question: Is this person bald?
+Answer with only one word: Yes, No, or Uncertain."
+800,9020.jpg,Bald,No,"Carefully examine the facial image.
+Question: Is this person bald?
+Answer with only one word: Yes, No, or Uncertain."

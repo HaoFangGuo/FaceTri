@@ -1,0 +1,28 @@
+# Dataset (CelebA-HQ is restricted to non-commercial research/educational use;
+# not redistributed here — see data/README.md for source)
+data/CelebA-HQ-img/
+data/CelebAMask-HQ-mask-anno/
+data/CelebA-HQ-to-CelebA-mapping.txt
+data/CelebAMask-HQ-attribute-anno.txt
+data/CelebAMask-HQ-pose-anno.txt
+data/wrinkles_source.txt
+data/old_celeba_benchmark.csv
+data/image_for_wrinkles/
+
+# Selected benchmark images (copied out of CelebA-HQ; uploaded to compute server separately)
+data/benchmark_images/
+benchmark_images/
+
+# Runtime outputs from re-running inference/evaluation locally
+results/predictions/prediction.csv
+results/tables/evaluation_results.csv
+
+# Server run logs (not needed for reproducing the analysis, just job traces)
+*.log
+nohup.out
+
+# IDE / env
+.idea/
+.venv/
+__pycache__/
+*.pyc

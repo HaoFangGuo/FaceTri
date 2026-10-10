@@ -1,0 +1,13 @@
+model,attribute,abstention_rate,n_abstained,n_answered,entropy_abstained,entropy_answered,entropy_gap,r_pb,p_pb,p_mannwhitney
+qwen,Crows_Feet,0.0,0,200,,0.3121,,,,
+qwen,Forehead_Wrinkles,0.0,0,200,,0.2387,,,,
+qwen,Nasolabial_Folds,0.0,0,200,,0.2708,,,,
+qwen,ALL,0.0,0,600,,0.2739,,,,
+internvl3,Crows_Feet,0.82,164,36,0.347,0.153,0.194,0.1714,0.015213333857606905,0.007836269588867807
+internvl3,Forehead_Wrinkles,0.405,81,119,0.3173,0.1851,0.1322,0.1612,0.022625669042667454,0.011551764593533511
+internvl3,Nasolabial_Folds,0.545,109,91,0.2695,0.2724,-0.0029,-0.0034,0.9617482512693741,0.51981702029134
+internvl3,ALL,0.59,354,246,0.3164,0.2127,0.1037,0.1214,0.002898252141227194,0.0014854801114039709
+molmo2o,Crows_Feet,0.0,0,200,,0.3121,,,,
+molmo2o,Forehead_Wrinkles,0.0,0,200,,0.2387,,,,
+molmo2o,Nasolabial_Folds,0.0,0,200,,0.2708,,,,
+molmo2o,ALL,0.0,0,600,,0.2739,,,,

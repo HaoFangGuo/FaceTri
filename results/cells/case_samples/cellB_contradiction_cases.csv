@@ -1,0 +1,9 @@
+case_id,attribute,image_name,image_path,annotator_vote,majority_label,original_prediction,new_answer,is_templated,reason
+B003,Crows_Feet,147.jpg,benchmark_images/147.jpg,3/3,Yes,Uncertain,No,True,The person's eyes are open and there is no visible sign of crow's feet around the eyes.
+B009,Crows_Feet,293.jpg,benchmark_images/293.jpg,3/3,Yes,Uncertain,No,True,"The person's eyes are open, and there is no visible sign of crow's feet around the eyes."
+B012,Crows_Feet,399.jpg,benchmark_images/399.jpg,3/3,Yes,Uncertain,No,False,The person's eyes are open and there is no visible indication of crow's feet around the eyes.
+B014,Crows_Feet,71.jpg,benchmark_images/71.jpg,3/3,Yes,Uncertain,No,True,The person's eyes are open and there is no visible sign of crow's feet around the eyes.
+B016,Forehead_Wrinkles,134.jpg,benchmark_images/134.jpg,3/3,Yes,Uncertain,No,True,The forehead appears smooth without visible wrinkles.
+B020,Forehead_Wrinkles,281.jpg,benchmark_images/281.jpg,3/3,Yes,Uncertain,Uncertain,False,The image does not provide enough detail to clearly determine the presence of forehead wrinkles.
+B021,Forehead_Wrinkles,287.jpg,benchmark_images/287.jpg,3/3,Yes,Uncertain,No,True,The forehead appears smooth without visible wrinkles.
+B024,Forehead_Wrinkles,36.jpg,benchmark_images/36.jpg,3/3,Yes,Uncertain,No,True,The forehead appears smooth without visible wrinkles.
